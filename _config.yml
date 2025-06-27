@@ -1,0 +1,54 @@
+##########
+# comentarios
+# Jekyll Digital Collection Generator, designed for GitHub Pages
+# https://github.com/rominicky/comentarios
+##########
+
+
+
+#url: "https://rominicky.github.io/comentarios" 
+#baseurl: "/comentarios"
+
+# location of code, the full url to your github repository
+source-code: https://github.com/rominicky/comentarios
+
+##########
+# SITE SETTINGS
+#
+# title of site appears in banner
+title: Edición digital de Comentarios 
+
+# this description might appear in search result lists, keep around 160 characters max
+description: "Edición digital de Comentarios de Alvar Nunez Cabeza de Vaca, y gobernador del Rio de la Plata"
+keywords: historia digital; edición digital; Álvar Núñez Cabeza de Vaca
+# creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
+author: Romina De León
+
+
+
+##########
+rrss:
+  email: "romideleon@gmail.com"
+  facebook: "https://www.facebook.com/rominicky.dl/"
+  twitter: https://twitter.com/rominickyDL
+  github: https://github.com/rominicky
+  #discord: https://discord.gg/9q2J6a7
+  license_name: Licencia Creative Commons CC BY-NC-SA 4.0
+  license_link: https://creativecommons.org/licenses/by-nc-sa/4.0/
+##########
+
+theme_color: light
+
+# Build settings
+markdown: kramdown
+
+include:
+  - favicon.ico
+  
+collections:
+    pages:
+      output: true
+    recursos:
+      output: true
+    txtxpagina:
+      output: true
