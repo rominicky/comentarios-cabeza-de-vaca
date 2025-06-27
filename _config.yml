@@ -1,16 +1,16 @@
 ##########
 # comentarios
 # Jekyll Digital Collection Generator, designed for GitHub Pages
-# https://github.com/rominicky/comentarios
+# https://github.com/rominicky/comentarios-cabeza-de-vaca
 ##########
 
 
 
-#url: "https://rominicky.github.io/comentarios" 
-#baseurl: "/comentarios"
+#url: "https://rominicky.github.io/comentarios-cabeza-de-vaca" 
+#baseurl: "/comentarios-cabeza-de-vaca"
 
 # location of code, the full url to your github repository
-source-code: https://github.com/rominicky/comentarios
+source-code: https://github.com/rominicky/comentarios-cabeza-de-vaca
 
 ##########
 # SITE SETTINGS
