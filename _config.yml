@@ -6,8 +6,8 @@
 
 
 
-#url: "https://rominicky.github.io/comentarios-cabeza-de-vaca" 
-#baseurl: "/comentarios-cabeza-de-vaca"
+url: "https://rominicky.github.io/comentarios-cabeza-de-vaca" 
+baseurl: "/comentarios-cabeza-de-vaca"
 
 # location of code, the full url to your github repository
 source-code: https://github.com/rominicky/comentarios-cabeza-de-vaca
