@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+            <idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <pb n="21" facs="21.jpg"/>
+      <div type="capitulo" n="20">
+        <head>CAPÍTULO XX</head>
+        <head type="titulocapitulo">Cómo el gobernador pidió información de la querella</head>
+        <p>Asimismo se <note ana="Los nativos presentaron sus quejas por los maltratos recibidos por los colonizadores previos. Recordar que Cabeza de Vaca fue enviado con disposiciones reales de control y ordenamiento del territorio y sus comunidades.">querellaron</note> los indios principales al gobernador de los indios <persName ref="https://pueblosoriginarios.com/sur/chaco/guaikuru/guaikuru.html">guaycurúes</persName> que les habían desposeído de su propia tierra, y les habían muerto sus padres y hermanos y parientes; y pues ellos eran <note ana="Habla de la cristianización que se realizaba a las comunidades nativas americanas.">cristianos y vasallos</note> de <persName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/20">Su Majestad</persName>, los amparase y restituyese en las tierras que les tenían tomadas y ocupadas los indios, porque en los montes y en las lagunas y ríos de ellas tenían sus cazas y pesquerías, y sacaban miel, conque se mantenían ellos y sus hijos y mujeres, y lo traían a los cristianos; porque después que a aquella tierra fue el <note ana="Refiere a Álvar Núñez Cabeza de Vaca">gobernador</note>, se les habían hecho las dichas fuerzas y muertes. Vista por el gobernador la querella de los indios principales, los nombres de los cuales son: <note ana="Originarios que fueron cristianizados y bautizados con estos nombres hispanizados.">Pedro de Mendoza</note>, y <persName ref="Guaraní bautizado con este nombre.">Juan de Salazar Cupirati</persName>, y <persName ref="Guaraní bautizado con este nombre.">Francisco Ruiz Mayraru</persName>, y <persName ref="Guaraní bautizado con este nombre.">Lorenzo Moquiraci</persName>, y <persName ref="Guaraní bautizado con este nombre.">Gonzalo Mayraru</persName>, y otros <note ana="Refiere a la cristianización de originarios.">cristianos nuevamente convertidos</note>, porque se supiese la verdad de lo contenido en su querella y se hiciese y procediese conforme a derecho, por las <note ana="De esta manera se denominaba a los intermediarios de la comunicación entre españoles e indios.">lenguas intérpretes</note> el gobernador les dijo que trujesen información de lo que decían; la cual dieron y presentaron de muchos testigos cristianos españoles, que habían visto y se hallaron presentes en la tierra cuando los <persName ref="https://pueblosoriginarios.com/sur/chaco/guaikuru/guaikuru.html">indios guaycurúes</persName> les habían hecho los daños y les habían echado de la tierra, despoblando un pueblo que tenían muy grande y cercado de fuerte palizada, que se llama <placeName key="Caaguazú">Caguazu</placeName>, y recebida la dicha información, el gobernador mandó llamar y juntar los religiosos y clérigos que allí estaban, conviene a saber: el comisario fray <persName ref="https://historia-hispanica.rah.es/biografias/4146-bernardo-de-armenta-o-armentia">Bernaldo de Armenia</persName> y fray <persName ref="https://historia-hispanica.rah.es/biografias/26055-alonso-lebron">Alonso Lebrón</persName>, su compañero, y el bachiller <persName ana="Bachiller Martin de Armencia, clérigo, vecino de Jeréz de la Frontera.">Martín de Armenia</persName> y <persName ref="https://historia-hispanica.rah.es/biografias/3397-francisco-de-andrada">Francisco de Andrada</persName>, clérigos, para que viesen la información y diesen su parescer si la guerra se les podía hacer a los indios guaycurúes justamente. Y habiendo dado su parescer, firmado de sus nombres, que con mano armada podía ir contra los dichos indios a les hacer la guerra, pues eran enemigos capitales, el gobernador mandó que dos españoles que entendían la lengua de los indios guaycurúes, con un clérigo llamado <persName ana="Bachiller Martin de Armencia, clérigo, vecino de Jeréz de la Frontera.">Martín de Armenia</persName>, acompañados de cincuenta españoles, fuesen a buscar los indios guaycurúes, y a les requerir diesen la obediencia a <persName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/20">Su Majestad</persName> y se apartasen de la guerra que hacían a los <persName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/602">indios guaraníes</persName>, y los dejasen andar libres por sus tierras, gozando de las cazas y pesquerías de ellas; y que de esta manera los temía por amigos y los favorescería; y donde no, lo contrario haciendo, que les haría la guerra como a enemigos capitales. Y así se partieron los susodichos, encargándoles tuviesen especial cuidado de les hacer los apercibimientos una, y dos, y tres veces con toda templanza. E idos, dende a ocho días volvieron, y dijeron y dieron fe que hicieron el dicho apercibimiento a los indios, y que hecho, se pusieron en armas contra ellos, diciendo que no querían dar la obediencia ni ser amigos de los españoles ni de los indios guaraníes, y que se fuesen luego de su tierra; y ansí, les tiraron muchas flechas, y vinieron de ellos heridos; y visto lo susodicho por el gobernador, mandó apercebir hasta doscientos hombres arcabuceros y ballesteros, y doce de caballo, y con ellos partió de la ciudad de la <placeName key="Asunción">Ascensión</placeName>, jueves 12 días del mes de julio de 1542 años. Y porque había de pasar de la otra parte del <placeName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/421">río del Paraguay</placeName>, mandó que fuesen dos bergantines para pasar la gente y caballos, y que aguardasen en un lugar de indios que está en la ribera del dicho río del Paraguay, de la generación de los guaraníes, que se llama <placeName ref="https://es.wikipedia.org/wiki/Limpio_(Paraguay)#">Tapua</placeName>, que su principal se llama <persName ana="Cacique de Capua, o principal Moquirací del puerto de Tapúa.">Mormocen</persName>, un indio muy valiente y temido en aquella tierra, que era ya cristiano, y se llamaba <persName ana="Guaraní cristianizado.">Lorenzo</persName>, cuyo era lugar de <placeName key="Caaguazú">Caguazu</placeName>, que los guaycurúes le habían tomado; y por tierra había de ir toda la gente y caballos hasta allí, y estaba de la ciudad de la <placeName key="Asunción">Ascensión</placeName> hasta cuatro leguas, y fueron caminando el dicho día, y por el camino pasaban grandes escuadrones de indios de la generación de los guaraníes, que se habían de juntar en el lugar de <placeName key="Tapúa">Tapua</placeName> para ir en compañía del gobernador. Era cosa muy de ver la orden que llevaban, y el aderezo de guerra, de muchas flechas, muy emplumados con plumas de papagayos, y sus arcos pintados de muchas maneras y con instrumentos de guerra, que usan entre ellos, de atabales y trompetas y cornetas, y de otras formas; y el dicho día llegaron con toda la gente de caballo y de a pie al lugar de Tapua, donde hallaron muy gran cantidad de los indios guaraníes, que estaban aposentados, así en el pueblo como fuera, por las arboledas de la ribera del río. Y el Mormocen, indio principal, con</p></div>
+    </body>
+  </text>
+</TEI>

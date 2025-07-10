@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno><idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <pb n="22" facs="22.jpg"/>
+      <div type="capitulo" n="20">
+      <p>otros principales indios que allí estaban, parientes suyos, y con todos los demás, los salieron a recebir al camino un tiro de arco de su lugar, y tenían muerta y traían mucha caza de venados y avestruces, que los indios habían muerto aquel día y otro antes; y era tanta, que se dio a toda la gente, con que comieron y lo dejaban de sobra; y luego los indios principales, hecha su junta, dijeron que era necesario enviar indios y cristianos que fuesen a descubrir la tierra por donde habían de ir, y a ver el pueblo y asiento de los enemigos, para saber si habían traído noticia de la ida de los españoles, y si se velaban de noche; luego, paresciéndole al gobernador que convenía tomar los avisos, envió dos españoles con el mismo <persName ana="Cacique de Capua, o principal Moquirací del puerto de Tapúa.">Mormocen</persName>, indio, y con otros indios valientes que sabían la tierra. E idos, volvieron otro día siguiente, viernes en la noche, y dijeron cómo los indios <persName ref="https://es.wikipedia.org/wiki/Guaicur%C3%BAes">guaycurúes</persName> habían andado por los campos y montes cazando, como es costumbre suya, y poniendo fuego por muchas partes; y que a lo que habían podido reconoscer, aquel día mismo habían levantado su pueblo, y se iban cazando y caminando con sus hijos y mujeres, para asentar en otra parte, donde se pudiesen mantener de la caza y pesquerías, y que les parescía que no habían tenido hasta entonces noticia ni sentimiento de su ida, y que dende allí hasta donde los indios podían estar y asentar su pueblo habría cinco o seis leguas, porque se parescían los fuegos por donde andaban cazando.</p></div>
+      <div type="capitulo" n="21">
+        <head>CAPÍTULO XXI</head>
+        <head type="titulocapitulo">Cómo el gobernador y su gente pasaron el río y se ahogaron dos cristianos</head>
+        <p>Este mismo día viernes llegaron los bergantines allí para pasar las gentes y caballos de la otra parte del río, y los indios habían traído muchas canoas; y bien informado el <persName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/126">gobernador</persName> de lo que convenía hacerse, platicado con sus capitanes, fue acordado que luego el sábado siguiente por la mañana pasase la gente para proseguir la jornada y ir en demanda de los indios guaycurúes, y mandó que se hiciesen balsas de las canoas para poder pasar los caballos; y en siendo de día, toda la gente puesta en orden, comenzaron a embarcarse y pasar en los navíos y en las balsas, y los indios en las canoas; era tanta la priesa del pasar y la grita de los indios, como era tanta gente, que era cosa muy de ver; tardaron en pasar dende las seis de la mañana hasta las dos horas después de mediodía, no embargante que había bien doscientas canoas, en que pasaron. Allí suscedió un caso de mucha lástima, que como los españoles procuraban de embarcarse primero unos que otros, cargando en una barca mucha gente al un bordo, hizo balance y se trastornó de manera, que volvió la quilla arriba y tomó debajo toda la gente, y si no fueran también socorridos, todos se ahogaran; porque, como había muchos indios en la ribera, echáronse al agua y volcaron el navío; y como en aquella parte había mucha corriente, se llevó dos cristianos, que no pudieron ser socorridos, y los fueron a hallar el río abajo ahogados; el uno se llamaba <persName ana="Diego de Isla, proveniente de Málaga murió ahogado en el episodio.">Diego de Isla</persName>, vecino de <placeName key="Málaga">Málaga</placeName>, y el otro, <persName ana="Juan de Valdés, proveniente de Palencia murió ahogado en el episodio.">Juan de Valdés</persName>, vecino de <placeName key="Palencia">Palencia</placeName>. Pasada toda la gente y caballos de la otra parte del río, los indios principales vinieron a decir al gobernador que era su costumbre que cuando iban a hacer alguna guerra hacían su presente al capitán suyo, y que ansí, ellos, guardando su costumbre, lo querían hacer; que le rogaban lo recebiese; y el gobernador, por les hacer placer, lo aceptó; y todos los principales, uno a uno, le dieron una flecha y un arco pintado, muy, y tras de ellos, todos los indios, cada uno trujo una flecha pintada y emplumada con plumas de papagayos, y estuvieron en hacer los dichos presentes hasta que fue de noche, y fue necesario quedarse allí en la ribera del galán río a dormir aquella noche, con buena guarda y centinela que hicieron.</p></div>
+      <div type="capitulo" n="22">
+        <head>CAPÍTULO XXII</head>
+        <head type="titulocapitulo">Cómo fueron las espías por mandado del gobernador en seguimiento de los indios guaycurúes</head>
+      <p>El dicho día sábado fue acordado por el gobernador, con parescer de sus capitanes y religiosos, que, antes que comenzasen a marchar por la tierra, fuesen los adalides a descubrir y saber a qué parte los indios guaycurúes habían pasado y asentado pueblo, y de la manera que estaban, para poderles acometer y echar de la tierra de los <persName ref="https://pueblosoriginarios.com/sur/bosque_atlantico/guarani/cultura.html">indios guaraníes</persName>; y ansí, se partieron los indios, espías y cristianos, y al cuarto de la modorra vinieron, y dijeron que los indios habían todo el día cazado, y que delante iban caminando sus mujeres y hijos, y que no sabían adónde irían a tomar asiento; y sabido lo susodicho, en</p></div>
+    </body>
+  </text>
+</TEI>

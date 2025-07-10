@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno><idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <pb n="34" facs="34.jpg"/>
+      <div type="capitulo" n="38">
+      <p>ocasión que tan fácilmente no se quemasen cada día; y puestos en ello, y con la gran necesidad que tenían de ellas, en pocos días las hicieron.</p>
+      </div>
+      <div type="capitulo" n="39">
+      <head>CAPÍTULO XXXIX</head>
+      <head type="titulocapitulo">Cómo vino Domingo de Irala</head>
+      <p>A 15 días del mes de febrero vino a surgir a este pueblo de la <placeName key="Asunción">Ascensión</placeName> <persName ref="https://historia-hispanica.rah.es/biografias/29465-domingo-martinez-de-irala">Domingo de Irala</persName>, con los tres bergantines que llevó al descubrimiento del <placeName ref="https://es.wikipedia.org/wiki/R%C3%ADo_Paraguay#">río del Paraguay</placeName>; el cual salió en tierra a dar relación al <note ana="Título que ostentaba Cabeza de Vaca.">gobernador</note> de su descubrimiento; y dijo que dende 20 de octubre, que partió del puerto de la Ascensión, hasta el de <placeName key="Puerto los Reyes">los Reyes</placeName>, 6 días del mes de enero, había subido por el río del Paraguay arriba, contratando y tomando aviso de los indios naturales que están en la ribera del río hasta aquel dicho día; que había llegado a una tierra de una generación de indios labradores y criadores de gallinas y patos, los cuales crían estos indios para defenderse con ellos de la importunidad y daño que les hacen los grillos, porque cuantas mantas tienen se las roen y comen; críanse estos grillos en la paja con que están cubiertas sus casas, y para guardar sus ropas tienen muchas tinajas, en las cuales meten sus mantas y cueros dentro, y tápanlas con unos tapaderos de barro, y de esta manera defienden sus ropas, porque de la cumbre de las casas caen muchos de ellos a buscar qué roer, y entonces dan los patos con ellos con tanta priesa, que se los comen todos; y esto hacen dos o tres veces cada día que ellos salen a comer, que es hermosa cosa de ver la montanera con ellos; y estos indios habitan y tienen sus casas dentro de unas lagunas y cercados de otras; llámanse <persName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/834">cacocies</persName> <persName ref="https://es.wikipedia.org/wiki/Chan%C3%A9s">chaneses</persName>; y que de los indios había tenido aviso que por la tierra era el camino para ir a las poblaciones de la tierra adentro; y que él había entrado tres jornadas, y que le había parescido la tierra muy buena, y que la relación de dentro de ella le habían dado los indios; y allende de esto, en estos pueblos de los indios de esta tierra había grandes bastimentos, adonde se podían fornescer para poder hacer por allí la entrada de la tierra y conquista; y que había visto entre los indios muestra de oro y plata, y se habían ofrescido a le guiar y enseñar el camino, y que en todo su descubrimiento que había hecho por todo el río, no había hallado ni tenido nueva de tierra más aparejada para hacer la entrada que determinaba hacer; y que teniéndola por tal, había entrado por la tierra adentro por aquella parte, que por haber llegado en el mismo día de los Reyes a ella, le había puesto por nombre el puerto de los Reyes, y dejaba los naturales dél con gran deseo de ver los españoles, y que el gobernador fuese a los conoscer; y luego como Domingo de Irala hobo dado la relación al gobernador de lo que había hallado y traía, mandó llamar y juntar a los religiosos y clérigos y a los oficiales de <placeName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/20">Su Majestad</placeName> y a los capitanes; y estando juntos, les mandó leer la relación que había traído Domingo de Irala, y les rogó que sobre ello hobiesen su acuerdo, y le diesen su parescer de lo que se había de hacer para descubrir aquella tierra, como convenía al servicio de Dios y de Su Majestad, como otra vez lo tenía pedido y rogado; porque ansí convenía al servicio de Su Majestad, pues tenían camino cierto descubierto, y era el mejor que hasta entonces habían hallado; y todos juntos, sin discrepar ninguno, dieron su parescer, diciendo que convenía mucho al servicio de Su Majestad que con toda presteza se hiciese la entrada por el puerto de los Reyes, y que ansí convenía y lo daban por su parescer, y lo firmaban de sus nombres; y que luego, sin dilación ninguna, se había de poner en efecto la entrada, pues la tierra era poblada de mantenimientos y otras cosas necesarias para el descubrimiento de ello. Vistos los paresceres de los religiosos, clérigos y capitanes, y conformándose con ellos el gobernador, paresciéndole ser ansí cumplidero al servicio de Su Majestad, mandó aderezar y poner a punto los diez bergantines que él tenía hechos para el mismo descubrimiento, y mando a los <persName ref="pueblosoriginarios.com/sur/bosque_atlantico/guarani/cultura.html">indios guaraníes</persName> que le vendiesen los bastimentos que tenían, para cargar y fornescer de ellos los bergantines y canoas que estaban prestos para el viaje y descubrimiento, porque el fuego que había pasado antes le había quemado todos los bastimentos que él tenía, y por esto le fue forzado comprar de su hacienda a los indios los bastimentos, y él les dio a los indios muchos rescates por ellos, por no aguardar a que viniesen otros frutos, para despachar y proveer con toda brevedad; y para que más brevemente se hiciese y le trajesen los bastimentos sin que los indios viniesen cargados con ellos, envió al capitán <persName ref="historia-hispanica.rah.es/biografias/30387-gonzalo-de-mendoza">Gonzalo de Mendoza</persName> con tres bergantines por el Paraguay arriba a la tierra y lugares de los indios sus amigos y vasallos de Su Majestad que les tomase los bastimentos, y mandó que los pagase a los indios y les hiciese muy buenos tratamiento</p></div>
+    </body>
+  </text>
+</TEI>

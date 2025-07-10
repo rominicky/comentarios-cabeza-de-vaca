@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+<idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="pb">pb 041</div>
+      
+      <p>se fue el río abajo por do quiso. Y si <persName>Juan de Ayolas</persName> los hallara adonde los dejó, él se embarcara y los otros cristianos y los indios no los mataran; lo cual hizo el <persName>Domingo de Irala</persName> con mala intención, y por que los indios los matasen, como los mataron, por alzarse con la tierra, como después paresció que lo hizo contra Dios y contra su <persName>Rey</persName>, y hasta hoy está alzado, y ha destruido y asolado toda aquella tierra, y ha doce años que la tiene tiránicamente. <persName>Aquí</persName> tomaron los pilotos el altura, y dijeron que el puerto estaba en veinte y un grados menos un tercio.</p>
+      <p>Llegados a este puerto, toda la gente de la armada estaba recogida por ver si podrían haber plática con los indios payaguaes y saber de ellos dónde tenían sus pueblos; y otro día siguiente, a las ocho de la mañana, parescieron a riberas del río hasta siete indios de los payaguaes, y mandó el gobernador que solamente les fuesen a hablar otros tantos españoles, con la lengua que traía para ellos, que para aquel efecto era muy buena; y ansí llegaron adonde estaban, cerca de ellos que se podían hablar y entender unos a otros y la lengua les dijo que se llegasen más, que se pudiesen platicar, porque querían hablarles y asentar la paz con ellos, y que aquel capitán de aquella gente no era venido a otra cosa; y habiendo platicado en esto, los indios preguntaron si los cristianos que agora nuevamente venían en los bergantines si eran de los mismos que en el tiempo pasado solían andar por la tierra; y como estaban avisados los españoles, dijeron que no eran los que en el tiempo pasado andaban por la tierra, y que nuevamente venían; y por esto que oyeron, se juntó con los cristianos uno de los payaguaes y fue luego traído ante el gobernador y allí, con las lenguas le preguntó por cuyo mandado era venido allí, y dijo que su principal había sabido de la venida de los españoles, y le había enviado a él y a los otros sus compañeros a saber si era verdad que eran los que anduvieron en el tiempo pasado, y les dijese de su parte que él deseaba ser su amigo, y que todo lo que había tomado a <persName>Juan de Ayolas</persName> y los cristianos él lo tenía recogido y guardado para darlo al principal de los cristianos porque hiciese paz y le perdonase la muerte de <persName>Juan de Ayolas</persName> y de los otros cristianos, pues que los habían muerto en la guerra; y el gobernador le preguntó por la lengua qué tanta cantidad de oro y plata sería la que tomaron a <persName>Juan de Ayolas</persName> y cristianos, y señaló que sería hasta sesenta y seis cargas que traían los indios chaneses, y que todo venía en planchas y en brazaletes, y coronas y hachetas, y vasijas pequeñas de oro y plata; y dijo al indio por la lengua que dijese a su principal que <placeName>Su Majestad</placeName> le había mandado que fuese en aquella tierra a asentar la paz con ellos y con las otras gentes que la quisiesen, y que</p><p>las guerras ya pasadas les fuesen perdonadas; y pues su principal quería ser amigo y restituir lo que había tomado a los españoles, que viniese a verle y hablarle, porque él tenía muy gran deseo de lo ver y hacer buen tratamiento, y asentarían la paz y le recebiría por vasallo de <placeName>Su Majestad</placeName>; y que dende luego viniese, que le sería hecho muy buen tratamiento, y para en señal de paz le envió muchos rescates y otras cosas, para que le llevasen, y al mismo indio le dio muchos rescates y le preguntó cuándo volvería él y su principal. Este principal, aunque es pescador y señor de esta captiva gente (porque todos son pescadores), es muy grave y su gente le teme y le tienen en mucho; y si alguno de los suyos le enoja en algo, toma un arco y le da dos y tres flechazos, y muerto, envía a llamar a su mujer (si la tiene) y dale una cuenta, y con esto le quita el enojo de la muerte. Si no tiene cuenta, dale dos plumas; y cuando este principal ha de escupir, el que más cerca de él se halla pone las manos juntas, en que escupe. Estas borracherías y otras de esta manera tiene este principal, y en todo el río no hay ningún indio que tenga las cosas que éste tiene. La lengua de éste le respondió que él y su principal serían allí otro día de mañana, y en aquella parte le quedó esperando.</p>
+      
+      <p>CAPÍTULO L</p>
+      <p>Cómo no tomó la lengua ni los demás que habían de tornar</p>
+      <p>Pasó aquel día y otros cuatro, y visto que no volvían, mandó llamar la lengua que el gobernador llevaba de ellos, y le preguntó qué le parescía de la tardanza del indio. Y dijo que él tenía por cierto que nunca más volvería porque los indios payaguaes eran muy mañosos y cautelosos, y que habían dicho que su principal quería paz y quería tentar y entretener los cristianos y indios guaraníes que no pasasen adelante a buscarlos en sus pueblos, y porque entretanto que esperaban a su principal, ellos alzasen sus pueblos, mujeres y hijos; y que ansí, creía que se habían ido huyendo a esconder por el río arriba a</p>
+    </body>
+  </text>
+</TEI>

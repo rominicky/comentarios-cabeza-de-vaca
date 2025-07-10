@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+            <idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <pb n="11" ="11.jpg"/>
+      <p>pueblo, tan alegres y contentos, que de placer bailaban, y cantaban por todo el pueblo.</p>
+      <p>A los siete del mes de diciembre llegaron a un río, que los indios llaman <placeName key="Rio Taquari">Tacuari</placeName>. Este es un río que lleva buena cantidad de agua, y tiene buena corriente; en la ribera del cual hallaron un <note ana="No confundir con la denominación de 'pueblo de indios', como asentamientos que se instauraron durante la evangelización, posterior a la colonización. Estos tenían como fin, realizar un cobro más eficiente de los tributos, instruir el cristianismo en la población y otorgarles diversos trabajos.">pueblo de indios</note>, que su principal se llamaba <persName ana="O Aangohi, pricipal del puenlo de indios, que debería ser parcialidad de guaraníes.">Abangobi</persName>, y él, y todos los indios de su pueblo, hasta las mujeres, y niños, los salieron a rescebir, mostrando grande placer con la venida del gobernador, y gente, y les trujeron al camino muchos bastimentos, los cuales se lo pagaron, según lo acostumbraban. Toda esta gente es una generación, y hablan todos un lenguaje; y de este lugar pasaron adelante, dejando los naturales muy alegres, y contentos, y así, iban luego de un lugar a otro a dar las nuevas del buen tratamiento que les hacían, y les enseñaban todo lo que les daban; de manera, que todos los pueblos por donde habían de pasar, los hallaban muy pacíficos, y los salían a recebir a los caminos, antes que llegasen a sus pueblos, cargados de bastimentos; los cuales se les pagaban a su contento (según es dicho). Prosiguiendo el camino a los catorce días del mes de diciembre, habiendo pasado por algunos pueblos de indios de la generación de los <persName ref="https://pueblosoriginarios.com/sur/bosque_atlantico/guarani/cultura.html">guaraníes</persName>, donde fue bien rescebido, y proveído de los bastimentos que tenían, llegado el <persName ana="Título que ostentaba Álvar Núñez.">gobernador</persName>, y su gente a un pueblo de indios de la generación (que su principal se dijo llamar <persName ana="Principal de un pueblo de originarios.">Tocangucir</persName>) aquí reposaron un día porque la gente estaba fatigada, y el camino por do caminaron fue al oesnorueste, y a la cuarta del norueste; y en este lugar tomaron los pilotos el altura en veinte y cuatro grados y medio apartados del Trópico un grado. Por todo el camino que se anduvo, después que entró en la provincia, en las poblaciones de ella, es toda tierra muy alegre, de grandes campiñas, arboledas, y muchas aguas de ríos, y fuentes, arroyos, y muy buenas aguas delgadas: y en efecto es toda tierra muy aparejada para labrar, y criar.</p>
+      <div type="capitulo" n="8">
+      <head>CAPÍTULO VIII</head>
+      <head type="titulocapitulo">De los trabajos que rescibió en el camino el gobernador, y su gente, y la manera de los pinos, y piñas de aquella tierra.</head>
+      <p>Dende el lugar de Tugui fue caminando el gobernador con su gente hasta los diez y nueve días del mes de diciembre, sin hallar poblado ninguno, donde rescibió gran trabajo en el caminar, a causa de los muchos ríos, y malos pasos que había, que para pasar la gente, y caballos hobo día que se hicieron diez y ocho puentes, así para los ríos, como para las ciénagas, que había muchas, y muy malas; y asimismo se pasaron grandes sierras, y montañas muy ásperas, y cerradas de arboledas de cañas muy gruesas, que tenían unas púas muy agudas, y recias, y de otros árboles, que para poderlos pasar iban siempre delante veinte hombres, cortando, y haciendo el camino, y estuvo muchos días en pasarlas, que por la maleza de ellas no vían el cielo; y el dicho día a diez y nueve del dicho mes, llegaron a un lugar de indios, de la generación de los guaraníes, los cuales, con su principal, y hasta las mujeres, y niños, mostrando mucho placer, los salieron a rescebir al camino dos leguas del pueblo, donde trujeron muchos bastimentos de gallinas, patos, y miel, y batatas, y otras frutas, y maíz, y harina de piñones (que hacen muy gran cantidad de ella), porque hay en aquella tierra muy grandes pinares, y son tan grandes los pinos, que cuatro hombres juntos, tendidos los brazos, no pueden abrazar uno, y muy altos, y derechos, y son muy buenos para mástiles de naos, y para carracas, según su grandeza; las piñas son grandes, los piñones del tamaño de bellotas, la cáscara grande de ellos, es como de castañas, difieren en el sabor a los de España; los indios los cogen, y de ellos hacen gran cantidad de harina para su mantenimiento. Por aquella tierra hay muchos puercos monteses, y monos, que comen estos piñones, de esta manera, que los monos se suben encima de los pinos, y se asen de la cola, y con las manos, y pies derruecan muchas piñas en el suelo, y cuando tienen derribada mucha cantidad, abajan a comerlos; y muchas veces acontesce, que los puercos monteses están aguardando que los monos derriben las piñas; y cuando las tienen derribadas, al tiempo que abajan los monos de los pinos a comellos, salen los puercos contra ellos, y quítanselas, y cómense los piñones; y mientras los puercos comían, los monos estaban dando gritos sobre los árboles. También hay otras muchas frutas de diversas maneras, y sabor, que dos veces en el año se dan. En este lugar de <placeName ana="Según diversos autores este pueblo se hallaría entre Caazapá, Itapúa o Guairá (ciudades de Paraguay), así como entre la inmediaciones de los ríos Tebicuary y Paraná.">Tugui</placeName> se detuvo el gobernador, y su gente la Pascua del Nascimiento, así por la honra de ella, como porque la gente reposase, y descansase, donde tuvieron qué comer, porque los indios lo dieron muy abundosamente de todos sus bastimentos: y ansí, los españoles, con la alegría de la Pascua y con el buen</p></div>
+    </body>
+  </text>
+</TEI>

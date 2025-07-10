@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+<idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="pb">pb 042</div>
+      
+      <p>alguna parte, y que le parescía que luego había de partir en su seguimiento, que tenía por cierto que los alcanzaría, porque iban muy embarazados y cargados; y que lo que a él le parescía, como hombre que sabe aquella tierra, que los indios <persName>payaguaes</persName> no pararían hasta la laguna de una generación que se llama los mataraes, a los cuales mataron y destruyeron estos indios payaguaes, y se habían apoderado en su tierra, por ser muy abundosa y de grandes pesquerías; y luego mandó al gobernador alzar los bergantines con todas las canoas, y fue navegando por el río arriba, y en las partes donde surgía parescía que por la ribera del río iba gran rastro de la gente de los payaguaes que iban por tierra (y, según la lengua dijo), que ellos y las mujeres y hijos iban por tierra por no caber en las canoas. A cabo de ocho días que fueron navegando, llegó a la <placeName>laguna de los mataraes</placeName>, y entró por ella sin hallar allí los indios, y entró con la mitad de la gente por tierra para los buscar y tratar con ellos las paces; y otro día siguiente, visto que no parescían, y por no gastar más bastimentos en balde, mandó recoger todos los cristianos y indios guaraníes, los cuales habían hallado ciertas canoas y palas de ellas que habían dejado debajo del agua escondidas, y vieron el rastro por donde iban; y por no detenerse, el gobernador, recogida la gente, siguió su viaje llevando las canoas junto con los bergantines; fue navegando por el río arriba, unas veces a la vela y otras al remo y otras a la sirga, a causa de las muchas vueltas del río, hasta que llegó a la ribera, donde hay muchos árboles de cañafístola, los cuales son muy grandes y muy poderosos, y la cañafístola es de casi palmo y medio, y es tan gruesa como tres dedos. La gente comía mucho de ella, y de dentro es muy melosa; no hay diferencia nada a la que se trae de las otras partes a <placeName>España</placeName>, salvo ser más gruesa y algo áspera en el gusto, y cáusalo como no se labra; y de estos árboles hay más de ochenta juntos en la ribera de este río del <placeName>Paraguay</placeName>. Por do fue navegando hay muchas frutas salvajes que los españoles y indios comían; entre las cuales hay una como un limón ceutí muy pequeño, así en el color como cáscara; en el agrio y en el olor no difieren al limón ceutí de <placeName>España</placeName>, que será como un huevo de paloma; esta fruta es en la hoja como del limón. Hay gran diversidad de árboles y frutas, y en la diversidad y extrañeza de los pescados grandes diferencias, y los indios y españoles mataban en el río cosa que no se puede creer de ellos, todos los días que no hacía tiempo para navegar a la vela; y como las canoas son ligeras y andan mucho al remo, tenían lugar de andar en ellas cazando de aquellos puercos del agua y nutrias (que hay muy grande abundancia de ellas); lo cual era muy gran pasatiempo. Y porque le paresció al gobernador que a pocas jornadas llegaríamos a la tierra de una generación de indios que se llaman guaxarapos, que están en la ribera del <placeName>río Paraguay</placeName>, y éstos son vecinos que contratan con los indios del <placeName>puerto de los Reyes</placeName>, donde íbamos, que para ir allí con tanta gente de navíos y canoas y indios se escandalizarían y meterían por la tierra adentro; y por los pacificar y sosegar, partió la gente del armada en dos partes, y el gobernador tomó cinco bergantines y la mitad de las canoas y indios que en ellas venían, y con ello acordó de se adelantar, y mandó al capitán <persName>Gonzalo de Mendoza</persName> que con los otros bergantines y las otras canoas y gente viniesen en su seguimiento poco a poco, y mandó al capitán que gobernase toda la gente, españoles y indios, mansa y graciosamente, y no consintiese que se desmandase ningún español ni indio; y ansí por el río como por la tierra no consintiese a ningún natural hacer agravio ni fuerza, y hiciese pagar los mantenimientos y otras cosas que los indios naturales contratasen con los españoles y con los indios guaraníes, por manera que se conservase toda la paz que convenía al servicio de <placeName>Su Majestad</placeName> y bien de la tierra. El gobernador se partió con los cinco bergantines y las canoas que dicho tengo; y así fue navegando, hasta que un día, a 18 de octubre, llegó a tierra de los indios guaxarapos, y salieron hasta treinta indios, y pararon allí los bergantines y canoas hasta hablar aquellos indios y asegurarlos y tomar de ellos aviso de las generaciones de adelante; y salieron en tierra algunos cristianos por su mandado, porque los indios de la tierra los llamaban y se venían para ellos; y llegados a los bergantines, entraron en ellos hasta seis de los mismos guaxarapos, a los cuales habló con la lengua y les dijo lo que había dicho a los otros del río abajo, para que diesen la obediencia a <persName>Su Majestad</persName>; y que dándola, él los ternía por amigos, y ansí la dieron todos, y entre ellos había un principal, y por ello el gobernador les dio de sus rescates y les ofreció que haría por ellos todo lo que pudiese; y cerca de estos indios, en aquel <placeName>paraje do</placeName> el gobernador estaba con los indios, estaba otro río que venía por la tierra adentro,</p>
+    </body>
+  </text>
+</TEI>

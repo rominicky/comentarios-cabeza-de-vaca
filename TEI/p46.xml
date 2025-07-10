@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+<idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="pb">pb 046</div>
+      
+      <p>Su Majestad, y siéndolo, serían amparados y defendidos por el gobernador y por los que traía, de sus enemigos y de quien les quisiese hacer mal, y que siempre serían bien tratados y mirados, como <persName>Su Majestad</persName> lo mandaba que lo hiciese; y siendo buenos, les daría siempre de sus rescates, como siempre lo hacía a todos los que lo eran; y luego mandó llamar los clérigos y les dijo cómo quería luego hacer una iglesia donde les dijesen misa y los otros oficios divinos, para ejemplo y consolación de los otros cristianos, y que ellos tuviesen especial cuidado de ellos. E hizo hacer una cruz de madera grande, la cual mandó hincar junto a la ribera, debajo de unas palmas altas, en presencia de los oficiales de <placeName>Su Majestad</placeName> y de otra mucha gente que allí se halló presente; y ante el escribano de la provincia tomó la posesión de la tierra en nombre de <placeName>Su Majestad</placeName>, como tierra que nuevamente se descubría; y habiendo pacificado los naturales, dándoles de sus rescates y otras cosas, mandó aposentar los españoles en la ribera de la laguna, y junto con ella los indios guaraníes, a todos los cuales dijo y apercibió que no hiciesen daño ni fuerza ni otro mal ninguno a los indios y naturales de aquel puerto, pues eran amigos y vasallos de <placeName>Su Majestad</placeName>, y les mandó y defendió no fuesen a sus pueblos y casas, porque la cosa que los indios más sienten y aborrecen y por que se alteran es por ver que los indios y cristianos van a sus casas, y les revuelven y toman las cosillas que tienen en ellas; y que si tratasen y rescatasen con ellos, les pagasen lo que trujesen y tomasen de sus rescates; y si otra cosa hiciesen, serían castigados.</p>
+      
+      <p>CAPÍTULO LIV</p>
+      <p>De cómo los indios del <placeName>puerto de los Reyes</placeName> son labradores</p>
+      <p>Los indios de este puerto de <placeName>los Reyes</placeName> son labradores; siembran maíz y mandioca (que es el cazabi de las <placeName>Indias</placeName>), siembran mandubies (que son como avellanas), y de esta fruta hay gran abundancia, y siembran dos veces en el año; es tierra fértil y <placeName>abundosa</placeName>, ansí de mantenimientos de caza y pesquerías; crían los indios muchos patos en gran cantidad, para defenderse de los grillos (como tengo dicho). Crían gallinas, las cuales encierran de noche, por miedo de los murciélagos, que les cortan las crestas, y cortadas, las gallinas se mueren luego. Estos murciélagos son una mala sabandija, y hay muchos por el río que son tamaños y mayores que tórtolas de esta tierra, y cortan tan dulcemente con los dientes, que al que muerden, no lo siente; y nunca muerden al hombre si no es en las lumbres de los dedos de los pies o de las manos, o en el <placeName>pico de la nariz</placeName>, y el que una vez muerde, aunque haya otros muchos, no morderá sino al que comenzó a morder; y éstos muerden de noche y no parescen de día; tenemos que hacer en defenderles las orejas de los caballos; son muy amigos de ir a morder en ellas, y en entrando un murciélago donde están los caballos, se desasosiegan tanto, que despiertan a toda la gente que hay en la casa, y hasta que los matan o echan de la caballeriza, nunca se sosiegan; y al gobernador le mordió un murciélago estando durmiendo en un bergantín, que tenía un pie descubierto, y le mordió en la lumbre de un dedo del pie, y toda la noche estaba corriendo sangre hasta la mañana, que recordó con el frío que sintió en la pierna y la cama bañada en sangre, que creyó que le habían herido; y buscando dónde tenía la herida, los que estaban en el bergantín se reían de ello, porque <persName>conoscían</persName> y tenían experiencia de que era mordedura de murciélago, y el gobernador halló que le había llevado una rebanada de la lumbre del dedo del pie. Estos murciélagos no muerden sino adonde hay vena, y éstos hicieron una muy mala obra, y fue que llevábamos a la entrada seis cochinas preñadas para que con ellas hiciésemos casta, y cuando vinieron a parir, los cochinos que parieron, cuando fueron a tomar las tetas, no hallaron pezones, que se las habían comido todos los murciélagos, y por esta causa se murieron los cochinos, y nos comimos las puercas por no poder criar lo que pariesen. También hay en esta tierra otras malas sabandijas, y son unas hormigas muy grandes, las cuales son de dos maneras: las unas son <placeName>bermejas</placeName>, y las otras son muy negras; doquiera que muerden cualquiera de ellas, el que es mordido está veinte y cuatro horas dando voces y revolcándose por tierra, que es la mayor lástima del mundo de lo ver; hasta que pasan las veinte y cuatro horas no tienen remedio ninguno, y pasadas se quita el dolor; y en este puerto de <placeName>los Reyes</placeName>, en las</p><p>lagunas, hay muchas rayas, y muchas veces los que andan a pescar en el agua, como las ven, huéllanlas, y entonces vuelven con la cola, y hieren con una púa que tienen en la cola, la cual es más larga que un dedo; y si la raya es grande, es como un geme, y la púa es como una sierra; y si da</p>
+    </body>
+  </text>
+</TEI>

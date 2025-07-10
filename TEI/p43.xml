@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+<idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="pb">pb 043</div>
+      
+      <p>que sería tan ancho como la mitad del <placeName>río Paraguay</placeName>, mas corría con tanta fuerza el agua que era espanto; y este río desaguaba en <placeName>el Paraguay</placeName>, que venía de hacia el <placeName>Brasil</placeName>, y era por donde dicen los antiguos que vino <persName>García</persName> el portugués y hizo guerra por aquella tierra, y había entrado por ella con muchos indios, y le habían hecho muy gran guerra en ella y destruido muchas poblaciones, y no traía consigo más de cinco cristianos, y toda la otra eran indios; y los indios dijeron que nunca más lo habían visto volver; y traía consigo un mulato que se llamaba <persName>Pacheco</persName>, el cual volvió a la tierra de <placeName>Guazani</placeName>, y el mismo <placeName>Guazani</placeName> le mató allí, y el <persName>García</persName> se volvió al <placeName>Brasil</placeName>; y que de estos guaraníes que fueron con <persName>García</persName> habían quedado muchos perdidos por la tierra adentro, y que por allí hallaría muchos de ellos, de quien podría ser informado de lo que <persName>García</persName> había hecho y de lo que era la tierra, y que por aquella tierra habitaban unos indios que se llamaban chaneses, los cuales habían venido huyendo y se habían juntado con los indios sococies y xaquetes, los cuales habitan cerca del <placeName>puerto de los Reyes</placeName>. Y vista esta relación del indio, el gobernador se pasó adelante a ver el río por donde había salido <persName>García</persName>, el cual estaba muy cerca donde los indios guaxarapos se le mostraron y hablaron; y llegado a la <placeName>boca del río</placeName>, que se llama Yapaneme, mandó sondar la boca, la cual halló muy honda, y así lo era dentro, y traía muy gran corriente, y de una banda y otra tenía muchas arboledas, y mandó subir por él una legua arriba un bergantín que iba siempre sondando, y siempre lo hallaba más hondo, y los indios guaxarapos le dijeron que por la ribera del río estaba todo muy poblado de muchas generaciones diversas, y eran todos indios que sembraban maíz y mandioca, y tenían muy grandes pesquerías del río, y tenían tanto pescado cuanto querían comer, y que del pescado tienen mucha manteca, y mucha caza; y vueltos los que fueron a descubrir el río, dijeron que habían visto muchos humos por la tierra en la ribera del río, por do paresce estar la ribera del río muy poblada; y porque era ya tarde, mandó surgir aquella noche frontero de la boca de este río, a la falda de una sierra que se llama <placeName>Santa Lucía</placeName>, que es por donde había atravesado <persName>García</persName>; y otro día de mañana mandó a los pilotos que consigo llevaba que tomasen el altura de la <placeName>boca del río</placeName>, y está en diez y nueve grados y un tercio. Aquella noche tuvimos allí muy gran trabajo con un aguacero que vino de muy grande agua y viento muy recio; y la gente hicieron muy grandes fuegos, y durmieron muchos en tierra, y otros en los bergantines, que estaban bien toldados de esteras y cueros de venados y antas.</p>
+      
+      <p>CAPÍTULO LI</p>
+      <p>De cómo hablaron los guaxarapos al gobernador</p>
+      <p>Otro día por la mañana vinieron los indios guaxarapos que el día antes habían estado con el gobernador, y venían en dos canoas; trujeron pescado y carne, que dieron a la gente; y después que hobieron hablado con el gobernador, les pagó de sus rescates y se despidió de ellos, diciéndoles que siempre los ternía por amigos y les favorescería en todo lo que pudiese; y porque el gobernador dejaba otros navíos con gente y muchas canoas con indios guaraníes sus amigos, él los rogaba que cuando allí llegasen, fuesen de ellos bien recebidos y bien tratados, porque haciéndolo ansí, los cristianos y indios no les harían mal ni daño ninguno; y ellos se lo prometieron ansí, aunque no lo cumplieron. Y túvose por cierto que un cristiano dio la causa y tuvo la culpa, como diré adelante; y ansí, se partió de estos indios, y fue navegando por el río arriba todo aquel día con buen viento de vela, y a la puesta del <persName>Sol</persName> llegóse a unos pueblos de indios de la misma generación, que estaban asentados en la ribera junto al agua, y por no perder el tiempo, que era bueno, pasó por ellos sin se detener; son labradores y siembran maíz y otras raíces, y danse muchos a la pesquería y caza, porque hay mucha en grande abundancia; andan en cueros ellos y sus mujeres, excepto algunas, que andan tapadas sus vergüenzas; lábranse las caras con unas púas de rayas, y los bezos y las orejas traen horadados; andan por los ríos</p><p>en canoas; no caben en ellas más de dos o tres personas; son tan ligeras y ellos tan diestros, y al remo andan tan recio río abajo y río arriba, que paresce que van volando, y un bergantín, aunque allá son hechos de cedro, al remo y a la vela, por ligero que sea y por buen tiempo que haga, aunque no lleve la canoa más de dos remos y el bergantín lleve una docena, no la puede alcanzar; y hácense guerra por el río en canoas, y por la tierra, y todavía entre ellos tienen sus contrataciones, y los guaxarapos les dan canoas, y los payaguaes se las dan también, porque ellos les dan arcos y flechas cuantos han menester, y todas las otras cosas que ellos tienen de</p>
+    </body>
+  </text>
+</TEI>

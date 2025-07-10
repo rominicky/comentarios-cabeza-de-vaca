@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+<idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="pb">pb 047</div>
+      
+      <p>en el pie, lo pasa de parte a parte, y es tan grandísimo el dolor como el que pasa el que es mordido de hormigas; mas tiene un remedio para que luego se quite el dolor, y es que los indios conoscen una yerba que luego como el hombre es mordido la toman, y majada, la ponen sobre la herida de la raya, y en poniéndola se quita el dolor; mas tiene más de un mes que curar en la herida. Los indios de esta tierra son medianos de cuerpo, andan desnudos en cueros, y sus vergüenzas de fuera; las orejas tienen horadadas y tan grandes, que por los agujeros que tienen en ellas les cabe un puño cerrado, y traen metidas por ellas unas calabazuelas medianas, y contino van sacando aquéllas y metiendo otras mayores; y ansí, las hacen tan grandes, que casi llegan cerca de los hombros, y por esto les llaman los otros indios comarcanos orejones, y se llaman como los ingas del <placeName>Perú</placeName>, que se llaman orejones. Éstos cuando pelean se quitan las calabazas o rodajas que traen en las orejas, y revuélvense en ellas mismas, de manera que las encogen allí, y si no quieren hacer esto, anúdanlas atrás, debajo del colodrillo. Las mujeres de éstos no andan tapadas sus vergüenzas; vive cada uno por sí con su mujer y hijos; las mujeres tienen cargo de hilar algodón, y ellos van a sembrar sus heredades, y cuando viene la tarde, vienen a sus casas, y hallan la comida aderezada; todo lo demás no tienen cuidado de trabajar en sus casas, sino solamente cuando están los maíces para coger; entonces ellas lo han de coger y acarrear a cuestas y traer a sus casas. <placeName>Dende</placeName> aquí comienzan estos indios a tener idolatría, y adoran ídolos que ellos hacen de madera; y según informaron al gobernador, adelante la tierra adentro tienen los indios ídolos de oro y de plata, y procuró con buenas palabras apartarlos de la idolatría, diciéndoles que los quemasen y quitasen de sí, y creyesen en Dios verdadero, que era el que había criado el <placeName>Cielo y la Tierra</placeName>, y a los hombres, y a la mar, y a los pesces, y a las otras cosas, y que lo que ellos adoraban era el diablo, que los traía engañados; y ansí, quemaron muchos de ellos, aunque los principales de los indios andaban atemorizados, diciendo que los mataría el diablo, que se mostraba muy enojado; y luego que se hizo la iglesia y se dijo misa, el diablo huyó de allí, y los indios andaban asegurados, sin temor. Estaba el primer pueblo del campo hasta poco más de media legua, el cual era de ochocientas casas, y vecinos todos labradores.</p>
+      
+      <p>CAPÍTULO LV</p>
+      <p>Cómo poblaron aquí los indios de <persName>García</persName></p>
+      <p>A media legua estaba otro pueblo más pequeño, de hasta setenta casas, de la misma generación de los sacocies, y a cuatro leguas están otros dos pueblos de los chaneses que poblaron en aquella tierra, de los que atrás dije que trujo <persName>García</persName> de la tierra adentro; y tomaron mujeres en aquella tierra, que muchos de ellos vinieron a ver y conoscer, diciendo que ellos eran muy alegres y muy amigos de cristianos, por el buen tratamiento que les había hecho <persName>García</persName> cuando los trujo de su tierra. Algunos de estos indios traían cuentas, margaritas y otras cosas, que dijeron haberles dado <persName>García</persName> cuando con él vinieron. Todos estos indios son labradores, criadores de patos y gallinas; las gallinas son como las de <placeName>España</placeName>, y los patos también. El gobernador hizo a estos indios muy buenos tratamientos, y les dio de sus rescates, y los recebió por vasallos de <placeName>Su Majestad</placeName>, y los rogó y apercibió, diciéndoles que fuesen buenos y leales a <placeName>Su Majestad</placeName> y a los cristianos; y que haciéndolo así, serían favorescidos y muy bien tratados, mejor que lo habían sido antes.</p>
+      
+      <p>CAPÍTULO LVI</p>
+      <p>De cómo habló con los chaneses</p>
+      <p>De estos indios chaneses se quiso el gobernador informar de las cosas de la tierra adentro y de las poblaciones de ella, y cuántos días habría de camino dende aquel <placeName>puerto de los Reyes</placeName> hasta llegar a la primera población. El principal de los indios chaneses, que sería de edad de cincuenta años, dijo que cuando <persName>García</persName> los trujo de su tierra vinieron con él por tierras de los indios nayaes, y salieron a tierra de los guaraníes, donde, mataran los indios que traían, y que este indio chanés y otros de su generación, que se escaparon, se vinieron huyendo por la ribera del <placeName>Paraguay</placeName> arriba, hasta llegar al pueblo de estos sacocies, donde fueron de ellos recogidos, y que no osaron ir por el propio camino que habían venido con <persName>García</persName>, porque los guaraníes los alcanzaran y mataran; y a esta causa no saben si están lejos ni cerca de las poblaciones de la tierra adentro, y que por no lo saber,</p>
+    </body>
+  </text>
+</TEI>

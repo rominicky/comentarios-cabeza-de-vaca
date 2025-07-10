@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+<idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="pb">pb 029</div>
+      
+      <p>bajo de la tierra; también les dan y truecan arcos y flechas; y pasan el río a esta contratación doscientas canoas juntas, cargadas de estas cosas, que es la más hermosa cosa del mundo verlas ir; y como van con tanta priesa, algunas veces se encuentran las unas con las otras, de manera que toda la mercaduría y ellas van al agua; y los indios a quien <placeName>acontesce</placeName> lo tal, y los otros que están en tierra esperándolos, toman tan gran risa, que en dos días no se apacigua entre ellos el regocijo; y para ir a contratar van muy pintados y empenachados, y toda la plumería va por el río abajo, y mueren por llegar con sus canoas unos primero que otros, y ésta es la causa por donde se encuentran muchas veces; y en la contratación tienen tanta vocería, que no se oyen los unos a los otros, y todos están muy alegres y regocijados.</p>
+      
+      <p>CAPÍTULO XXXII</p>
+      <p>Cómo vinieron los indios aperúes a hacer paz y dar la obediencia</p>
+      <p>Dende a pocos días que los seis indios aperúes se volvieron para los suyos, después que los mandó soltar el gobernador para que fuesen a asegurar a los otros indios de su generación, un domingo de mañana llegaron a la ribera del <placeName>Paraguay</placeName>, de la otra parte, a vista de la ciudad de la Ascensión, hechos un escuadrón; los cuales hicieron seña a los de la ciudad, diciendo que quedan pasar a ella; y sabido por el gobernador, luego mandó ir canoas a saber qué gente eran; y como llegaron a tierra, los dichos indios se metieron en ellas y pasaron de esta otra parte hacia la ciudad; y venidos delante del gobernador, dijeron cómo eran de <placeName>aperúes</placeName>, y se sentaron sobre el pie, como gente de paz, según su costumbre; y sentados, dijeron que eran los principales de aquella generación llamada <placeName>aperúes</placeName>, y que venían a conoscerse con el principal de los cristianos y a lo tener por amigo y hacer lo que él les mandase; y que la guerra que se había hecho a los indios guaycurúes la habían sabido por toda la tierra, y que por razón de ello todas las generaciones estaban muy temerosas y espantadas de que los dichosa indios, siendo los más valientes y temidos, fuesen acometidos y vencidos y desbaratados por los cristianos; y que en señal de la paz y amistad que querían tener y conservar con los cristianos, trujeron consigo ciertas hijas suyas, y rogaron al gobernador que las recebiese, y para que ellos estuviesen más ciertos y seguros y los tuviesen por amigos, las daban en rehenes; y estando presentes a ello los capitanes y religiosos que consigo traía el gobernador, y ansímismo en presencia de los oficiales de <placeName>Su Majestad</placeName>, dijo que él era venido a aquella tierra a dar a entender a los naturales de ella cómo habían de ser cristianos y enseñados en la fe, y que diesen la obediencia a <persName>Su Majestad</persName> y tuviesen paz y amistad con los indios guaraníes, pues eran naturales de aquella tierra y vasallos de <placeName>Su Majestad</placeName>, y que, guardando ellos el amistad y otras cosas que les mandó de parte de su <placeName>Majestad</placeName>, los recebiría por sus vasallos y como a tales los ampararla y defenderla de todos, guardando la paz y amistad con todos los naturales de aquella tierra, y mandaría a todos los indios que los favoresciesen y tu viesen por amigos y dende allí los tuviesen por tales, y que cada y cuando que quisiesen pudiesen venir seguros a la ciudad de la <placeName>Ascensión</placeName> a rescatar y contratar con los cristianos y indios que en ella residían, como lo hacían los guaycurúes después que asentó la paz con ellos; y para tener seguro de ellos, el gobernador <persName>recebió</persName> las mujeres y hijos que le dieron, y también por que no se enojasen, creyendo que, pues no los tomaba, no los admitía; las cuales mujeres y mochachos el gobernador dio a los religiosos y clérigos para que los doctrinasen y enseñasen la doctrina cristiana, y los pusiesen en buenos usos y costumbres; y los indios se holgaron mucho de ello, y quedaron muy contentos y alegres por haber quedado por vasallos de <placeName>Su Majestad</placeName>, y dende luego como tales le obedescieron y propusieron de cumplir lo que por parte del gobernador les fue mandado; y habiéndoles dado muchos rescates, con que se alegraron y contentaron mucho, se fueron muy alegres. Estos indios de que se ha tratado nunca están quedos de tres días arriba en un asiento; siempre se mudan de tres a tres días, y andan buscando la caza y monterías y pesquerías para sustentarse, y traen consigo sus mujeres y hijos, y deseoso el gobernador de atraerlos a nuestra santa fe católica, preguntó a los clérigos y religiosos si había manera para poder industriar y doctrinar aquellos indios. Y le respondieron que no podía ser, por no tener los dichos indios asiento cierto, y porque se les pasaban los días y gastaban el tiempo en buscar de comer; y que por ser la necesidad tan grande de los mantenimientos, que no podían dejar de andar todo el día a buscarlos con sus</p>
+    </body>
+  </text>
+</TEI>

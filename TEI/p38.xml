@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+<idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="pb">pb 038</div>
+      
+      <p>planchas de metal en la frente, muy lucias, que cuando les daba el sol resplandecían mucho, y dicen ellos que las traen porque aquel resplandor quita la vista a sus enemigos, y van con la mayor grita y placer del mundo; y cuando el gobernador partió de la ciudad, dejó mandado al capitán <persName>Salazar</persName> que, con la mayor diligencia que pudiese, hiciese dar priesa, y que se acabase de hacer la carabela que él mandó hacer, por que estuviese hecha para cuando volviese de la entrada, y pudiese dar con ella aviso a <persName>Su Majestad</persName> de la entrada y de todo lo sucedido en <placeName>la tierra</placeName>, y para ello dejó todo recaudo muy cumplidamente, y con buen tiempo llegó al puerto de <placeName>Tapua</placeName>, a do vinieron los principales a recebir al gobernador; y él les dijo cómo iba en descubrimiento de la tierra, por la cual les rogaba, y de parte de <placeName>Su Majestad</placeName> les mandaba, que por su parte estuviesen siempre en paz, y ansí lo procurasen siempre estar con toda concordia y amistad, como siempre lo habían estado; y haciéndolo ansí, el gobernador les prometía de les hacer siempre buenos tratamientos y les aprovechar, como siempre lo había hecho; y luego les dio y repartió a ellos y a sus hijos y parientes muchos rescates de lo que llevaba, graciosamente, sin ningún interés; y ansí, quedaron contentos y alegres.</p>
+      
+      <p>CAPÍTULO XLV</p>
+      <p>De cómo el gobernador dejó de los bastimentos que llevaba</p>
+      <p>En este puerto de <placeName>Tapua</placeName>, porque iban muy cargados de bastimentos los navíos, tanto, que no lo podían sufrir, por asegurar la carga, dejó allí más de docientos quintales de bastimentos; y acabados de dejar, se hicieron a la vela, y fueron navegando prósperamente hasta que llegaron a un puerto que los indios llaman <placeName>Juriquizaba</placeName>, y llegó a él a un hora de la noche; y por hablar a los indios naturales dél estuvieron hasta tercero día, en el cual tiempo le vinieron a ver muchos indios cargados de bastimentos, que dieron así entre los españoles que allí iban como entre los indios guaraníes que llevaba en su compama; y el gobernador los recibió a todos con buenas palabras, porque siempre fueron éstos amigos de los cristianos y guardaron amistad; y a los principales y a los demás que trujeron bastimentos les dio rescates, y les dijo cómo iba a hacer el descubrimiento de la tierra, lo cual era bien y provecho de todos ellos, y que entretanto</p><p>que el gobernador tomaba, les rogaba siempre tuviesen paz y guardasen paz a los españoles que quedaban en la ciudad de la <placeName>Ascensión</placeName>, y ansí se lo prometieron de lo hacer; y dejándolos muy contentos y alegres, navegaron con buen tiempo río arriba.</p>
+      
+      <p>CAPÍTULO XLVI</p>
+      <p>Cómo paró por hablar a los naturales de la tierra de aquel puerto</p>
+      <p>A 12 días del mes llegó a otro puerto que se dice <persName>Itaqui</persName>, en el cual hizo surgir y parar los bergantines por hablar a los naturales del puerto, que son guaraníes y vasallos de <placeName>Su Majestad</placeName>; y el mismo día vinieron al puerto gran número de indios cargados de bastimentos para la gente, y con ellos sus principales, a los cuales el gobernador dio cuenta, como a los pasados, cómo iba a hacer el descubrimiento de la tierra, y que en el entretanto que volvía, les rogaba y mandaba que tuviesen mucha paz y concordia con los cristianos españoles que quedaban en la ciudad de la <placeName>Ascensión</placeName>; y demás de pagarles los bastimentos que habían traído, dio y repartió entre los más principales y los demás sus parientes muchos rescates graciosos, de lo cual ellos quedaron muy contentos y bien pagados; estuvo con ellos aquí dos días, y el mismo día se partió y llegó otro día a otro puerto que llaman <placeName>Itaqui</placeName>, y pasó por él, y fue a surgir al puerto que dicen de <placeName>Guazani</placeName>, que es el que se había levantado con <persName>Tabere</persName> para hacemos la guerra que he dicho, los cuales vivían en paz y concordia; y luego como supieron que estaba allí, vinieron a ver al gobernador, con muchos indios, otros de su liga y parcialidad, los cuales el gobernador <persName>recebió</persName> con mucho amor, porque cumplían las paces que habían hecho, y toda la gente que con ellos venía venían alegres y seguros, porque estos dos, estando en nuestra paz y amistad, con tenerlos a ellos solos, toda la tierra estaba segura y quedaba pacífica; y otro día que vinieron les mostró mucho amor y les dio muchos rescates graciosos, y lo mismo hizo con sus parientes y amigos, demás de pagar los bastimentos a todos aquellos que los trujeron; de manera que ellos quedaron contentos; y como ellos son la cabeza principal de los naturales de aquella tierra, el gobernador les habló lo más amorosamente que pudo, y les enco-</p>
+    </body>
+  </text>
+</TEI>

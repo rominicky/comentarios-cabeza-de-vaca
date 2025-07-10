@@ -1,0 +1,74 @@
+---
+layout: textoporpagina
+chapter: 
+title: "Página 71"
+permalink: p71
+---
+<div xmlns="http://www.w3.org/1999/xhtml" class="row">
+   <div class="col-left">
+      <div class="contenido-tei">
+         <div class="contenido-tei">      
+            
+            <p>y se vinieron para estos reinos de <span class="map-hover" data-place-key="Castilla">Castilla</span>, y llegaron a ella ocho o diez días primero que el <button class="balloon" data-balloon-pos="up" data-balloon-length="large" data-balloon="Álvar Núñez Cabeza de Vaca">gobernador</button>, porque con tiempos contrarios se detuvo en éstos; y llegados ellos primero que el
+               gobernador a la corte llegase, publicaban que se había ido al rey de <span class="map-hover" data-place-key="Portugal">Portugal</span> para darle aviso de aquellas partes, y dende a pocos días llegó a esta corte. Como
+               fue llegado, la propia noche desaparecieron los delincuentes y se fueron a <span class="map-hover" data-place-key="Madrid">Madrid</span>, a do esperaron que la corte fuese allí, como fue; y en este tiempo murió el obispo
+               de Cuenca, que presidía en el <button class="balloon" data-balloon-pos="up" data-balloon-length="large" data-balloon="El Consejo de Indias se fundó en 1511, fue la organización más importante de la administración indiana (América y las Filipinas), asesoraba a virreyes en la función ejecutiva y judicial.">Consejo de las Indias</button>, el cual tenía deseo y voluntad de castigar aquel delito y desacato que contra <a target="_blank" href="https://terminologias.filo.uba.ar/vocabs/1006/term/20">Su Majestad</a> se había hecho en aquella tierra. Dende a pocos días después de haber estado presos
+               ellos, y el gobernador igualmente, y sueltos sobre fianzas que no saldrían de la corte,
+               <a target="_blank" href="https://historia-hispanica.rah.es/biografias/44762-garci-venegas">Garci-Vanegas</a>, que era el uno de los que le habían traído y preso, murió muerte desastrada y súpita,
+               que le saltaron los ojos de la cara, sin poder manifestar ni declarar la verdad de
+               lo pasado; y <a target="_blank" href="https://historia-hispanica.rah.es/biografias/8883-alonso-cabrera">Alonso Cabrera</a>, veedor, su compañero, perdió el juicio, y estando sin él mató a su mujer en <span class="map-hover" data-place-key="Lora">Lora</span>; murieron súpita y desastradamente los frailes que fueron en los escándalos y levantamiento
+               contra el gobernador; que paresce manifestarse la poca culpa que el gobernador ha
+               tenido en ello; y después de le haber tenido preso y detenido en la corte ocho años,
+               le dieron por libre y quito; y por algunas causas que le movieron, le quitaron la
+               gobernación, porque sus contrarios decían que si volvía a la tierra, que por castigar
+               a los culpados habría escándalos y alteraciones en la tierra; y ansí, se la quitaron,
+               con todo lo demás, sin haberle dado recompensa de lo mucho que gastó en el servicio
+               que hizo en la ir a socorrer y descubrir.</p>
+            </div>
+      </div>
+   </div>
+   <div class="col-right"><a class="no-underline" target="_blank"><img class="pagina-tei" src="./assets/img/paginas_ed/71.jpg"></a></div>
+</div><div xmlns="http://www.w3.org/1999/xhtml" class="container mx-auto px-2 py-2 clearfix">
+   {% include previous-next.html %}
+   </div><div xmlns="http://www.w3.org/1999/xhtml" id="map" style="width: 250px; height: 200px; position: absolute; top: 20px; right: 20px; z-index: 1000; border: 1px solid #888; box-shadow: 0 0 8px rgba(0,0,0,0.2); display: none;"></div><script xmlns="http://www.w3.org/1999/xhtml" src="assets/js/jquery.min.js"></script><script xmlns="http://www.w3.org/1999/xhtml" src="assets/glossarizer/tooltip.js"></script><script xmlns="http://www.w3.org/1999/xhtml" src="assets/glossarizer/jquery.glossarize.js"></script><script xmlns="http://www.w3.org/1999/xhtml" src="assets/js/comentariosPlaces.js"></script><script xmlns="http://www.w3.org/1999/xhtml">
+  $(function(){
+    $('#content').glossarizer({
+      sourceURL: 'assets/js/comentariosPlaces.js',
+      lookupTagName: 'div,p, ul, b,a,span',
+      callback: function(){
+        new tooltip();
+      }
+    });
+
+    // Asocia showMap() a cada elemento con clase .map-hover
+    let currentOpenKey = null;  // para saber si hay un mapa abierto
+
+document.querySelectorAll('.map-hover').forEach(function(el) {
+  el.addEventListener('click', function(event) {
+    const key = this.dataset.placeKey;
+    
+    // Si ya está abierto para el mismo lugar, cerralo
+    if (currentOpenKey === key) {
+      hideMap();
+      currentOpenKey = null;
+    } else {
+      showMap(key);
+      currentOpenKey = key;
+    }
+
+    // Evitar que el click se propague y cierre inmediatamente si tenés un cierre global
+    event.stopPropagation();
+  });
+});
+
+// Cerrar el mapa si se hace click en otro lugar del documento
+document.addEventListener('click', function() {
+  hideMap();
+  currentOpenKey = null;
+});
+
+// Evitar que se cierre al hacer click dentro del mapa mismo
+document.getElementById('map').addEventListener('click', function(event) {
+  event.stopPropagation();
+});
+}); </script>

@@ -1,0 +1,102 @@
+---
+title: Páginas 
+permalink: /pages/
+---
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+
+  <link rel="stylesheet" href="{{ "/assets/style.css" | relative_url }}">
+  <link rel="stylesheet" href="{{ "/assets/bootstrap.css" | relative_url }}">
+  <link rel="stylesheet" href="{{ "/assets/balloon.css" | relative_url }}">
+  <link rel="stylesheet" href="{{ "/assets/map-balloon.css" | relative_url }}">
+
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+        crossorigin=""/>
+
+  <!-- Íconos -->
+  <link rel="icon" type="image/png" sizes="32x32" href="{{'/assets/img/icons/favicon-32x32.png?v=qA3OXqyw77' | relative_url }}">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{'/assets/img/icons/favicon-16x16.png?v=qA3OXqyw77' | relative_url }}">
+</head>
+
+<body class="font-smoothing" id="content">
+  <header class="px-2 clearfix">
+    <div class="toggle-controls"></div>
+    <div class="right-lg absolute-lg right-0 top-0">
+      <ul class="mt-1 mt-lg-2 mr-2 mr-lg-3">
+        <li class="inline-block block-lg text-right ml-1 ml-lg-0">
+          <a class="italic h4 bold no-underline" href="{{ site.baseurl }}/">Inicio</a>
+        </li>
+        <li class="inline-block block-lg text-right ml-1 ml-lg-0">
+          <a class="italic no-underline h4 font-smoothing" href="/itinerario/">Itinerario</a>
+        </li>
+        {% for my_page in site.pages %}
+          {% if my_page.title %}
+            <li class="inline-block block-lg text-right ml-1 ml-lg-0">
+              <a class="italic no-underline h4" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+            </li>
+          {% endif %}
+        {% endfor %}
+        <li class="inline-block block-lg text-right ml-1 ml-lg-0">
+          <a class="italic no-underline h4 font-smoothing" href="http://hdlab.space/biblioteca-digital/">Biblioteca Digital</a>
+        </li>
+      </ul>
+    </div>
+  </header>
+
+  <div class="container mx-auto px-2 mt-4 mb-2 clearfix header-text">
+    <h4 class="h2">Comentarios de Álvar Núñez Cabeza de Vaca</h4>
+  </div>
+
+  <div id="main" class="container clearfix mx-auto px-2">
+    {{ content }}
+    <div class="container mx-auto px-2 py-2 clearfix">
+      <a class="no-underline" style="color:#841212;" href="{{ site.baseurl }}/indice">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-left" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M15 8a.5.5 0 0 0-.5-.5H2.707l3.147-3.146a.5.5 0 1 0-.708-.708l-4 4a.5.5 0 0 0 0 .708l4 4a.5.5 0 0 0 .708-.708L2.707 8.5H14.5A.5.5 0 0 0 15 8z"/></svg>
+        <span class="h5">Volver al Índice</span>
+      </a>
+    </div>
+
+    <!-- Mapa flotante -->
+    <div id="map" style="width: 250px; height: 200px; position: absolute; top: 20px; right: 20px; z-index: 1000; border: 1px solid #888; box-shadow: 0 0 8px rgba(0,0,0,0.2); display: none;"></div>
+  </div>
+
+  <!-- Scripts -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+  <!-- Leaflet -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+  <!-- Lógica de glosario -->
+  <script src="{{ site.baseurl }}/assets/glossarizer/jquery.glossarize.js"></script>
+  <script src="{{ site.baseurl }}/assets/glossarizer/tooltip.js"></script>
+  <script>
+    $(function() {
+      $('#content').glossarizer({
+        sourceURL: '{{ site.baseurl }}/assets/glossarizer/comentarios-po.json',
+        lookupTagName: 'div,p, ul, b,a,span',
+        callback: function() {
+          new tooltip();
+        }
+      });
+    });
+  </script>
+
+  <!-- Mapa de lugares -->
+  <script src="{{ site.baseurl }}/assets/js/comentariosPlaces.js"></script>
+  <script src="{{ site.baseurl }}/assets/js/map-balloon.js"></script>
+
+</body>
+</html>

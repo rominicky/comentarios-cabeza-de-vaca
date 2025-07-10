@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <title>Itinerario</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <link rel="stylesheet" href="style.css" />
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <!-- FontAwesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+  <!-- Lightbox CSS -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet" />
+
+  <style>
+    body { margin: 0; font-family: 'Cairo', sans-serif; }
+    #map { height: 100vh; }
+    #story { padding: 1em; }
+    .media { max-width: 100%; height: auto; margin-top: 1em; }
+    .nav-buttons { margin-top: 1em; display: flex; justify-content: space-between; }
+    button {
+      padding: 0.5em 1em;
+      font-size: 1em;
+      cursor: pointer;
+      background-color: #967098;
+      color: white;
+      border: none;
+      border-radius: 4px;
+    }
+    button:hover { background-color: #8e5edd; }
+  </style>
+</head>
+<body>
+
+<div class="container mx-auto px-2 py-2 clearfix">
+      <a class="inicio-container" style="color:#591884;" href="/">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-left" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M15 8a.5.5 0 0 0-.5-.5H2.707l3.147-3.146a.5.5 0 1 0-.708-.708l-4 4a.5.5 0 0 0 0 .708l4 4a.5.5 0 0 0 .708-.708L2.707 8.5H14.5A.5.5 0 0 0 15 8z"/></svg>
+        <span class="h5">Inicio</span>
+      </a>
+    </div>
+
+<div id="container">
+  <div id="story">
+    <h1 style="line-height: 1.2;">Comentarios de Álvar Núñez Cabeza de Vaca</h1>
+    <h2 style="line-height: 1.1;">Un recorrido por la disputa entre el Segundo Adelantado y Domingo Martínez de Irala</h2>
+    
+    <h4>Diseñado por Romina De León</h4>
+    <p>Esto es un primer avance que implica añadir, ítems como:
+      </p>
+      <p>
+        * Titulos:
+        explicar contenido
+      </p>
+      <p>
+        * Imágenes
+        indicar fuentes
+      </p>
+      <p>
+        
+      * Lugares
+      porque esos lugares
+      </p>
+      <p>importante 
+      * personajes
+    </p>
+    <p>
+      añadir url con las licencias de las imágenes
+Cuestión para buena visualización: ver tema smartphone/tablets
+    </p>
+    <div id="chapters"></div>
+  </div>
+  <div id="map"></div>
+</div>
+
+<!-- Scripts -->
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/papaparse@5.3.2/papaparse.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+
+<script>
+  let map = L.map('map').setView([-34.60833, -58.37198], 2);
+  L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}', {
+    maxZoom: 18,
+    attribution: 'Tiles © Esri — Source: Esri, DeLorme, NAVTEQ'
+  }).addTo(map);
+
+  let data = [];
+  /* let initialLoad = true; */
+
+function createChapterElements(data) {
+  const container = document.getElementById('chapters');
+  data.forEach((chapter, i) => {
+    const div = document.createElement('div');
+    div.className = 'chapter';
+    div.dataset.index = i;
+
+    const title = document.createElement('h2');
+    title.textContent = chapter.chapter;
+
+    const desc = document.createElement('div');
+    desc.innerHTML = chapter.description;
+
+    const imgLink = document.createElement('a');
+    imgLink.href = chapter.media_url;
+    imgLink.setAttribute('data-lightbox', 'storymap');
+    imgLink.setAttribute('data-title', chapter.chapter + ' - ' + chapter.media_credit);
+
+    const img = document.createElement('img');
+    img.src = chapter.media_url;
+    img.alt = `Imagen ${chapter.chapter}`;
+    img.className = 'media';
+    imgLink.appendChild(img);
+
+    const credit = document.createElement('p');
+    credit.textContent = chapter.media_credit;
+
+    div.appendChild(title);
+    div.appendChild(desc);
+    div.appendChild(imgLink);
+    div.appendChild(credit);
+
+    container.appendChild(div);
+  });
+}
+
+function setupScrollNavigation(data) {
+  const chapters = document.querySelectorAll('.chapter');
+
+  const observer = new IntersectionObserver(entries => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        const index = entry.target.dataset.index;
+        const chapter = data[index];
+
+        chapters.forEach(c => c.classList.remove('active'));
+        entry.target.classList.add('active');
+
+        map.flyTo([parseFloat(chapter.lat), parseFloat(chapter.lon)], parseInt(chapter.zoom), {
+          duration: 3
+        });
+      }
+    });
+  }, {
+    root: document.querySelector('#story'),
+    threshold: 0.5
+  });
+
+  chapters.forEach(chapter => observer.observe(chapter));
+}
+
+  Papa.parse("storymap.csv", {
+  download: true,
+  header: true,
+  complete: function(results) {
+    data = results.data;
+    createChapterElements(data);
+    setupScrollNavigation(data);
+    addMarkers(data); // llamo
+     }
+  });
+  // Función fuera de Papa.parse para que no esté anidada
+function addMarkers(data) {
+  data.forEach((chapter, index) => {
+    const marker = L.marker([parseFloat(chapter.lat), parseFloat(chapter.lon)])
+      .addTo(map)
+      .bindPopup(`<strong>${chapter.chapter}</strong>`);
+
+    marker.on('click', () => {
+      const chapterElement = document.querySelector(`.chapter[data-index="${index}"]`);
+      if (chapterElement) {
+        chapterElement.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      }
+    });
+  });
+}
+</script>
+<!-- 
+<a href="imagen-grande.jpg" data-lightbox="storymap">
+  <img src="imagen-pequeña.jpg" alt="Descripción" />
+</a> -->
+
+</body>
+</html>

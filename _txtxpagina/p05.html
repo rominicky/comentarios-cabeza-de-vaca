@@ -1,0 +1,80 @@
+---
+layout: textoporpagina
+chapter: CAPÍTULO I
+title: "Página 05"
+permalink: p05
+---
+<div xmlns="http://www.w3.org/1999/xhtml" class="row">
+   <div class="col-left">
+      <div class="contenido-tei">
+         <div class="contenido-tei">
+            <h4>CAPÍTULO I</h4>
+            
+            <h4>De los comentarios de Alvar Núñez Cabeza de Vaca</h4>
+            
+            <p>Después que Dios nuestro Señor fue servido de sacar a <a target="_blank" href="https://terminologias.filo.uba.ar/vocabs/1006/term/126">Alvar Núñez Cabeza de Vaca</a> del captiverio y trabajos que tuvo diez años en <a href="https://en.wikipedia.org/wiki/Spanish_Florida" target="_blank">la Florida</a> y vino a <button class="balloon" data-balloon-pos="up" data-balloon-length="large" data-balloon="Refiere a su recorrido por América del Sur por el Río de la Plata y Paraguay.">estos reinos</button> en el año del Señor de 1537, donde estuvo hasta el año de <button class="balloon" data-balloon-pos="up" data-balloon-length="large" data-balloon="En realidad su viaje en América del Sur en 1545.">40</button>, en el cual vinieron a esta corte de <a target="_blank" href="https://terminologias.filo.uba.ar/vocabs/1006/term/20">Su Majestad</a> personas del <a href="https://terminologias.filo.uba.ar/vocabs/1006/term/358" target="_blank">Río de la Plata</a>, a dar cuenta a Su Majestad del suceso de la Armada, que allí había enviado <a target="_blank" href="https://terminologias.filo.uba.ar/vocabs/1006/term/24">don Pedro de Mendoza</a>, y de los trabajos en que estaban los que de ellos escaparon, y a le suplicar fuese
+               servido de los proveer, y socorrer, antes que <button class="balloon" data-balloon-pos="up" data-balloon-length="large" data-balloon="Refiere al despoblamiento del fuerte de Buenos Aires en 1541">todos peresciesen</button> (porque ya quedaban pocos de ellos). Y sabido por Su Majestad, mandó que se tomase
+               cierto asiento y capitulación con Alvar Núñez Cabeza de Vaca, para que fuese a socorrellos;
+               el cual asiento, y capitulación se efectuó, mediante que el dicho Cabeza de Vaca se
+               ofresció de los ir a socorrer, y que gastaría en la jornada, y socorro que así había
+               de hacer en caballos, armas, ropas, y bastimentos, y otras cosas, ocho mil Ducados,
+               y por la capitulación, y asiento, que con Su Majestad tomó, le hizo merced de la Gobernación,
+               y de la Capitanía General de aquella Tierra, y Provincia, con Título de <button class="balloon" data-balloon-pos="up" data-balloon-length="large" data-balloon="https://es.wikipedia.org/wiki/Adelantado">Adelantado</button> de ella; y asimesmo le hizo Merced del dozavo de todo lo que en la Tierra, y Provincia
+               se hobiese, y lo que en ella entrase, y saliese, con tanto, que el dicho Alvar Núñez
+               gastase en la jornada los dichos ocho mil Ducados; y así, él en cumplimiento del Asiento,
+               que con Su Majestad hizo, se partió luego a <span class="map-hover" data-place-key="Sevilla">Sevilla</span>, para poner en obra lo capitulado, y proveerse para el dicho socorro, y armada, y
+               para ello mercó dos naos, y una carabela, para con otra que le esperaba en <span class="map-hover" data-place-key="Canarias">Canaria</span>; la una nao de éstas era nueva del primer viaje, y era de trescientos y cincuenta
+               toneles, y la otra era de ciento y cincuenta; los cuales navíos aderezó muy bien,
+               y proveyó de muchos bastimentos, y pilotos, y marineros, y hizo cuatrocientos soldados
+               bien aderezados, cual convenía para el socorro; y todos los que se ofrecieron a ir
+               en la jornada, llevaron las armas dobladas: estuvo en mercar, y proveer los navíos
+               desde el mes de mayo, hasta en fin de septiembre, y estuvieron prestos para poder
+               navegar, y con tiempos contrarios estuvo detenido en la <span class="map-hover" data-place-key="Cádiz">Ciudad de Cádiz</span>, desde en fin de septiembre, hasta dos de noviembre, que se embarcó, y hizo</p>
+            </div>
+      </div>
+   </div>
+   <div class="col-right"><a class="no-underline" target="_blank"><img class="pagina-tei" src="./assets/img/paginas_ed/05.jpg"></a></div>
+</div><div xmlns="http://www.w3.org/1999/xhtml" class="container mx-auto px-2 py-2 clearfix">
+   {% include previous-next.html %}
+   </div><div xmlns="http://www.w3.org/1999/xhtml" id="map" style="width: 250px; height: 200px; position: absolute; top: 20px; right: 20px; z-index: 1000; border: 1px solid #888; box-shadow: 0 0 8px rgba(0,0,0,0.2); display: none;"></div><script xmlns="http://www.w3.org/1999/xhtml" src="assets/js/jquery.min.js"></script><script xmlns="http://www.w3.org/1999/xhtml" src="assets/glossarizer/tooltip.js"></script><script xmlns="http://www.w3.org/1999/xhtml" src="assets/glossarizer/jquery.glossarize.js"></script><script xmlns="http://www.w3.org/1999/xhtml" src="assets/js/comentariosPlaces.js"></script><script xmlns="http://www.w3.org/1999/xhtml">
+  $(function(){
+    $('#content').glossarizer({
+      sourceURL: 'assets/js/comentariosPlaces.js',
+      lookupTagName: 'div,p, ul, b,a,span',
+      callback: function(){
+        new tooltip();
+      }
+    });
+
+    // Asocia showMap() a cada elemento con clase .map-hover
+    let currentOpenKey = null;  // para saber si hay un mapa abierto
+
+document.querySelectorAll('.map-hover').forEach(function(el) {
+  el.addEventListener('click', function(event) {
+    const key = this.dataset.placeKey;
+    
+    // Si ya está abierto para el mismo lugar, cerralo
+    if (currentOpenKey === key) {
+      hideMap();
+      currentOpenKey = null;
+    } else {
+      showMap(key);
+      currentOpenKey = key;
+    }
+
+    // Evitar que el click se propague y cierre inmediatamente si tenés un cierre global
+    event.stopPropagation();
+  });
+});
+
+// Cerrar el mapa si se hace click en otro lugar del documento
+document.addEventListener('click', function() {
+  hideMap();
+  currentOpenKey = null;
+});
+
+// Evitar que se cierre al hacer click dentro del mapa mismo
+document.getElementById('map').addEventListener('click', function(event) {
+  event.stopPropagation();
+});
+}); </script>

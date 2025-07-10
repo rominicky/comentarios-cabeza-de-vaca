@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+<idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="pb">pb 037</div>
+      
+      <p>volviesen a la costa y llevasen ciertas cartas para <persName>Su Majestad</persName>, dándole a entender por ellas que el gobernador usaba mal de la gobernación que <persName>Su Majestad</persName> le había hecho merced, movidos con mal celo por el odio y enemistad que le tenían, por impedir y estorbar la entrada y descubrimiento de la tierra que iba a descubrir, como dicho tengo; lo cual hacían porque el gobernador no sirviese a <placeName>Su Majestad</placeName> ni diese ser ni descubriese aquella tierra; y la causa de esto había sido porque cuando el gobernador llegó a la tierra la halló pobre y desarmados los cristianos, y rotos los que en ella servían a <placeName>Su Majestad</placeName>; y los que en ella residían se le querellaron de los agravios y malos tratamientos que los oficiales de <placeName>Su Majestad</placeName> les hacían, y que por su propio interés particular habían echado un tributo y nueva imposición muy contra justicia y contra lo que se usa en <placeName>España</placeName> y en <placeName>Indias</placeName>, a la cual imposición pusieron nombre de quinto, de lo cual está hecha memoria en esta relación, y por esto querían impedir la entrada, y el secreto de esto de que se querían ir los frailes, andaba el uno de ellos con un crucifijo debajo del manto, y hacían que pusiesen la mano en el crucifijo y jurasen de guardar el secreto de su ida de la tierra para el <placeName>Brasil</placeName>; y como esto supieron los indios principales de la tierra, parescieron ante el gobernador y le pidieron que les mandase dar sus hijas, las cuales ellos habían dado a los dichos frailes, para que se las industriasen en la doctrina cristiana; y que entonces habían oído decir que los frailes se querían ir a la costa del <placeName>Brasil</placeName> y que les llevaban por fuerza sus hijas, y que antes que llegasen allá se solían morir todos los que allá iban; y porque las indias no querían ir y huían y que los frailes las tenían muy sujetas y aprisionadas. Cuando el gobernador vino a saber esto, ya los frailes eran idos, y envió tras de ellos y los alcanzaron dos leguas de allí y los hizo volver al pueblo. Las mozas que llevaban eran treinta y cinco; y ansimismo envió tras de otros cristianos que los frailes habían levantado, y los alcanzaron y trujeron, y esto causó grande alboroto y escándalo, ansí entre los españoles como en toda la tierra de los indios, y por ello los principales de toda la tierra dieron grandes querellas por <persName>llevalles</persName> sus hijas; y ansí, llevaron al gobernador un indio de la costa del <placeName>Brasil</placeName>, que se llamaba <persName>Domingo</persName>, muy importante al servicio de <placeName>Su Majestad</placeName> en aquella tierra; y habida información contra los frailes y oficiales, mandó prender a los oficiales, y mandó proceder contra ellos por el delito que contra <persName>Su Majestad</persName> habían cometido; y por no detenerse el gobernador con ellos, sometió la causa a un juez para que conociese de sus culpas y cargos, y sobre fianzas llevó los dos de ellos consigo, dejando los otros presos en la ciudad, y suspendidos los oficios, hasta tanto que <persName>Su Majestad</persName> proveyese en ello lo que más fuese servido.</p>
+      
+      <p>CAPÍTULO XLIV</p>
+      <p>De cómo el gobernador llevó a la entrada cuatrocientos hombres</p>
+      <p>A esta sazón ya todas las cosas necesarias para seguir la entrada y descubrimiento estaban aparejadas y puestas a punto, y los diez bergantines cargados de bastimentos y otras municiones; por lo cual el gobernador mandó señalar y escoger cuatrocientos hombres arcabuceros y ballesteros para que fuesen en el viaje, y la mitad de ellos se embarcaron en los bergantines, y los otros, con doce de caballo, fueron por tierra cerca del río hasta que fuesen en el puerto que dicen de <persName>Guayviaño</persName>, yendo siempre la gente por los pueblos y lugares de los indios guaraníes, nuestros amigos, porque por allí era mejor; embarcaron los caballos, y porque no se detuviesen en los navíos esperándolos, los mandó partir ocho días antes, por que fuesen manteniéndose por tierra y no gastasen tanto mantenimiento por el río, y fue con ellos el factor <persName>Pedro Dorantes</persName> y el contador <persName>Felipe de Cáceres</persName>; y dende a ocho días adelante el gobernador se embarcó, después de haber dejado por su lugarteniente de capitán general a <persName>Juan de Salazar de Espinosa</persName>, para que en nombre de Su Majestad sustentase y gobernase en paz y en justicia aquella tierra, y quedando en ella doscientos y tantos hombres de guerra, arcabuceros y ballesteros, y todo lo necesario que era menester para la guarda de ella, y seis de caballo entre ellos; y día de <placeName>Nuestra Señora de Septiembre</placeName>, dejó hecha la iglesia, muy buena, que el gobernador trabajó con su persona en ella siempre, que se había quemado. Partió del puerto con los diez bergantines y ciento y veinte canoas, y llevaban mil y doscientos indios en ellas, todos hombres de guerra, que parecían extrañamente bien verlos ir navegando en ellas, con tanta munición de arcos y flechas; iban muy pintados, con muchos penachos y plumería, con muchas</p>
+    </body>
+  </text>
+</TEI>

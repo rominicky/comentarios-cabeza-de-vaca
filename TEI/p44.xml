@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+<idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="pb">pb 044</div>
+      
+      <p>contratación; y ansí, en tiempos son amigos y en otros tienen sus guerras y enemistades.</p>
+      
+      <p>CAPÍTULO LII</p>
+      <p>De cómo los indios de la tierra vienen a vivir en la costa del río</p>
+      <p>Cuando las aguas están bajas los naturales de la tierra adentro se vienen a vivir a la ribera con sus hijos y mujeres a gozar de las pesquerías, porque es mucho el pexe que matan, y está muy gordo; están en esta buena vida bailando y cantando todos los días y las noches, como gentes que tienen seguro el comer; y como las aguas comienzan a crescer, que es por enero, vuélvense a recoger a partes seguras, porque las aguas crescen seis brazas en alto encima de las barrancas, y por aquella tierra se extienden por unos llanos adelante más de cien leguas la tierra adentro, que paresce mar, y cubre los árboles y palmas que por la tierra están, y pasan los navíos por encima de ellos; y esto <placeName>acontesce</placeName> todos los años del mundo ordinariamente, y pasa esto en el tiempo y coyuntura cuando el <persName>Sol</persName> parte del trópico de allá y viene para el trópico que está acá, que está sobre la boca del río del Oro; y los naturales del río, cuando el agua llega encima de las barrancas, ellos tienen aparejadas unas canoas muy grandes para este tiempo, y en medio de las canoas echan dos o tres cargas de barro, y hacen un fogón; y hecho, métese el indio en ella con su mujer y hijos y casa, y vanse con la cresciente del agua donde quieren, y sobre aquel fogón hacen fuego y guisan de comer y se calientan, ansí andan cuatro meses del año que dura esta cresciente de las aguas; y como las aguas andan crescidas, saltan en algunas tierras que quedan descubiertas, y allí matan venados y antas y otras salvajinas que van huyendo del agua; y como las aguas hacen repunta para volver a su curso, ellos se vuelven cazando y pescando como han ido, y no salen de sus canoas hasta que las barrancas están descubiertas donde ellos suelen tener sus casas; y es cosa de ver, cuando las aguas vienen bajando, la gran cantidad de pescado que deja el agua por la tierra en seco; y cuando esto acaesce, que es en fin de marzo y abril, todo este tiempo hiede aquella tierra muy mal, por estar la tierra emponzoñada; en este tiempo todos los de la tierra, y nosotros con ellos, estuvimos malos, que pensamos morir; y como entonces es verano en aquella tierra y incomportable de sufrir; y siendo el mes de abril comienzan a estar buenos todos los que han enfermado. Todos estos indios sacan el hilado que han menester para hacer sus redes de unos cardos; machácanlos y échanlos en un ciénago, y después que está quince días allí, ráenlos con unas conchas de almejones, y sale curado, y queda más blanco que la nieve. Esta gente no tenían principal, puesto que en <placeName>la tierra</placeName> los hay entre todos ellos; mas éstos son pescadores, salvajes y salteadores; es gente de frontera, todos los cuales, y otros pueblos que están a la lengua del agua por do el</p><p>gobernador pasó, no consintió que ningún español ni indio guaraní saliese en tierra, por que no se revolviesen con ellos, por los dejar en paz y contentos; y les repartió graciosamente muchos rescates, y les avisó que venían otros navíos de cristianos y de indios guaraníes, amigos suyos; que los tuviesen por amigos y que tratasen bien. <persName>Yendo</persName> caminando un viernes de mañana, llegóse a una muy gran corriente del río, que pasa por entre unas peñas cortadas, y por aquella corriente pasan tan gran cantidad de pexes que se llaman dorados, que es infinito número de ellos los que continuo pasan, y aquí es la mayor corriente que hallaron en este río, la cual pasamos con los navíos a la vela y al remo. <persName>Aquí</persName> mataron los españoles y indios en obra de una hora muy gran cantidad de dorados, que hobo cristiano que mató él solo cuarenta dorados; son tamaños que pesan media arroba cada uno, y algunos pesan arroba; es muy hermoso pescado para comer, y el mejor bocado de él es la cabeza; es muy graso y sacan de él mucha manteca, y los que lo comen con ella andan siempre muy gordos y lucios, y bebiendo el caldo de ellos, en un mes los que lo comen se despojan de cualquier sarna y lepra que tengan; de esta manera fue navegando con buen viento de vela que nos hizo. Un día en la tarde, a 25 días del mes de octubre, llegó a una división y apartamiento que el río hacía, que se hacían tres brazos de ríos el uno de los brazos era una grande laguna, a la cual llaman los indios <placeName>río Negro</placeName>, y este <placeName>río Negro</placeName> corre hacia el norte por la tierra adentro, y los otros brazos el agua de ellos es de buena color, y un poco más abajo se vienen a juntar; y ansí, fue siguiendo su navegación hasta que llegó a la boca de un río que entra por la tierra adentro, a la mano izquierda, a la parte del poniente donde se pier-</p>
+    </body>
+  </text>
+</TEI>

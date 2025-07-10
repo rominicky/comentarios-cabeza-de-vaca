@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+            <idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <pb n="12" ="12.jpg"/>
+      <p>tratamiento de los indios, se regocijaron mucho, aunque el reposar era muy dañoso; porque como la gente estaba sin ejercitar el cuerpo, y tenían tanto de comer, no digerían lo que comían, y luego les daba calenturas, lo que no hacía cuando caminaban, porque luego como comenzaban a caminar las dos jornadas primeras, desechaban el mal y andaban buenos: y al principio de la jornada, la gente fatigaba al <note ana="Título de Álvar Núñez.">gobernador</note> que reposase algunos días, y no lo quería permitir, porque ya tenía experiencia, que habían de adolecer, y la gente creía, que lo hacía por darlos mayor trabajo, hasta que por experiencia vinieron a conoscer que lo hacía por su bien, porque de comer mucho adolescían, y de esto el gobernador tenía mucha experiencia.</p>
+      <div type="capitulo" n="9">
+      <head>CAPÍTULO IX</head>
+      <head type="titulocapitulo">De cómo el gobernador, y su gente se vieron con necesidad de hambre, y la remediaron con gusanos, que sacaban de unas cañas</head>
+      <p>A veinte y ocho días de diciembre el gobernador y su gente salieron del lugar de <placeName ana="Según diversos autores este pueblo se hallaría entre Caazapá, Itapúa o Guairá (ciudades de Paraguay), así como entre la inmediaciones de los ríos Tebicuary y Paraná.">Tugui</placeName>, donde quedaron los indios muy contentos; y yendo caminando por la tierra todo el día, sin hallar poblado alguno, llegaron a un río muy caudaloso, y ancho, y de grandes corrientes, y hondables; por la ribera del cual había muchas arboledas de acipreses, y cedros, y otros árboles: en pasar este río se rescibió muy gran trabajo aqueste día, y otros tres; caminaron por la tierra, y pasaron por cinco lugares de indios de la generación de los <persName ref="https://pueblosoriginarios.com/sur/bosque_atlantico/guarani/cultura.html">guaraníes</persName>, y de todos ellos los salían a rescebir al camino con sus mujeres, y hijos, y traían muchos bastimentos, en tal manera, que la gente siempre fue muy proveída, y los indios quedaron muy pacíficos, por el buen tratamiento, y paga, que el gobernador les hizo. Toda esta tierra es muy alegre, y de muchas aguas, y arboledas: toda la gente de los pueblos siembran maíz, y cazabi, y otras semillas, y batatas de tres maneras, blancas, y amarillas, y coloradas, muy gruesas, y sabrosas, y crían patos, y gallinas, y sacan mucha miel de los árboles, de lo hueco de ellos.</p>
+      <p>A primero día del mes de enero del año del Señor de 1542, que el gobernador, y su gente partió de los pueblos de los indios, fue caminando por tierras de montañas, y cañaverales muy espesos, donde la gente pasó harto trabajo, porque hasta los cinco días del mes no hallaron poblado alguno; y demás del trabajo, pasaron mucha hambre, y se sostuvo con mucho trabajo, abriendo caminos por los cañaverales. En los cañutos de estas cañas había unos gusanos blancos, tan gruesos, y largos como un dedo; los cuales la gente freían para comer, y salía de ellos tanta manteca, que bastaba para freírse muy bien, y los comían toda la gente, y los tenían por muy buena comida; y de los cañutos de otras cañas sacaban agua, que bebían, y era muy buena, y se holgaban con ello. Esto andaban a buscar para comer en todo el camino: por manera, que con ellos se sustentaron, y remediaron su necesidad, y hambre por aquel despoblado. En el camino se pasaron dos ríos grandes, y muy caudalosos, con gran trabajo: su corriente es al norte. Otro día seis de enero, yendo caminando por la tierra adentro, sin hallar poblado alguno, vinieron a dormir a la ribera de otro río caudaloso de grandes corrientes, y de muchos cañaverales, donde la gente sacaba de los gusanos de las cañas para su comida, con que se sustentaron: y de allí partió el gobernador con su gente. Otro día siguiente fue caminando por tierra muy buena, y de buenas aguas, y de mucha caza, y puercos monteses, y venados, y se mataban algunos, y se repartían entre la gente. Este día pasaron dos ríos pequeños; plugo a Dios que no adolesció en este tiempo ningún cristiano, y todos iban caminando buenos, con esperanza de llegar presto a la ciudad de la <placeName key="asuncion">Ascensión</placeName>, donde estaban los españoles, que iban a socorrer: desde seis de enero, hasta diez del mes, pasaron por muchos pueblos de indios de la generación de los guaraníes, y todos muy pacíficos, y alegremente los salieron a rescebir al camino, de cada pueblo su principal, y los otros indios con sus mujeres, y hijos cargados de bastimentos (de que se rescibió grande ayuda, y beneficio para los españoles), aunque los frailes fray <persName ref="https://historia-hispanica.rah.es/biografias/4146-bernardo-de-armenta-o-armentia">Bernaldo de Armenia</persName> y fray <persName ref="https://historia-hispanica.rah.es/biografias/26055-alonso-lebron">Alonso Lebrón</persName>, su compañero, se adelantaban a recoger, y tomar los bastimentos; y cuando llegaba el gobernador con la gente, no tenían los indios que dar, de lo cual la gente se querelló al gobernador, por haberlo hecho muchas veces, habiendo sido apercibidos por el gobernador que no lo hiciesen, y que no llevasen ciertas personas de indios, grandes, y chicos, inútiles, a quien daban de comer, no lo quisieron hacer, de cuya causa toda la gente estuvo movida para los derramar, si el gobernador no se lo estorbara, por lo que tocaba al servicio de Dios, y de Su Majestad; y al cabo los frailes se fueron, y apartaron de</p></div>
+    </body>
+  </text>
+</TEI>

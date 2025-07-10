@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+            <idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <pb n="07" facs="07.jpg"/>
+      <div type="capitulo" n="3">
+      <head>CAPÍTULO III</head>
+      <head type="titulocapitulo">Que trata de cómo el gobernador llegó con su armada a la isla de Santa Catalina, que es en el Brasil, y desembarcó allí con su armada</head>
+      <p>Llegado que hobo el <note ana="Cada vez que menciona gobernador refiere a Álvar Núñez Cabeza de Vaca">gobernador</note> con su armada a la <placeName key="Santa Catalina">isla de Santa Catalina</placeName>, mandó desembarcar toda la gente que consigo llevaba, y veinte y seis caballos, que escaparon de la mar, de los cuarenta y seis, que en <placeName ref="https://es.wikipedia.org/wiki/Corona_de_Castilla">España</placeName> embarcó, para que en tierra se reformasen de los trabajos que habían rescebido con la larga navegación, y para tomar lengua, y informarse de los indios naturales de aquella tierra, porque por ventura acaso podrían saber del estado en que estaba la gente española, que iban a socorrer, que residía en la <placeName key="riodelaplata">provincia del Río de la Plata</placeName>; y dio a entender a los indios cómo iba por mandado de <persName ref="https://es.wikipedia.org/wiki/Carlos_I_de_Espa%C3%B1a">Su Majestad</persName> a hacer el socorro, y tomó posesión de ella en nombre, y por Su Majestad; y asimismo del puerto que se dice de la <placeName key="Cananeia">Cananea</placeName>, que está en la costa del <placeName ref="https://es.wikipedia.org/wiki/Capitan%C3%ADas_del_Brasil">Brasil</placeName>, en veinte y cinco grados, poco más, o menos. Está este puerto cincuenta leguas de la isla de Santa Catalina; y en todo el tiempo que el gobernador estuvo en la isla, a los indios naturales de ella, y de otras partes de la costa del <placeName ref="https://upload.wikimedia.org/wikipedia/commons/8/81/Capitanias.jpg">Brasil</placeName> (vasallos de Su Majestad) les hizo muy buenos tratamientos; y de estos indios tuvo aviso como catorce leguas de la isla, donde dicen el <note ana="Biaça, 1585, topónimo que designa una localidad en la región de Laguna en Santa Catarina.">Biaza</note>, estaban dos frailes franciscos, llamados el uno fray <persName ref="https://historia-hispanica.rah.es/biografias/4146-bernardo-de-armenta-o-armentia"><note ana="Fray Bernardo de Armenta profesó en la Orden franciscana en la andaluza provincia Bética. Arribó guiando a otros cuatro franciscanos a las costas brasileñas el año 1538 en la expedición de Alonso de Cabrera.">Bernaldo de Armenta</note></persName>, natural de <placeName ref="https://es.wikipedia.org/wiki/Provincia_de_C%C3%B3rdoba_(Espa%C3%B1a)">Córdoba</placeName>; y el otro fray <persName ref="https://historia-hispanica.rah.es/biografias/26055-alonso-lebron">Alonso Lebrón</persName>, natural de la <placeName ref="https://es.wikipedia.org/wiki/Gran_Canaria">Gran Canaria</placeName>; y dende a pocos días estos frailes se vinieron donde el gobernador, y su gente estaban muy escandalizados, y atemorizados de los indios de la tierra, que los querían matar, a causa de haberles quemado ciertas casas de indios, y por razón de ello habían muerto a dos cristianos que en aquella tierra vivían: y bien informado el gobernador del caso, procuró sosegar, y pacificar los indios, y recogió los frailes, y puso paz entre ellos, y les encargó a los frailes tuviesen cargo de doctrinar los indios de aquella tierra, y isla.</p></div>
+      <div type="capitulo" n="4">
+      <head>CAPÍTULO IV</head>
+      <head type="titulocapitulo">De cómo vinieron nueve cristianos a la isla</head>
+      <p>Y prosiguiendo el Gobernador en el socorro de los españoles, por el mes de mayo del año de 1541 envió una carabela con <persName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/132">Felipe de Cáceres</persName>, contador de <note ana="Refiere a Álvar Núñez">Vuestra Majestad</note>, para que entrase por el río, que dicen de la <note ana="Refiere al Río de la Plata">Plata</note>, a visitar el pueblo, que don <persName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/24">Pedro de Mendoza</persName> allí fundó, que se llama <placeName key="buenayre">Buenos Aires</placeName>, y porque a aquella sazón era invierno, y tiempo contrario para la navegación del río, no pudo entrar, y se volvió a la isla de Santa Catalina, donde estaba el gobernador, y allí vinieron nueve cristianos españoles, los cuales vinieron en un batel, huyendo del pueblo de Buenos Aires, por los malos tratamientos que les hacían los capitanes, que residían en la provincia, de los cuales se informó del estado en que estaban los españoles, que en aquella tierra residían, y le dijeron, que el pueblo de Buenos Aires estaba poblado, y reformado de gente, y bastimentos; y que <persName ref="https://es.wikipedia.org/wiki/Juan_de_Ayolas">Juan de Ayolas</persName>, a quien don Pedro de Mendoza había enviado a descubrir la tierra, y poblaciones de aquella provincia, al tiempo que volvía del descubrimiento, viniéndose a recoger a ciertos bergantines, que había dejado en el puerto, que puso por nombre de <placeName key="Candelaria">la Candelaria</placeName>, que es en el <placeName ref="https://es.wikipedia.org/wiki/R%C3%ADo_Paraguay#Toponimia">río del Paraguay</placeName>, de una generación de indios, que viven en el dicho río, que se llaman <persName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/721">payaguos</persName>, le mataron a él, y a todos los cristianos, con otros muchos indios, que traía de la tierra adentro con las cargas, de la generación de unos indios que se llaman <persName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/885">chameses</persName>: y que de todos los cristianos, y indios había escapado un mozo de la generación de los chameses, a causa de no haber hallado en el dicho puerto de la Candelaria los bergantines, que allí había dejado, que le aguardasen hasta el tiempo de su vuelta, según lo había mandado, y encargado a un <persName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/90">Domingo de Irala</persName>, vizcaíno, a quien dejó por capitán en ellos; el cual, antes de ser vuelto el dicho Juan de Ayolas, se había retirado, y desamparado el puerto de la Candelaria: por manera, que por no los hallar el dicho Juan de Ayolas, para recogerse en él, los indios los habían desbaratado, y muerto a todos, por culpa del dicho <note ana="Fue el principal rival de Cabeza de Vaca. Irala decidió despoblar Buenos Aires en 1541, para trasladarse a Asunción. Este actuaba con el respaldo de las autoridades locales y del poder efectivo en la región. Estas organizaciones fueron las que prevalecieron, evidenciando la consolidación del poder criollo y la autonomía frente a las órdenes directas de la Corona.">Domingo de Irala</note>, vizcaíno, capitán de los bergantines; y asimismo le dijeron y hicieron saber, cómo en la ribera del río del Paraguay, ciento y veinte leguas más bajo del puerto de la Candelaria, estaba hecho, y asentado un pueblo, que se llama la ciudad de la <placeName key="Asunción">Ascunsión</placeName>, en amistad, y concordia de una generación de indios que se llaman <persName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/629">carios</persName>, donde residía la mayor parte de la gente española, que en la provincia estaba; y que en el pueblo, y puerto de Buenos Aires, que es en el <placeName ref="https://es.wikipedia.org/wiki/R%C3%ADo_Paran%C3%A1#Toponimia">río del Paraná</placeName>, estaban hasta sesenta cristianos, desde el cual puerto, hasta la ciudad de la Ascensión, que es en el río del Paraguay,</p></div>
+    </body>
+  </text>
+</TEI>

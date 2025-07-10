@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno><idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <pb n="31" facs="31.jpg"/>
+      <div type="capitulo" n="34">      
+      <p>el primero fue un <note ana="Este jefe guaraní será ajusticiado por orden de Cabeza de Vaca, y generará un enfrentamiento con otros de la misma parcialidad.">indio principal</note> del río arriba que se llamaba <persName ana="Jefe guaraní que se reveló contra la colonización española, desobedeciendo las órdenes de los conquistadores, y dejó 'en territorio enemigo a los cristianos que guiaba'. Esto fue motivo para que Cabeza de Vaca ordenara su ahorcamiento.">Aracare</persName>, y otros señalados que adelante se dirá; y vista la voluntad de los indios, se partieron con ellos tres cristianos lenguas, hombres pláticos en la tierra, y iban con ellos los indios que se le habían ofrescido muchas veces, de <persName ref="https://pueblosoriginarios.com/sur/bosque_atlantico/guarani/cultura.html">guaraníes</persName> y otras generaciones, los cuales habían pedido les diesen la empresa del descubrimiento; a los cuales encomendó que con toda diligencia y fidelidad descubriesen aquel camino, adonde tanto servicio harían a Dios y a Vuestra Majestad; y entretanto que los cristianos y indios ponían en efecto el camino, mandó adereszar tres bergantines y bastimentos y cosas necesarias, y con noventa cristianos envió al capitán <persName ref="https://historia-hispanica.rah.es/biografias/29465-domingo-martinez-de-irala">Domingo de Irala</persName>, vizcaíno, por capitán de ellos, para que subiesen por el <placeName ref="https://es.wikipedia.org/wiki/R%25C3%25ADo_Paraguay">río
+       del Paraguay</placeName> arriba todo lo que pudiesen navegar y descubrir en tiempo de tres meses y medio, y viesen si en la ribera del río había algunas poblaciones de indios, de los cuales se tomase relación y aviso de las poblaciones y gente de la provincia. Partiéronse estos tres navíos de cristianos a 20 días del mes de noviembre, año de 1542. En ellos iban los tres españoles con los indios que habían de descubrir por tierra, a do habían de hacer el descubrimiento por el puerto que dicen de las <placeName key="Puerto de las Piedras">Piedras</placeName>, setenta leguas de la ciudad de la <placeName key="Asunción">Ascensión</placeName>, yendo por el río del Paraguay arriba. Partidos los navíos que iban a hacer el descubrimiento de la tierra, dende a ocho días escribió una carta el <persName ref="https://historia-hispanica.rah.es/biografias/33408-francisco-ortiz-de-vergara">capitán Vergara</persName> cómo los tres españoles se habían partido con número de más de ochocientos indios por el puerto de las Piedras, debajo del Trópico en veinte y cuatro grados, a proseguir su camino y descubrimiento, y que los indios iban muy alegres y deseosos de enseñar a los españoles el dicho camino; y habiéndolos encargado y encomendado a los indios se partía para el río arriba a hacer el descubrimiento.</p>
+      </div>
+      <div type="capitulo" n="35">
+      <head>CAPÍTULO XXXV</head>
+      <head type="titulocapitulo">Cómo se volvieron de la entrada los tres cristianos y indios que iban a descubrir</head>
+      <p>Pasados veinte días que los tres españoles hobieron partido de la ciudad de la <placeName key="Asunción">Ascensión</placeName> a ver el camino que los indios se ofrescieron a les enseñar, volvieron a la ciudad, y dijeron que llevando por guía principal <persName ana="Est jefe guaraní se revela contra la colonización española, desobedeciendo las ordenes de los conquistadores, y dejó 'en territorio enemigo a los cristianos que guiaba'. Esto fue motivo para que Cabeza de Vaca ordenara su ahorcamiento.">Aracare</persName>, indio principal de la tierra, habían entrado por el que dicen puerto de las Piedras, y con ellos hasta ochocientos indios, poco más o menos; y habiendo caminado cuatro jornadas por la tierra por donde los dichos indios iban, guiando el indio Aracare, principal, como hombre que los indios le temían y acataban con mucho respeto, les mandó, desde el principio de su entrada, fuesen poniendo fuego por los campos por donde iban caminando, que era dar grande aviso a los indios de aquella tierra, enemigos, para que saliesen a ellos al camino y los matasen; lo cual hacían contra la costumbre y orden que tienen los que van a entrar y a descubrir por semejantes tierras y entre los indios se acostumbraba; y allende de esto, el Aracare públicamente iba diciendo a los indios que se volviesen y no fuesen con ellos a les enseñar el camino de las poblaciones de la tierra, porque los cristianos eran malos, y otras palabras muy malas y ásperas, con las cuales escandalizó a los indios; y no embargante que por ellos fueron rogados y importunados siguiesen su camino y dejasen de quemar los campos, no lo quisieron hacer; antes al cabo de las cuatro jornadas se volvieron, dejándolos desamparados y perdidos en la tierra, y en muy gran peligro, por lo cual les fue forzado volverse, visto que todos los indios y las guías se habían vuelto.</p></div>
+      <div type="capitulo" n="36">
+      <head>CAPÍTULO XXXVI</head>
+      <head type="titulocapitulo">Cómo se hizo tablazón para los bergantines y una carabela</head>
+      <p>En este tiempo el gobernador mandó que se buscase madera para aserrar y hacer tablazón y ligazón, así para hacer bergantines para el descubrimiento de la tierra, como para hacer una carabela que tenía acordado de enviar a este reino para dar cuenta a <persName>Su Majestad</persName> de las cosas sucedidas en la provincia en el descubrimiento y conquista de ella; y el gobernador personalmente fue por los montes y campos de la tierra con los oficiales y maestros de bergantines y aserradores; los cuales en tiempo de tres meses aserraron toda la madera que les paresció que bastaría para hacer la carabela y diez navíos de remos para la navegación del río y descubrimiento de él; la cual se trajo a la ciudad de la <placeName>Ascensión</placeName> por los indios naturales, a los cuales mandó pagar sus trabajos, y de la madera con toda diligencia se comenzaron a hacer los dichos bergantines.</p>
+     </div>
+    </body>
+  </text>
+</TEI>

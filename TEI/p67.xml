@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno><idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <pb n="67" facs="67.jpg"/>
+      <div type="capitulo" n="79"> 
+      <p>nombrado, venir ante <persName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/20">Su Majestad</persName> a dar cuenta de todo lo pasado y presente, y los oficiales le respondieron que después que fue preso perdieron la fuerza las provisiones que tenía, y que no podía usar de ellas, y que bastaba la persona que ellos habían puesto; y cada día entraban adonde estaba preso, amenazándole que le habían de dar de puñaladas y cortar la cabeza; y él les dijo que cuando determinasen de hacerlo, les rogaba, y si necesario era les requería de parte de Dios y de Su Majestad, le diesen un religioso o clérigo que le confesase; y ellos respondieron que si le habían de dar confesor, había de ser a <persName ref="https://historia-hispanica.rah.es/biografias/3397-francisco-de-andrada">Francisco de Andrada</persName> o a otro vizcaíno, clérigos, que eran los principales de su comunidad, y que si no se quería confesar con ninguno de ellos, que no le habían de dar otro ninguno, porque a todos los tenían por sus enemigos, y muy amigos suyos; y ansí, habían tenido presos a <persName ana="Clérigo del bando alvarista.">Antón de Escalera</persName> y a <persName ana="Clérigo del bando alvarista.">Rodrigo de Herrera</persName> y a <persName ana="Clérigo del bando alvarista.">Luis de Miranda</persName>, clérigos, porque les habían dicho y decían que había sido muy gran mal, y cosa muy mal hecha contra el servicio de Dios y de Su Majestad, y gran perdición de la tierra en prenderle, y a <persName ref="https://es.wikipedia.org/wiki/Luis_Miranda_de_Villafa%C3%B1e#Incendio_de_Asunci%C3%B3n_y_%C3%BAltimos_a%C3%B1os">Luis de Miranda</persName>, clérigo, tuvieron preso con el alcalde mayor más de ocho meses donde no vio sol ni luna, y con sus guardas; y nunca quisieron ni consintieron que le entrasen a confesar otro religioso ninguno, sino los sobredichos; y porque un <persName ana="Partidario de Cabeza de Vaca.">Antón Bravo</persName>, hombre hijodalgo y de edad de diez y ocho años, dijo un día que él daría forma como el gobernador fuese suelto de la prisión, los oficiales y <persName ref="https://historia-hispanica.rah.es/biografias/29465-domingo-martinez-de-irala">Domingo de Irala</persName> le prendieron y dieron luego tormento; y por tener ocasión de molestar y castigar a otros a quien tenían odio, le dijeron que le soltarían libremente con tanto que hiciese culpados a muchos que en su confesión le hicieron declarar; y ansí, los prendieron a todos y los desarmaron, y al Antón Bravo le dieron cien azotes públicamente por las calles, con voz de traidor, diciendo que lo había sido contra Su Majestad porque quería soltar de la prisión al gobernador.</p></div>
+      <div type="capitulo" n="80"> 
+      <head>CAPÍTULO LXXX</head>
+      <head type="titulocapitulo">De cómo atormentaron a los que no eran de su opinión</head>
+      <p>Sobre esta causa dieron tormentos muy crueles a otras muchas personas para saber y descubrir si se daba orden y trataban entre ellos de sacar de la prisión al <note ana="Álvar Núñez Cabeza de Vaca">gobernador</note>, y qué personas eran, y de qué manera lo concertaban, o si se hacían minas debajo de tierra; y muchos quedaron lisiados de las piernas y brazos de los tormentos; y porque en algunas partes por las paredes del pueblo escrebían letras que decían: <hi rend="italic">Por tu rey y por tu ley morirás</hi>, los oficiales y Domingo de Irala y sus justicias hacían informaciones para saber quién lo había escrito, y jurando y amenazando que si lo sabían que lo habían de castigar a quien tales palabras escribía, y sobre ello prendieron a muchos y dieron tormento.</p></div>
+      <div type="capitulo" n="81">       
+      <head>CAPÍTULO LXXXI</head>
+      <head type="titulocapitulo">Cómo quisieron matar a un regidor porque les hizo un requerimiento</head>
+      <p>Estando las cosas en el estado que dicho tengo, un <persName ana="Regidor, trató de presentar un requerimiento para que Cabeza de Vaca pudiese nombrar un representante, sin embargo no prosperó">Pedro de Molina</persName>, natural de <placeName key="Guadix">Guadix</placeName> y regidor de aquella ciudad, visto los grandes daños, alborotos y escándalos que en la tierra había, se determinó por el servicio de Su Majestad de entrar dentro en la palizada, a do estaban los oficiales y Domingo de Irala; y en presencia de todos, quitado el bonete, dijo a <persName ref="https://aunamendi.eusko-ikaskuntza.eus/en/orue-martin-de/ar-112436/">Martín de Ure</persName>, escribano, que estaba presente, que leyese a los oficiales aquel requerimiento para que cesasen los males y muertes y daños que en la tierra había por la prisión del gobernador, que lo sacasen de ella, y lo soltasen, porque con ello, cesaría todo; y si no quisiesen sacarle, le diesen lugar a que diese poder a quien él quisiese para que, en nombre de Su Majestad, gobernase la provincia, y la tuviese en paz y en justicia. Dando el requerimiento al escribano, rehusaba de tomallo, por estar delante todos aquellos, y al fin lo tomó, y dijo al Pedro de Molina que si quería que lo leyese, que le pagase sus derechos; y Pedro de Molina sacó la espada que tenía en la cinta, y diósela, la cual no quiso, diciendo que él no tomaba espada por prenda; el dicho Pedro de Molina se quitó una caperuza montera, y se la dio y le dijo: <hi rend="italic">«Leedlo, que no tengo otra mejor prenda.»</hi> El Martín de Ure tomó la caperuza y el requerimiento, y dio con ello en el suelo a sus pies, diciendo que no lo quería notificar a aquellos señores; y luego se levantó <persName ref="https://historia-hispanica.rah.es/biografias/44762-garci-venegas">Garci-Vanegas</persName>, teniente de tesorero, y dijo al Pedro de Molina muchas palabras afrentosas y vergonzosas, diciéndole que estaba por le hacer matar a palos, y que esto era lo que merescía por osar decir</p></div>
+    </body>
+  </text>
+</TEI>

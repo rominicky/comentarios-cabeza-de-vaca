@@ -1,0 +1,27 @@
+---
+layout: page
+title: Edición digital
+permalink: /indice/
+type: texto
+---
+
+<div class="alert alert-warning" role="alert">
+  <h4 class="alert-heading">Anotaciones</h4>Para hacer anotaciones en esta edición, use el <strong>botón "Anotar"</strong> de la barra de navegación. Luego de hacer click, seleccione el texto de su interés y podrá hacer resaltados y asociar notas.
+  <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+</div>
+
+<h2 style="text-align-last: left;">Índice</h2>
+<div class="col-1 sm-width-full border-top-thin py-2" ></div>
+
+<div class="py-1 mb-0 prose">
+  {% assign textos_ordenados = site.txtxpagina | sort: "title" %}
+  {% for texto in textos_ordenados %}
+    {% if texto != "p" %}
+    <a class="no-underline " href="{{ texto.url }}" >
+      <h2 class="indice-chapter">{{ texto.chapter }}</h2> <!-- Muestra Chapter -->
+      <h5 class="indice-link no-underline">{{ texto.title }}</h5>   <!-- Muestra Title -->
+    </a>
+    
+    {% endif %}
+  {% endfor %}
+</div>

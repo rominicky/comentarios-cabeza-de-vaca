@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+<idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="pb">pb 039</div>
+      
+      <p> y rogó que se acordasen de tener en paz y concordia toda aquella tierra, y tuviesen cuidado de servir y visitar a los españoles cristianos que quedaban en la ciudad de la <persName>mendó</persName><placeName>Ascensión</placeName>, y siempre obedeciesen los mandamientos que mandasen de nombre de <placeName>Su Majestad</placeName>; a lo cual respondieron que después que ellos habían hecho la paz y tomado a dar la obediencia a <persName>Su Majestad</persName> estaban determinados de lo guardar y hacer ansí, como él lo vería; y para que más se creyese de ellos, que <persName>el Tabere</persName> quería ir con él, como hombre más usado en la guerra, y que el <placeName>Guazani</placeName> convenía que quedase en la tierra en guarda de ella, para que siempre estuviese en paz y concordia; y el gobernador le paresció bien y tuvo en mucho su ofrescimiento, porque le paresció que era buena prenda para que cumplieran lo que ofrescían, y la tierra quedaba muy pacífica y segura con ir <persName>Tabere</persName> en su compañía, y él se lo agradeció mucho, y aceptó su ida, y le dio más rescates que a otro ninguno de los principales de aquel río; y es cierto que teniendo a éste contento toda la tierra quedaría en paz y no se osaría levantar ninguno, de miedo dél; y encomendó a <placeName>Guazani</placeName> mucho los cristianos, y él lo prometió de lo hacer y cumplir como se lo prometía; y ansí, estuvo allí cuatro días hablándolos, contentándolos y dándoles de lo que llevaba, con que los dejó muy contentos. <persName>Estándose</persName> despachando en este puerto, se le murió el caballo al factor <persName>Pedro Dorantes</persName>, y dijo al gobernador que no se hallaba en disposición para seguir el descubrimiento y conquista de la dicha provincia sin caballo; por tanto, que él se quería volver a la ciudad de la <placeName>Ascensión</placeName>, y que en su lugar dejaba y nombraba, para que sirviese en el oficio de factor, a su hijo <persName>Pedro Dorantes</persName>, el cual por el gobernador y por el contador, que iba en su compañía, fue recebido y admitido al oficio de factor, para que se hallase en el descubrimiento y conquista en lugar de su padre; y ansí, se partió en su compañía el dicho <persName>Tabere</persName> (indio principal), con hasta treinta indios parientes y criados suyos, en tres canoas. El gobernador se hizo a la vela del puerto de <placeName>Guazani</placeName>, fue navegando por el río del <placeName>Paraguay</placeName> arriba, y viernes 24 días del mes de septiembre llegó al puerto que dicen de <persName>Ipananie</persName>, en el cual mandó surgir y parar los bergantines, ansí para hablar a los indios naturales de esta tierra, que son vasallos de <placeName>Su Majestad</placeName>, como porque le informaron que entre los indios del puerto estaba uno de la generación de los guaraníes, que había estado captivo mucho tiempo en poder de los indios payaguaes, y sabía su lengua, y sabía su tierra y asiento donde tenían sus pueblos, y por lo traer consigo para hablar con los indios payaguaes, que fueron los que mataron a <persName>Juan de Ayolas</persName>, y cristianos, y por vía de paz haber de ellos el oro y plata que le tomaron y robaron; y como llegó al puerto, luego salieron los naturales dél con mucho placer, cargados de muchos bastimentos, y el gobernador los <persName>recebió</persName> y hizo buenos tratamientos, y les mandó pagar todo lo que trujeron, y a los indios principales les dio graciosamente muchos rescates; y habiendo hablado y platicado con ellos, les dijo la necesidad que tenía del indio que había sido captivo de los indios payaguaes, para lo llevar por lengua y intérprete de los indios, para los atraer a paz y concordia, y para que encaminase el armada donde tenían asentados sus pueblos; los cuales indios luego enviaron por la tierra adentro a ciertos lugares de indios a llamar el indio con gran diligencia.</p>
+      
+      <p>CAPÍTULO XLVII</p>
+      <p>De cómo envió por una lengua para los payaguaes</p>
+      <p>Dende a tres días que los naturales del puerto de <persName>Ipananie</persName> enviaron a llamar el indio, vino donde estaba el gobernador, y se ofresció a ir en su compañía y enseñarle la tierra de los indios payaguaes; y habiendo contentado los indios del puerto, se hizo a la vela por el río del <placeName>Paraguay</placeName> arriba, y llegó dentro de cuatro días al puerto que dicen de <persName>Guayviaño</persName>,que es donde acaba la población de los indios guaraníes, en el cual puerto mandó surgir, para hablar a los indios naturales, los cuales vinieron, y trujeron los principales muchos bastimentos, y alegremente los recebieron, y el gobernador les hizo buenos tratamientos, y mandó pagar sus bastimentos, y les dio a los principales graciosamente muchos rescates y otras cosas; y luego le informaron que la gente de a caballo iba por la tierra adentro y había llegado a sus pueblos, los cuales habían sido bien recebidos, y les habían proveído de las cosas necesarias, y les habían guiado y encaminado, y iban muy adelante cerca del puerto de <placeName>Itabitan</placeName>, donde decían que habían de esperar el armada de los bergantines. <placeName>Sabida</placeName> esta nueva, luego con mucha presteza mandó dar vela, y se partió del</p>
+    </body>
+  </text>
+</TEI>

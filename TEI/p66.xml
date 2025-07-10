@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno><idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <pb n="66" facs="66.jpg"/>
+      <div type="capitulo" n="77"> 
+      <p>con dos hilos de algodón negro, y de esta manera <hi rend="italic">metía y sacaba todas las cartas</hi> y el papel que había menester, y unos polvos que hay en aquella tierra de unas piedras que con un poco da saliva o de agua hacen tinta. Los oficiales y sus consortes lo sospecharon o fueron avisados que el <note ana="Álvar Núñez Cabeza de Vaca">gobernador</note> sabía lo que fuera pasaba y ellos hacían; y para saber y asegurarse ellos de esto, buscaron cuatro mancebos de entre ellos para que se envolviesen con <persName ana="Aliada de los partidarios de Cabeza de Vaca, que llevaba novedades al gobernador.">la india</persName>, en lo cual no tuvieron mucho que hacer, porque de costumbre no son escasas de sus personas, y tienen por gran afrenta negallo a nadie que se lo pida, y dicen que ¿para qué se lo dieron sino para aquello?; y envueltos con ella y dándole muchas cosas, no pudieron saber ningún secreto de ella, durando el trato y conversación once meses.</p></div>
+      <div type="capitulo" n="78"> 
+      <head>CAPÍTULO LXXVIII</head>
+      <head type="titulocapitulo">Cómo robaban la tierra los alzados y tomaban por fuerza sus haciendas</head>
+      <p>Estando el gobernador de esta manera, los oficiales y <persName ref="https://historia-hispanica.rah.es/biografias/29465-domingo-martinez-de-irala">Domingo de Irala</persName>, luego que le prendieron, dieron licencia abiertamente a todos sus amigos y valedores y criados para que fuesen por los pueblos y lugares de los indios y les tomasen las mujeres y las hijas, y las hamacas y otras cosas que tenían, por fuerza, y sin pagárselo, cosa que no convenía al servicio de <persName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/20">Su Majestad</persName> y a la pacificación de aquella tierra; y haciendo esto, iban por toda la tierra dándoles muchos palos, trayéndoles por fuerza a sus casas para que labrasen sus heredades sin pagarles nada por ello, y los indios se venían a quejar a Domingo de Irala y a los oficiales. Ellos respondían que no eran parte para ello; de lo cual se contentaban algunos de los cristianos, porque sabían que les respondían aquello por les complacer, para que ellos les ayudasen y favoresciesen, y decíanles a los cristianos que ya ellos tenían libertad, que hiciesen lo que quisiesen; de manera que con estas respuestas y malos tratamientos la tierra se comenzó a despoblar, y se iban los naturales a vivir a las montañas, escondidos donde no los pudiesen hallar los cristianos. <note ana="La colonización de América implicó la evangelización de los pueblos originales.">Muchos de los indios y sus mujeres y hijos eran cristianos</note>, y apartándose perdían la doctrina de los religiosos y clérigos, de lo cual el gobernador tuvo muy gran cuidado que fuesen enseñados. Luego, dende a pocos días que le hobieron preso, desbarataron la carabela que el gobernador había mandado hacer para por ella dar aviso a Su Majestad de lo que en la provincia pasaba, porque tuvieron creído que pudieran atraer a la gente para hacer la entrada (cual dejó descubierta el gobernador), y que por ella pudieran sacar oro y plata, y a ellos se le atribuyera la honra y el servicio que pensaban que a Su Majestad hacían; y como la tierra estuviese sin justicia, los vecinos y pobladores de ella contino recebían tan grandes agravios, que los oficiales y justicia que ellos pusieron de su mano hacían a los españoles, aprisionándoles y tomando sus haciendas, se fueron como aborridos y muy descontentos más de cincuenta hombres españoles por la tierra adentro, en demanda de la costa del <placeName key="Brasil">Brasil</placeName>, y a buscar algún aparejo para venir a avisar a Su Majestad de los grandes males y daños y desasosiegos que en la tierra pasaban, y otros muchos estaban movidos para se ir perdidos por la tierra adentro, a los cuales prendieron y tuvieron presos mucho tiempo, y les quitaron las armas y lo que tenían; y todo lo que les quitaban, lo daban y repartían entre sus amigos y valedores, por los tener gratos y contentos.</p></div>
+      <div type="capitulo" n="79"> 
+      <head>CAPÍTULO LXXIX</head>
+      <head>Cómo se fueron los frailes</head>
+      <p>En este tiempo, que andaban las cosas tan recias y tan revueltas y de mala desistión pareciendo a los frailes fray <persName ref="historia-hispanica.rah.es/biografias/4146-bernardo-de-armenta-o-armentia">Bernaldo de Armenta</persName> que era buena coyuntura y sazón para acabar de efectuar su propósito en quererse ir (como otra vez lo habían intentado), hablaron sobre ello a los oficiales, y a <persName ref="https://historia-hispanica.rah.es/biografias/29465-domingo-martinez-de-irala">Domingo de Irala</persName>, para que les diese favor y ayuda para ir a la costa del Brasil; los cuales, por les dar contentamiento, y por ser, como eran, contrarios del gobernador, por haberles impedido el camino que entonces querían hacer, ellos les dieron licencia y ayudaron en lo que pudieron, y que se fuesen a la costa del Brasil, y para ello llevaron consigo seis españoles y algunas indias de las que enseñaban doctrina. Estando el <persName ana="Álvar Núñez Cabeza de Vaca">gobernador</persName> en la prisión, les dijo muchas veces que por que cesasen los alborotos que cada día había, y los males y daños que se hacían, le diesen lugar que en nombre de Su Majestad pudiese nombrar una persona que como teniente de gobernador los tuviese en paz y en justicia aquella tierra, y que el gobernador tenía por bien, después de haberlo</p></div>
+    </body>
+  </text>
+</TEI>

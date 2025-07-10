@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno><idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <pb n="35" facs="35.jpg"/>
+      <div type="capitulo" n="39">
+      <p>y que los contentase con rescates, que llevaba mucha copia de ellos; y que mandase y apercibiese a las <note ana="Eran los interpretes nativos que utilizaban los conquistadores para comunicarse.">lenguas</note> que habían de pagar a los indios los bastimentos, los tratasen bien y no les hiciesen agravios y fuerzas, so pena que serían castigados, y que ansí lo guardasen y cumpliesen.</p></div>
+      <div type="capitulo" n="40">
+      <head>CAPÍTULO XL</head>
+      <head type="titulocapitulo">De lo que escribió Gonzalo de Mendoza</head>
+      <p>Dende a pocos días que <persName ref="https://historia-hispanica.rah.es/biografias/30387-gonzalo-de-mendoza">Gonzalo de Mendoza</persName> se hobo partido con los tres navíos, escribió una carta al <note ana="Título que ostentaba Álvar Núñez Cabeza de Vaca.">gobernador</note>, por la cual le hacía saber cómo él había llegado al puerto que dicen de <placeName key="Puerto Jejui">Giguy</placeName>, y había enviado por la tierra adentro a los lugares donde le habían de dar los bastimentos, y que muchos <note ana="Como principales menciona a los jefes de las distintas comunidades originarias.">indios principales</note> que le habían venido a ver y comenzado a traer los bastimentos; y que las lenguas habían venido huyendo a se recoger a los bergantines porque los habían querido matar los amigos y parientes de un indio que andaba alzado y andaba alborotando la tierra contra los cristianos y contra los indios que eran nuestros amigos; que decían que no les diesen bastimentos, y que muchos indios principales que habían venido a pedirle ayuda y socorro para defender y amparar sus pueblos de dos indios principales, que se decían <persName ana="Guacaní, mburuvichá, principal de los principales, guaraní, quien poseía funciones del tipo civiles.">Guazani</persName> y <persName ana="Tabaré sería el jefe guerrero de los guaraníes.">Tabere</persName>, con todos sus parientes y valedores, y les hacían la guerra crudamente a fuego y a sangre, y les quemaban sus pueblos, y les corrían la tierra diciendo que los matarían y destruirían si no se juntaban con ellos para matar y destruir y echar de la tierra a los cristianos; y que él andaba entreteniendo y temporizando con los indios hasta le hacer saber lo que pasaba, para que proveyese en ello lo que conviniese; porque allende de lo susodicho, los indios no le traían ningún bastimento, por tenerles tomados los contrarios los pasos; y los españoles que estaban en los navíos padescían mucha hambre.</p>
+      <p>Y vista la carta de Gonzalo de Mendoza, mandó el gobernador llamar a los frailes y clérigos y oficiales de <placeName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/20">Su Majestad</placeName> y a los capitanes, los cuales fueron juntos, y les hizo leer la carta; y vista, les pidió que le diesen parescer lo que sobre ello les parescía que se debía de hacer, conformándose con la instrucción de Su Majestad, la cual les fue leída en su presencia; y que conformándose con ella, le diesen su parescer de lo que debía de hacer y que más conviniese al servicio de Su Majestad; los cuales dijeron que, pues los dichos indios hacían la guerra contra los cristianos y contra los naturales vasallos de Su Majestad, que su parescer de ellos era, y ansí lo daban, y dieron y firmaron de sus nombres, que debía mandar enviar gente de guerra contra ellos, y requerirlos primero con la paz, apercibiéndolos que se volviesen a la obediencia de Su Majestad; que si no lo quisiesen hacer, se lo requiriesen una, y dos, y tres veces, y más cuantas pudiesen protestándoles que todas las muertes y quemas y daños que en la tierra se hiciesen fuesen a su cargo y cuenta de ellos; y cuando no quisiesen venir a dar la obediencia, que les hiciese la guerra como contra enemigos, y amparando y defendiendo a los indios amigos que estaban en la tierra.</p>
+      <p>Dende a pocos días que los religiosos y clérigos y los demás dieron su parescer, el mismo capitán Gonzalo de Mendoza tornó a escrebir otra carta al gobernador, en la cual le hacía saber cómo los indios Guazani y Tabere, principales, hacían cruel guerra a los indios amigos, corriéndoles la tierra, matándolos y robándolos, hasta llegar al puerto donde estaban los cristianos que habían venido defendiendo los bastimentos; y que los indios amigos estaban muy fatigados, pidiendo cada día socorro a Gonzalo de Mendoza, y diciéndole que si brevemente no los socorría, todos los indios se alzarían, por excusar la guerra y daños que tan cruel guerra les hacía de contino.</p>
+      </div>
+      <div type="capitulo" n="41">
+      <head>CAPÍTULO XLI</head>
+      <head type="titulocapitulo">De cómo el gobernador socorrió a los que estaban con Gonzalo de Mendoza</head>
+      <p>Vista esta segunda carta, y las demás querellas que daban los naturales, el gobernador tornó a comunicar con los religiosos, clérigos y oficiales, y con su parescer mandó que fuese el capitán <persName ref="https://historia-hispanica.rah.es/biografias/29465-domingo-martinez-de-irala">Domingo de Irala</persName> a favorescer los indios amigos, y a poner en paz la guerra que se había comenzado, favoresciendo los naturales que recebían daño de los enemigos; y para ello envió cuatro bergantines, con ciento y cincuenta hombres, demás de los que tenía el capitán Gonzalo de Mendoza allá; y mandó que Domingo de Irala con la gente que fuesen derechos a los lugares y puertos de Guazani y Tabere y les requiriese de parte de Su Majestad</p></div>
+      
+    </body>
+  </text>
+</TEI>

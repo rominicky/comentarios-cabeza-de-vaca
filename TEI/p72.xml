@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+<idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="pb">pb 072</div>
+      
+      <p>de muerte o ausencia, o ir a otras partes donde no pudiese ser habido, por donde se perdiese la relación y avisos de la entrada y descubrimiento, que <placeName>Su Majestad</placeName> sería muy deservido, y al señor gobernador le vernía mucho daño y pérdida, todo lo cual sería a su culpa y cargo; por tanto, y por el descargo de su conciencia, y por cumplir con el servicio de <persName>Dios</persName> y de <placeName>Su Majestad</placeName>, y del señor gobernador en su nombre, ahora ante mí el escribano quiere hacer y hacía relación del dicho su descubrimiento para dar aviso a <persName>Su Majestad</persName> de él y de la información y relación que hobo de los indios naturales, y que pedía y requería a mí el dicho escribano la tomase y recibiese, la cual dicha relación hizo en la forma siguiente:</p>
+      <p>Dijo y declaró el dicho capitán <persName>Hernando de Ribera</persName> que a 20 días del mes de diciembre del año pasado de 1543 años partió del <placeName>puerto de los Reyes</placeName> en el bergantín nombrado el Golondrino, con cincuenta y dos hombres, por mandado del señor gobernador, y fue navegando por el río del <placeName>Igatu</placeName>, que es brazo de los dichos dos ríos <placeName>Yacareati</placeName> y <placeName>Yaiva</placeName>; este brazo es muy grande y caudaloso, y a las seis jornadas entró en la madre de estos dos ríos, según relación de los indios naturales por do fue tocando; estos dos ríos señalaron que vienen por la tierra adentro, y este río, que se dice <placeName>Yaiva</placeName>, debe proceder de las sierras de <placeName>Santa Marta</placeName>; es río muy grande y poderoso, mayor que el <placeName>río Yacareati</placeName>; el cual, según las señales que los indios dan, viene de las sierras del <placeName>Perú</placeName>, y entre el un río y el otro hay gran distancia de tierra y pueblos de infinitas gentes, según los naturales dijeron, y vienen a juntarse estos dos ríos <placeName>Yaiva</placeName> y <placeName>Yacareati</placeName> en tierra de los indios que se dicen perobazaes, y allí, se tornan a dividir; y a setenta leguas el río abajo se tornan a juntar, y habiendo navegado diez y siete jornadas por el dicho tío pasó por tierra de los indios perobazaes, y llegó a otra tierra que se llaman los indios xarayes, gentes labradores de grandes mantenimientos y criadores de patos y gallinas y otras aves, pesquerías y cazas; gente de razón, y obedescen a su principal.</p>
+      <p>Llegado a esta generación de los indios xarayes, estando en un pueblo de ellos de hasta mil casas, adonde su principal se llama <persName>Camire</persName>, el cual le hizo buen recebimiento, del cual se informó de las poblaciones de la tierra adentro; y por la relación que aquí le dieron, dejando el bergantín con doce hombres de guarda y con una guía que llevó de los dichos xarayes, pasó adelante y caminó tres jornadas hasta llegar a los pueblos y tierra de una generación de indios que se dicen urtueses, la cual es buena gente y labradores, a la manera de los xarayes; y de aquí fue caminando por tierra toda poblada, hasta ponerse en quince grados menos dos tercios, yendo la vía del oeste.</p>
+      <p>Estando en estos pueblos de los urtueses y <persName>aburuñes</persName>, vinieron allí otros muchos indios principales de otros pueblos más adentro comarcanos a hablar con él y traelle plumas, a manera de las del <placeName>Perú</placeName>, y planchas de metal chafalonia, de las cuales se informó, y tuvo</p><p>plática y aviso de cada uno particularmente de las poblaciones y gentes de adelante; y los dichos indios, en conformidad, sin discrepar, le dijeron que a diez jornadas de allí, a la banda del oesnorueste, habitaban y tenían muy grandes pueblos unas mujeres que tenían mucho metal blanco y amarillo, y que los asientos y servicios de sus casas eran todos del dicho metal y tenían por su principal una mujer de la misma generación, y que es gente de guerra y temida de la generación de los indios; y que antes de llegar a la generación de las dichas mujeres estaba una generación de los indios (que es gente muy pequeña), con los cuales, y con la generación de éstos que le informaron, pelean las dichas mujeres y les hacen guerra, y que en cierto tiempo del año se juntan con estos indios comarcanos y tienen con ellos su comunicación carnal, y si las que quedan preñadas paren hijas, tiénenselas consigo, y los hijos los crían hasta que dejan de mamar, y los envían a sus padres; y de aquella parte de los pueblos de las dichas mujeres había muy grandes poblaciones y gente de indios que confinan con las dichas mujeres, que lo habían dicho sin preguntárselo; a lo que le señalaron, está parte de un lago de agua muy grande, que los indios nombraron la <placeName>casa del Sol</placeName>; dicen que allí se encierra el <persName>Sol</persName>; por manera que entre las espaldas de <placeName>Santa Marta</placeName> y el dicho lago habitan las dichas mujeres, a la banda del oesnorueste; y que adelante de las poblaciones que están pasados los pueblos de las mujeres hay otras muy grandes poblaciones de gentes, los cuales son negros, y a lo que señalaron, tienen barbas como aguileñas, a manera de moros. <placeName>Fueron</placeName> preguntados cómo sabían que eran negros. <placeName>Dijeron</placeName> que porque los habían visto sus padres y se lo decían otras generaciones comarcanas a la dicha tierra, y que eran gente que andaban vestidos, y las casas y pueblos los tienen de piedra y tierra, y son muy grandes, y que es gente que poseen mucho metal blanco y amarillo, en tanta cantidad, que no se sirven con otras cosas en sus casas de vasijas y ollas y tinajas muy grandes y todo lo demás; y preguntó a los dichos indios a qué parte demoraban los pueblos y habitación de la dicha gente negra, y señalaron que demoraban al norueste, y que si querían ir allá, en quince jornadas llegarían a las poblaciones vecinas y comarcanas a los pueblos de los dichos negros; y a lo que le</p>
+    </body>
+  </text>
+</TEI>

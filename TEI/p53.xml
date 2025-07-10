@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+<idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="pb">pb 053</div>
+      
+      <p>hallábamos más cerrado de árboles y yerbas muy altas y espesas, y de esta causa se caminaba por la tierra con muy gran trabajo; y el dicho día, a hora de las cinco de la tarde, junto a una gran laguna donde los indios y cristianos tomaron a manos pescado, reposamos aquella noche; y a la guía que traía para el descubrimiento le mandaban, cuando íbamos caminando, subir por los árboles y por las montañas para que reconociese y descubriese el camino y mirase no fuese errado, y certificó ser aquel camino para la tierra poblada. Los indios guaraníes que llevaba el gobernador en su compañía se mantenían de lo que él les mandaba dar del</p><p>bastimento que llevaba de respeto, y de la miel que sacaban de los árboles, y de alguna caza que mataban de puercos y antas y venados, de que parescía haber muy gran abundancia por aquella tierra; pero como la gente que iba era mucha y iban haciendo gran ruido, huía la caza, y de esta causa no se mataba mucha; y también los indios y los españoles comían de las frutas de los árboles salvajes, que había muchos; y de esta manera nunca les hizo mal ninguna fruta de las que comieron, sino fue una de unos árboles que naturalmente parescían arrayanes, y la fruta de la misma manera que la echa el arrayán en <placeName>España</placeName>, que se dice murta, excepto que ésta era un poco más gruesa y de muy buen sabor; la cual, a todos los que la comieron les hizo a unos gomitar, a otros cámaras, y esto les duró muy poco y no les hizo otro daño; también se aprovechaban de fruta de las palmas que hay gran cantidad de ellas en aquella tierra, y no se comen los dátiles, salvo partido el cuesco; lo de dentro, que es redondo, es casi como una almendra dulce, y de esto hacen los indios harina para su mantenimiento, y es muy buena cosa; y también los palmitos de <placeName>las palmas</placeName>, que son muy buenos.</p>
+      
+      <p>CAPÍTULO LXII</p>
+      <p>De cómo llegó el gobernador al <placeName>rio Caliente</placeName></p>
+      <p>Al quinto día que fue caminando por la tierra por donde la guía nos llevaba, yendo siempre abriendo camino con harto trabajo, llegamos a un río pequeño que sale de una montaña, y el agua de él venía muy caliente y clara y muy buena; y algunos de los españoles se pusieron a pescar en él y sacaron pexe de él; en este río del agua caliente comenzó a desatinar la guía, diciéndoles que, como había tanto tiempo que no había andado el camino, lo desconocía, y no sabía por dónde había de guiar, porque los caminos viejos no se parescían; y otro día se partió el gobernador del río del agua caliente, y fue caminando por donde la guía les llevó con mucho trabajo, abriendo camino por los bosques y arboledas y malezas de la tierra; y el mismo día, a las diez horas de la mañana, le salieron a hablar al gobernador dos indios de la generación de los guaraníes, los cuales le dijeron ser de los que quedaron en aquellos desiertos cuando las guerras pasadas que los de su generación tuvieron con los indios de la población de la tierra adentro, a do fueron desbaratados y muertos, y ellos se habían quedado por allí; y que ellos y sus mujeres y hijos, por temor de los naturales de la tierra, se andaban por lo más espeso y montuoso escondiéndose; y todos los que por allí andaban serían hasta catorce personas, y afirmaron lo mismo que los de atrás, que dos jornadas de allí estaba otra casilla de los mismos, y que habría hasta diez personas en ellas, y que allí había un cuñado suyo, y que en la tierra de los indios xarayes había otros indios guaraníes de su generación, y que éstos tenían guerra con los indios xarayes; y porque los indios estaban temerosos de ver los cristianos y caballos, mandó el gobernador a la lengua que los asegurase y asosegase, y que les preguntase dónde tenían su casa, los cuales respondieron que muy cerca de allí; y luego vinieron sus mujeres y hijos y otros sus parientes, que todos serían hasta catorce personas, a los cuales mandó que dijesen que de qué se mantenían en aquella tierra, y qué tanto había que estaban en ella; y dijeron que ellos sembraban maíz, que comían, y también se mantenían de su caza y miel y frutas salvajes de los árboles, que había por aquella tierra mucha cantidad, y que al tiempo que sus</p><p>padres fueron muertos y desbaratados, ellos habían quedado muy pequeños; lo cual declararon los indios más ancianos, que al parescer serían de edad de treinta y cinco años cada uno. <persName>Fueron</persName> preguntados si sabían el camino que había de allí para ir a las poblaciones de la tierra adentro, y qué tiempo se podía tardar en llegar a la tierra poblada; dijeron que, como ellos eran muy pequeños cuando anduvieron el dicho camino, nunca más anduvieron por él, ni lo han visto, ni saben ni se acuerdan de él, ni por dónde le han de tomar ni en qué tanto tiempo se llegará allá; mas que su cuñado, que vive y</p>
+    </body>
+  </text>
+</TEI>

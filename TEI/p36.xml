@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno><idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <pb n="36" facs="36.jpg"/>
+      <div type="capitulo" n="41">
+      <p>que dejasen la guerra y se apartasen de hacerla, y volviesen y diesen la obediencia a <persName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/20">Su Majestad</persName>; que fuesen amigos de los españoles; y que cuando siendo así requeridos y amonestados una, y dos, y tres veces, y cuantas más debiesen y pudiesen, con el menor daño que pudiesen les hiciesen guerra, excusando muertes y robos y otros males, y los constriñesen apretándolos para que dejasen la guerra y tornasen a la paz y amistad que antes solían tener, y lo procurase por todas las vías que pudiese.</p></div>
+      <div type="capitulo" n="42">
+      <head>CAPÍTULO XLII</head>
+      <head type="titulocapitulo">De cómo en la guerra murieron cuatro cristianos que hirieron</head>
+      <p>Partido <persName ref="https://historia-hispanica.rah.es/biografias/29465-domingo-martinez-de-irala">Domingo de Irala</persName> y llegado en la tierra y lugares de los indios, envió a requerir y amonestar a y <persName ana="Tabaré sería el jefe guerrero de los guaraníes.">Tabere</persName> y a <persName ana="Guacaní, mburuvichá, principal de los principales, guaraní, quien poseía funciones del tipo civiles.">Guazani</persName>, indios principales de la guerra, y con ellos estaba <note ana="Cuando los guaraníes se levantaron, abandonaron sus asientos habituales para eludir la presión española, y se decidieron a atacar, cuando los cristianos van a sus casas, invadiendo sus territorios, en busca de botín. La violencia aparece todavía como el último recurso del que echan mano cuando se sienten molestados en sus propias tierras.">gran copia de gente esperando la guerra</note>, y como las lenguas llegaron a requerirlos, no los habían querido oír, antes enviaron a desafiar a los indios amigos, y les robaban y les hacían muy grandes daños, que defendiéndolos y apartándolos habían habido con ellos muchas escaramuzas, de las cuales habían salido heridos algunos cristianos, los cuales envió para que fuesen curados en la ciudad de la <placeName key="Asunción">Ascensión</placeName>, y cuatro o cinco murieron de los que vinieron heridos, por culpa suya y por excesos que hicieron, porque las heridas eran muy pequeñas y no eran de muerte ni de peligro; porque el uno de ellos, de sólo un rascuño que le hicieron con una flecha en la nariz, en soslayo, murió, porque las flechas traían hierba; y cuando los que son heridos de ella no se guardan mucho de tener excesos con mujeres, porque en lo demás no hay de qué temer la hierba de aquella tierra. El gobernador tornó a escrebir a Domingo de Irala, mandándole que por todas las vías y formas que él pudiese trabajase por hacer paz y amistad con los indios enemigos, porque así convenía al servicio de Su Majestad; porque entretanto que la tierra estuviese en guerra, no podían dejar de haber alborotos y escándalos y muertes y robos y desasosiegos en ella, de los cuales Dios y Su Majestad serían deservidos; y con esto que le envió a mandar, le envió muchos rescates para que diese y repartiese entre los indios que habían servido, y con los demás que le paresciese que podrían asentar y perpetuar la paz; y estando las cosas en este estado, Domingo de Irala procuró de hacer las paces; y como ellos estuviesen muy fatigados y trabajados de la guerra tan brava como los cristianos les habían hecho y hacían, deseaban tener ya paz con ellos; y con las muchas dádivas que el capitán general les envió, con muchos ofrescimientos nuevos que de su parte se les hizo, vinieron a asentar la paz y dieron de nuevo la obediencia a Su Majestad, y se conformaron con todos los indios de la tierra; y los indios principales Guazani y Tabare, y otros muchos juntamente en amistad y servicio de Su Majestad, fueron ante el <note ana="Álvar Núñez Cabeza de Vaca">gobernador</note> a confirmar las paces, y él dijo a los de la parte de Guazani y Tabare, que en se apartar de la guerra habían hecho lo que debían, y que en nombre de Su Majestad les perdonaba el desacato y desobediencia pasada, y que si otra vez lo hiciesen que serían castigados con todo rigor, sin tener de ellos ninguna piedad; y tras de esto, les dio rescates y se fueron muy alegres y contentos. Y viendo que aquella tierra y naturales de ella estaban en paz y concordia, mandó poner gran diligencia en traer los bastimentos y las otras cosas necesarias para fornescer y cargar los navíos que habían de ir a la entrada y descubrimiento de la tierra por el puerto de los Reyes, por do estaba concertado y determinado que se prosiguiese; en pocos días le trujeron los indios naturales más de tres mil quintales de harina de mandioca y maíz, y con ellos acabó de cargar todos los navíos de bastimentos, los cuales les pagó mucho a su voluntad y contento, y proveyó de armas a los españoles que no las tenían y de las otras cosas necesarias que eran menester.</p></div>
+      <div type="capitulo" n="43">
+      <head>CAPÍTULO XLIII</head>
+      <head type="titulocapitulo">De cómo los frailes se iban huidos</head>
+      <p>Estando a punto apercebidos y aparejados los bergantines, y cargados los bastimentos y las otras cosas que convenían para la entrada y descubrimiento de la tierra, como estaba concertado, y los oficiales de Su Majestad y religiosos y clérigos lo habían dado por parescer, callada y encubiertamente inducieron y levantaron al comisario fray <persName ref="https://historia-hispanica.rah.es/biografias/4146-bernardo-de-armenta-o-armentia">Bernaldo de Armenia</persName> y fray <persName ref="https://historia-hispanica.rah.es/biografias/26055-alonso-lebron">Alonso Lebrón</persName>, su compañero, de la orden de Sant Francisco, que se fuesen por el camino que el gobernador descubrió, dende la costa del <placeName key="Brasil">Brasil</placeName> por entre los lugares de los indios, y que se</p></div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+<idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="pb">pb 060</div>
+      
+      <p>de estaño muy limpio y claro, y le preguntaron si la plata de su tierra era tal como aquélla, y dijo que aquélla de aquel plato hedía y era bellaca y blanda, y que la de su tierra era más blanca y dura y no hedía mal; y siéndole mostrada una copa de plata, con ella se alegraron mucho y dijeron haber de aquello en su tierra muy gran cantidad en vasijas y otras cosas en casa de los indios, y planchas, y había brazaletes y coronas y hachuelas, y otras piezas.</p>
+      
+      <p>CAPÍTULO LXXI</p>
+      <p>De cómo envió a llamar al capitán <persName>Gonzalo de Mendoza</persName></p>
+      <p>Luego envió el gobernador a llamar a <persName>Gonzalo de Mendoza</persName>, que se viniese de la tierra de los arrianicosies con la gente que con él estaba, para dar orden y proveer las cosas necesarias para seguir la entrada y descubrimiento de la tierra, porque ansí convenía al servicio de <placeName>Su Majestad</placeName>; y que antes que viniese a ellas, procurasen de tornar a los indios arrianicosies a sus casas y asentase las paces con ellos; y como fue venido <persName>Francisco de Ribera</persName> con los seis españoles que venían con él del descubrimiento de la tierra, toda la gente que estaba en el puerto de los Reyes comenzó a adolescer de calenturas, que no había quien pudiese hacer la guarda en el campo, y asimesmo adolescieron todos los indios guaraníes, y morían algunos de ellos; y de la gente que el capitán <persName>Gonzalo de Mendoza</persName> tenía consigo en la tierra de los indios arrianicosies, avisó por carta suya que todos enfermaban de calenturas, y así los enviaba con los bergantines enfermos y flacos; y demás de esto, avisó que no había podido con los indios hacer paz, aunque muchas veces les había requerido que les darían muchos rescates; antes les venían cada día a hacer la guerra, y que era tierra de muchos mantenimientos, así en el campo como en las lagunas, y que les había dejado muchos mantenimientos con que se pudiesen mantener, demás y allende de los que había enviado y llevaba en los bergantines; y la causa de aquella enfermedad en que había caído toda la gente había sido que se habían dañado las aguas de aquella tierra y se habían hecho salobres con la cresciente de ella. A esta sazón los indios de la isla que están cerca de una legua del puerto de los Reyes, que se llaman socorinos y xaqueses, como vieron a los cristianos enfermos y flacos, comenzaron a hacerles guerra, y dejaron de venir, como hasta allí lo habían hecho, a contratar y rescatar con los cristianos, y a darles aviso de los indios que hablaban mal de ellos, especialmente de los indios guaxarapos, con los cuales se juntaron y metieron en su tierra para dende allí hacerles guerra; y como los indios guaraníes que habían traído en la armada salían en sus canoas en compañía de algunos cristianos, a pescar en la laguna, a un tiro de piedra del real, una mañana, ya que amanescía, habían salido cinco cristianos, los cuatro de ellos mozos de poca edad, con los indios guaraníes; yendo en sus canoas, salieron a ellos los indios xaqueses y socorinos y otros muchos de la isla, y captivaron los cinco cristianos, y mataron de los indios guaraníes, cristianos nuevamente convertidos, y se les pusieron en defensa, y a otros muchos llevaron con ellos a la isla, y los mataron, y despedazaron a los</p><p>cinco cristianos y indios, y los repartieron entre ellos a pedazos entre los indios guaxarapos y guatos, y con los indios naturales de esta tierra y puerto del pueblo que dicen del <placeName>Viejo</placeName>, y con otras generaciones que para ello y para hacer la guerra que tenían convocado; y después de repartidos, los comieron, ansí en la isla como en los otros lugares de las otras generaciones, y no contentos con esto, como la gente estaba enferma y flaca, con gran atrevimiento vinieron a acometer y a poner fuego en el pueblo adonde estaban, y llevaron algunos cristianos; los cuales comenzaron a dar voces diciendo: «Al arma, al arma, que matan los indios a los cristianos.» Y como todo el pueblo estaba puesto en arma, salieron a ellos; y ansí, llevaron ciertos cristianos, y entre ellos uno que se llamaba <persName>Pedro Mepen</persName>, y otros que tomaron ribera de la laguna, y asimismo mataron otros que estaban pescando en la laguna, y se los comieron como a los otros cinco; y después de hecho el salto de los indios, como <persName>amanesció</persName>, al punto se vieron muy gran número de canoas con mucha gente de guerra irse huyendo por la laguna adelante, dando grandes alaridos y enseñando los arcos y flechas, alzándolos en alto, para damos a entender que ellos habían hecho el salto; y ansí, se metieron por la isla que está en la laguna del puerto de los Reyes; allí nos mataron cincuenta y ocho cristianos esta vez. Visto esto, el gobernador habló con los indios del <placeName>puerto de los Reyes</placeName> y les dijo que pidiesen a los indios de la isla los cristianos y in-</p>
+    </body>
+  </text>
+</TEI>

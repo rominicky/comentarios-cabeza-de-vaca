@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+<idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="pb">pb 057</div>
+      
+      <p>para mucha más cosa, y partió a 15 días del mes de diciembre del dicho año; y los indios naturales del <placeName>puerto de los Reyes</placeName> avisaron al gobernador, y le informaron que por el río del <placeName>Igatu</placeName> arriba podían ir gentes en los bergantines a tierra de los indios xarayes, porque ya comenzaban a crescer las aguas, y podían bien los navíos navegar; y que los indios xarayes y otros indios que están en la ribera tenían muchos bastimentos, y que asimesmo había otros brazos de ríos muy caudalosos que venían de la tierra adentro y se juntaban en el río del <placeName>Igatu</placeName>, y había grandes pueblos de indios, y que tenían muchos mantenimientos; y por saber todos los secretos del dicho río, envió al capitán <persName>Hernando de Ribera</persName> en un bergantín, con cincuenta y dos hombres, para que fuesen por el río arriba hasta los pueblos de los indios xarayes y hablase en su principal y se informase de lo de adelante, y pasase a los ver y descubrir por vista de ojos; y no saliendo en tierra él ni ninguno de su compañía, excepto la lengua con otros dos, procurase ver y contratar con los indios de la costa del río por donde iba, dándoles dádivas y asentando paces con ellos, para que volviese bien informado de lo que en <placeName>la tierra</placeName> había, y para ello le dio una instrucción con muchos rescates, y por ella y de palabra le informó de todo aquello que convenía al servicio de <placeName>Su Majestad</placeName> y al bien de la tierra, el cual partió y hizo vela a 20 días del mes de diciembre del dicho año.</p>
+      <p>Dende algunos días que el capitán <persName>Gonzalo de Mendoza</persName> había partido con la gente a comprar los bastimentos, escribió una carta cómo al tiempo que llegó a los lugares de los indios arrianicosies había enviado con una lengua a decir cómo él iba a su tierra a les rogar le vendiesen de los bastimentos que tenían, y que se los pagaría en rescates muy a su contento, en cuentas y cuchillos y cuñas de hierro (lo cual ellos tenían en mucho), y les daría muchos anzuelos; los cuales rescates llevó la lengua para se los enseñar para que los viesen; y que no iban a hacerles mal ni daño ni tomalles nada por fuerza; y que la lengua había ido y había vuelto huyendo de los indios, y que habían salido a él a lo matar, y que le habían tirado muchas flechas; y que decían que no fuesen los cristianos a su tierra, y que no les querían dar ninguna cosa; antes los habían de matar a todos, y que para ello les habían venido a ayudar los indios guaxarapos, que eran muy valientes; los cuales habían muerto cristianos, y decían que los cristianos tenían las cabezas tiernas, y que no eran recios; y que el dicho <persName>Gonzalo de Mendoza</persName> había tornado a enviar la misma lengua a rogar y requerir los indios que les diesen los bastimentos, y con él envió algunos españoles que viesen lo que pasaba; todos los cuales habían vuelto huyendo de los indios, diciendo que habían salido con mano armada para los matar, y les habían tirado muchas</p><p>flechas, diciendo que se saliesen de su tierra, que no les querían dar los bastimentos; y que visto esto, que él había ido con toda la gente a les hablar y asegurar; y que llegados cerca de su lugar, habían salido contra él todos los indios de la tierra, tirándoles muchas flechas y procurándoles de matar, sin les querer oír ni dar lugar a que les dijese alguna cosa de las que les querían hablar; por lo cual en su defensa habían derrocado dos de ellos con arcabuces, y como los otros los vieron muertos, todos se fueron huyendo por los montes. Los cristianos fueron a sus casas, adonde habían hallado muy gran abundancia de mantenimientos de maíz y de mandubies, y otras yerbas y raíces y cosas de comer; y que luego con uno de los indios que había tomado preso envió a decir a los indios que se viniesen a sus casas, porque él les prometía y aseguraba de los tener por amigos, y de no les hacer ningún daño, y que les pagaría los bastimentos que en sus casas les habían tomado cuando ellos huyeron; lo cual no habían querido hacer, antes habían venido a les dar guerra adonde tenían sentado el real, y habían puesto fuego a sus propias casas, y se habían quemado mucha parte de ellas, y que hacían llamamiento de otras muchas generaciones de indios para venir a matarlos, y que ansí lo decían, y no dejaban de venir a les hacer todo el daño que podían. El gobernador le envió a mandar que trabajase y procurase de tornar los indios a sus casas, y no les consintiese hacer ningún mal ni daño ni guerra, antes les pagase todos los bastimentos que les había tomado, y les dejasen en paz, y fuesen a buscar los bastimentos por otras partes; y luego le tornó a avisar el capitán cómo los había enviado a llamar y asegurar para que se volviesen a sus casas, y que les tenía por amigos, y que no les haría mal, y los trataría bien; lo cual no quisieron hacer, antes continuo vinieron a hacerle guerra y todo el daño que podían con otras generaciones de indios que habían llamado para ello, ansí de los guaxarapos y guatos, enemigos nuestros, que se habían juntado con ellos.</p>
+    </body>
+  </text>
+</TEI>

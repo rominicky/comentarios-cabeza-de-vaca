@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+<idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="pb">pb 074</div>
+      
+      <p>, y de una jornada de él se volvió; que de todos los dichos indios asimismo tomó aviso, y<placeName>Uretabere</placeName></p><p>que todos se conformaron con la dicha relación clara y abiertamente; y so cargo del dicho juramento, declaró que en ello ni en parte de ello no hobo ni hay cosa ninguna acrescentada ni fingida, salvo solamente la verdad de todo lo que le fue dicho y informado sin fraude ni cautela. <persName>Otrosí</persName> dijo y declaró que le informaron los dichos indios que el río de <placeName>Yacareati</placeName> tiene un salto que hace unas grandes sierras, y que lo que dicho tiene es la verdad; y que si ansí es. Dios le ayude, y si es al contrario, Dios se lo demande mal y caramente en este mundo al cuerpo, y en el otro al ánima, donde más ha de durar. A la confisión del dicho juramento dijo: «Sí juro, amén», y pidió y requirió a mí el dicho escribano se lo diese ansí por fe y testimonio al dicho señor gobernador, para en guarda de su derecho; siendo presentes por testigos el dicho reverendo padre <persName>Paniagua</persName>, <persName>Sebastián de Valdivieso</persName>, camarero del dicho señor gobernador, y <persName>Gaspar de Hortigosa</persName>, y <persName>Juan de Hoces</persName>, vecinos de la ciudad de <placeName>Córdoba</placeName>, los cuales todos lo firmaron ansí de sus nombres.  <persName>Francisco González de Paniagua .</persName> <persName>Sebastián de Valdivieso</persName>. Juan de <placeName>Hoces</placeName>.  <persName>Hernando de Ribera</persName>.  <persName>Gaspar de Hortigosa</persName>.  Pasó ante mí, <persName>Pero Hernández</persName>, escribano.</p>
+      
+      
+    </body>
+  </text>
+</TEI>

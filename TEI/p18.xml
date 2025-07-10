@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+<idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="pb">pb 018</div>
+      
+      <p>guas el río arriba, que hay hasta la ciudad de la <placeName>Ascensión</placeName>, de navegación muy trabajosa y peligrosa; los cuales dos bergantines partieron a 16 días del mes de abril del dicho año, y luego mandó hacer de nuevo otros dos, que fornescidos y cargados de bastimentos y gente, partieron a hacer el dicho socorro y a efectuar la fundación del <placeName>puerto de Buenos Aires</placeName>, y a los capitanes que el gobernador envió con los bergantines, les mandó y encargó que a los indios que habitaban en el <placeName>río del Paraná</placeName>, por donde habían de navegar, les hiciesen buenos tratamientos, y los trujesen de paz a la obediencia de <persName>Su Majestad</persName>, trayendo de lo que en ello hiciesen la razón y relación cierta, para avisar de todo a <placeName>Su Majestad</placeName>; y proveído que hobo lo susodicho, comenzó a entender en las cosas que convenía al servicio de <persName>Dios</persName> y de <placeName>Su Majestad</placeName>, y a la pacificación y sosiego de los naturales de la dicha provincia. Y para mejor servir a Dios y a <persName>Su Majestad</persName>, el gobernador mandó llamar y hizo juntar los religiosos y clérigos que en la provincia residían, y los que consigo había llevado, y delante de los oficiales de <placeName>Su Majestad</placeName>, capitanes. y gente que para tal efecto mandó llamar y juntar, les rogó con buenas y amorosas palabras tuviesen especial cuidado en la doctrina y enseñamiento de los indios naturales, vasallos de <placeName>Su Majestad</placeName>, y les mandó leer, y fueron leídos ciertos capítulos de una carta acordada de <persName>Su Majestad</persName>, que habla sobre el tratamiento de los indios, y que los dichos frailes, clérigos y religiosos tuviesen especial cuidado en mirar que no fuesen maltratados, y que le avisasen de lo que en contrario se hiciese, para lo proveer y remediar, y que todas las cosas que fuesen necesarias para tan santa obra, el gobernador se las daría y proveería, y asimismo para administrar los santos sacramentos en las iglesias y monesterios les proveería; y ansí, fueron proveídos de vino y harina, y les repartió los ornamentos que llevó, con que se servían las iglesias y el culto divino, y para ello les dio una bota de vino.</p>
+      
+      <p>CAPÍTULO XVI</p>
+      <p>De cómo matan a sus enemigos que captivan, y se los comen</p>
+      <p>Luego dende a poco que hobo llegado el gobernador a la dicha ciudad de la <placeName>Ascensión</placeName>, los pobladores y conquistadores que en ella halló, le dieron grandes querellas y clamores contra los oficiales de <placeName>Su Majestad</placeName>, y mandó juntar todos los indios naturales, vasallos de <placeName>Su Majestad</placeName>; y así juntos, delante y en presencia de los religiosos y clérigos, les hizo su parlamento, diciéndoles cómo <persName>Su Majestad</persName> lo había enviado a los favorescer y dar a entender cómo habían de venir en conoscimiento de <persName>Dios</persName> y ser cristianos, por la doctrina y enseñamiento de los religiosos y clérigos que para ello eran venidos, como ministros de <persName>Dios</persName>, y para que estuviesen debajo de la obediencia de <persName>Su Majestad</persName>, y fuesen sus vasallos, y que de esta manera serían mejor tratados y favorecidos que hasta allí lo habían sido; y allende de esto, les fue dicho y amonestado que se apartasen de comer carne humana, por el grave pecado y ofensa que en ello hacían a Dios, y los religiosos y clérigos se lo dijeron y amonestaron; y para les dar contentamiento, les dio y repartió muchos rescates, camisas, ropas, bonetes y otras cosas, con que se alegraron. Esta generación de los guaraníes es una gente que se entienden por su lenguaje todos los de las otras generaciones de la provincia, y comen carne humana de otras generaciones que tienen por enemigos, cuando tienen guerra unos con otros; y siendo de esta generación, si los captivan en las guerras, traénlos a sus pueblos, y con ellos hacen grandes placeres y regocijos, bailando y cantando; lo cual dura hasta que el captivo está gordo, porque luego que lo captivan lo ponen a engordar y le dan todo cuanto quiere a comer, y a sus mismas mujeres y hijas para que haya con ellas sus placeres, y de engordallo no toma ninguno el cargo y cuidado, sino las propias mujeres de los indios, las más principales de ellas; las cuales lo acuestan consigo y lo componen de muchas maneras, como es su costumbre, y le ponen mucha plumería y cuentas blancas, que hacen los indios de hueso y de piedra blanca, que son entre ellos muy estimadas, y en estando gordo, son los placeres, bailes y cantos muy mayores, y juntos los indios, componen y aderezan tres mochachos de edad de seis años hasta siete, y danles en las manos unas hachetas de cobre, y un indio, el que es tenido por más valiente entre ellos, toma una espada de palo en las manos, que la llaman los indios macana; y sácanlo en una plaza, y allí le hacen bailar una hora, y desque ha bailado, llega y le da en los lomos con ambas las manos un golpe, y otro en las espinillas para derribarle, y <placeName>acontesce</placeName>, de seis golpes que le dan en la cabeza, no poderlo derribar,</p>
+    </body>
+  </text>
+</TEI>

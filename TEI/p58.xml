@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+<idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="pb">pb 058</div>
+      
+      <p>CAPÍTULO LXIX</p>
+      <p>De cómo vino de la entrada el capitán <persName>Francisco de Ribera</persName></p>
+      <p>A 20 días del mes de enero del año 1544 años vino el capitán <persName>Francisco de Ribera</persName> con los seis españoles que con él envió el gobernador y con la guía que consigo llevó, y con tres indios que le quedaron de los once que con él envió de los guaraníes, los cuales todos envió, como arriba he dicho, para que descubriese las poblaciones y las viese por vista de ojos dende la parte donde el gobernador se volvió; y ellos fueron su camino adelante en busca de Tapuaguazu, donde la guía decía que comenzaban las poblaciones de los indios de toda la tierra; y llegado con los seis cristianos, los cuales venían heridos, toda la gente se alegró con ellos, y dieron gracias a Dios de verlos escapados de tan peligroso camino, porque en la verdad el gobernador los tenía por perdidos, porque de los once indios que con ellos habían ido, se habían vuelto los ocho, y por ello el gobernador hubo mucho enojo con ellos y los quiso castigar, y los indios principales sus parientes le rogaban que los mandase ahorcar luego como se volvieron, porque habían dejado y desamparado los cristianos, habiéndoles encomendado y mandado que los acompañasen y guardasen hasta volver en su presencia con ellos, y que pues no lo habían hecho, que ellos <persName>merescían</persName> que fuesen ahorcados, y el gobernador se lo reprehendió, con apercibimiento que si otra vez</p><p>lo hacían los castigaría, y por ser aquella la primera les perdonaba, por no alterar a todos los indios de su generación.</p>
+      
+      <p>CAPÍTULO LXX</p>
+      <p>De cómo el capitán <persName>Francisco de Ribera</persName> dio cuenta de su descubrimiento</p>
+      <p>Otro día siguiente paresció ante el gobernador el capitán <persName>Francisco de Ribera</persName>, trayendo consigo los seis españoles que con él habían ido, y le dio relación de su descubrimiento, y dijo que después que dél partió en aquel bosque de do se habían apartado, que habían caminado por do la guía lo había llevado veinte y un días sin parar, yendo por tierra de muchas malezas, de arboledas tan cerradas, que no podían pasar sin ir desmontando y abriendo por do pudiese pasar, y que algunos días caminaban una legua, y otros dos días que no caminaban media, por las grandes malezas y breñas de los montes, y que en todo el camino que llevaron fue la vía del poniente; que en todo el tiempo que fueron por la dicha tierra comían venados y puercos y antas que los indios mataban con las flechas, porque era tanta la caza que había que a palos mataban todo lo que querían para comer, y ansimismo había infinita miel en lo hueco de los árboles, y frutas salvajes, que había para mantener toda la gente que venía al dicho descubrimiento, y que a los veinte y un días llegaron a un río que corría la vía del poniente; y según la guía les dijo, que pasaba por <placeName>Tapuaguazu</placeName> y por las poblaciones de los indios, en el cual pescaron los que él llevaba, y sacaron mucho pescado de unos que llaman los indios piraputanas, que son de la manera de los sábalos, que es muy excelente pescado; y pasaron el río, y andando por donde la guía los llevaba, dieron en huella fresca de indios; que, como aquel día había llovido, estaba la tierra mojada, y parescía haber andado indios por allí a caza; y yendo siguiendo el rastro de la huella, dieron en unas grandes hazas de maíz que se comenzaba a coger, y luego, sin se poder encubrir, salió a ellos un indio solo, cuyo lenguaje no entendieron, que traía un barbote grande en el labio bajo, de plata, y unas orejeras de oro, y tomó por la mano al <persName>Francisco de Ribera</persName>, y por señas les dijo que se fuesen con él, y así lo hicieron y vieron cerca de allí una casa grande de paja y madera; y como llegaron cerca de ella, vieron que las mujeres y otros indios sacaban lo que dentro estaba de ropa de algodón y otras cosas, y se metían por las hazas adelante, y el indio los mandó entrar dentro de la casa, en la cual andaban mujeres y indios sacando todo lo que tenían dentro, y abrían la paja de la casa y por allí lo echaban fuera, por no pasarlo por donde él y los otros cristianos estaban, y que de unas tinajas grandes que estaban dentro de la casa llenas de maíz vio sacar ciertas planchas y hachuelas y brazaletes de plata, y echarlos fuera de la casa por las paredes, que eran de paja; y como el indio que parescía el principal de aquella casa (por el respeto que los indios de ella le tenían) los tuvo dentro de la casa, por señas les dijo que se asentasen, y a dos indios orejones que tenía por esclavos, les mandó dar a beber de unas tinajas que tenían</p>
+    </body>
+  </text>
+</TEI>

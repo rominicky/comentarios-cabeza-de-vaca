@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+<idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <pb n="32" facs="32.jpg"/>
+      <div type="capitulo" n="37">
+      <head>CAPÍTULO XXXVII</head>
+      <head type="titulocapitulo">De cómo los indios de la tierra se tornaron a ofrescer</head>
+      <p>Y visto que los cristianos que había enviado a descubrir y buscar camino para hacer la entrada y descubrimiento de la provincia se habían vuelto sin traer relación ni aviso de lo que convenía, y que al presente se ofrescían ciertos indios principales naturales de esta ribera, alguno de los <note ana="Eran nativos evangelizados.">cristianos nuevamente convertidos</note> y otros muchos indios, ir a descubrir las poblaciones de la tierra adentro, y que llevarían consigo algunos españoles que lo viesen, y trujesen relación del camino que ansí descubriesen, habiendo hablado y platicado con los indios principales que a ello se ofrescieron, que se <note ana="Los/as nativos/as eran bautizados con la imposición de un nombre que provenía del exterior, sus denominaciones sufrieron cambios radicales y profundos.">llamaban</note> <persName ref="https://portalguarani.com/53_juan_britos/6596_mil_apellidos_guaranies__leon_cadogan_y_bartomeu_melia__imagen_de_tapa_juan_britos.html">Juan de Salazar Cupirati</persName>, y <persName ana="Guaraní bautizado.">Lorenzo Moquiraci</persName>, y <placeName ana="Guaraní bautizado.">Timbuay</placeName>, y <persName ana="Guaraní bautizado.">Gonzalo Mayrairu</persName>, y otros; y vista su voluntad y buen celo con que se movían a descubrir la tierra, se lo agradesció y ofresció que <placeName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/20">Su Majestad</placeName>, y él en su real nombre, se lo pagarían y gratificarían; y a esta sazón le pidieron cuatro españoles, hombres pláticos en aquella tierra, les diese la empresa del descubrimiento, porque ellos irían con los indios y pornían en descubrir el camino toda la diligencia que para tal caso se requería; y él, visto que de su voluntad se ofrescían, el gobernador se lo concedió. Estos cristianos que se ofrescieron a descubrir este camino, y los indios principales con hasta mil y quinientos indios que llamaron y juntaron de la tierra, se partieron a 15 días del mes de diciembre del año de 1542 años, y fueron navegando con canoas por el <placeName ref="https://es.wikipedia.org/wiki/R%C3%ADo_Paraguay#Toponimia">río del Paraguay</placeName> arriba, y otros fueron por tierra hasta el <placeName key="Pueryo de las Piedras">puerto de las Piedras</placeName>, por donde se había de hacer la entrada al descubrimiento de la tierra, habían de pasar por la tierra y lugares de <placeName ref="Jefe guaraní que se reveló contra la colonización española, desobedeciendo las órdenes de los conquistadores, y dejó 'en territorio enemigo a los cristianos que guiaba'. Esto fue motivo para que Cabeza de Vaca ordenara su ahorcamiento.">Aracare</placeName>, que estorbaba que no se descubriese el camino pasado a los indios, que nuevamente iban, que no fuesen induciéndoles con palabras de motín; y no queriendo hacer los indios, se lo quisieron hacer dejar descubrir por fuerza, y todavía pasaron delante; y llegados al puerto de las Piedras los españoles, llevando consigo los indios y algunos que dijeron que sabían el camino por guías, caminaron treinta días contino por tierra despoblada, donde pasaron grandes hambres y sed; en tal manera, que murieron algunos indios, y los cristianos con ellos se vieron tan destinados y perdidos de sed y hambre, que perdieron el tino y no sabían por dónde habían de caminar; y de esta causa se acordaron de volver y se volvieron, comiendo por todo el camino cardos salvajes, y para beber sacaban zumo de los cardos y de otras yerbas, y a cabo de cuarenta y cinco días volvieron a la ciudad de la <placeName key="Asunción">Ascensión</placeName>; y venido por el río abajo, el dicho Aracare le salió al camino y les hizo mucho daño, mostrándose enemigo capital de los cristianos y de los indios que eran amigos, haciendo guerra a todos; y los indios y cristianos llegaron flacos y muy trabajados. Y vistos los daños tan notorios que el dicho Aracare indio había hecho y hacía, y cómo estaba declarado por enemigo capital, con parescer de los oficiales de Vuestra Majestad y religiosos, mandó el <note ana="Título que ostentaba Cabeza de Vaca otorgado por el monarca peninsular.">gobernador</note> proceder contra él, y se hizo el proceso, y mandó que a Aracare le fuesen notificados los autos, y ansí se lo notificaron, con gran peligro y trabajo de los españoles que para ello envió, porque Aracare los salió a matar con mano armada, levantando y apellidando todos sus parientes y amigos para ello: y hecho y fulminado el proceso conforme a derecho, fue sentenciado a pena de muerte corporal, la cual fue ejecutada en el dicho Aracare indio, y a los indios naturales les fue dicho y dado a entender las razones y causas justas que para ello había habido. A 20 días del mes de diciembre vinieron a surgir al puerto de la ciudad de la Ascensión los cuatro bergantines que el gobernador había enviado al <placeName ref="https://es.wikipedia.org/wiki/R%C3%ADo_Paran%C3%A1">río del Paraná</placeName> a socorrer los españoles que venían en la nao que envió dende la <placeName key="Santa Catalina">isla de Santa Catalina</placeName>, y con ellos el batel de la nao, y en todos cinco navíos vino toda la gente, y luego todos desembarcaron. <persName ref="https://historia-hispanica.rah.es/biografias/16219-pedro-estupinan-y-cabeza-de-vaca">Pedro Destopiñan Cabeza de Vaca</persName>, a quien dejó por capitán de la nao y gente, el cual dijo que llegó con la nao al río del Paraná, y que luego fue en demanda del <placeName key="Buenos Aires">puerto de Buenos Aires</placeName>; y en la entrada del puerto, junto donde estaba asentado el pueblo, halló un mastel enarbolado hincado en tierra, con unas letras cavadas que decían: <hi rend="bold">«Aquí está una carta»</hi>; y fue hallada en unos barrenos que se dieron; la cual abierta, estaba firmada de <persName ref="https://historia-hispanica.rah.es/biografias/8883-alonso-cabrera">Alonso Cabrera</persName>, veedor de fundiciones, y de <persName ref="https://historia-hispanica.rah.es/biografias/29465-domingo-martinez-de-irala">Domingo de Irala</persName>, vizcaíno, que se decía y nombraba <note ana="El título que se menciona proviene de Juan de Ayolas, que había sido encomendado por Pedro de Mendoza. Al fallecer estos, Irala pasó a ser lugarteniente por haber sido nombrado por Ayolas.">teniente de gobernador de la provincia</note>; y decía dentro de ella cómo habían despoblado el pueblo del <placeName key="buenayre">puerto de Buenos Aires</placeName> y llevado la gente que en él residía</p></div>
+    </body>
+  </text>
+</TEI>

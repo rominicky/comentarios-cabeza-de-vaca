@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+<idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="pb">pb 056</div>
+      
+      <p>tanta gente de españoles y indios, y esperaba con ellos tener gran necesidad de hambre, porque a todos había de dar de comer, y en toda la tierra no había más bastimento de lo que él tenía en los bergantines que estaban en el puerto, lo cual estaba muy tasado, y no había para más de diez o doce días para toda la gente, que eran, entre cristianos y indios, más de tres mil; y visto tan gran necesidad y peligro de morírsele toda la gente, mandó llamar todas las lenguas, y mandólas que por</p><p>los lugares cercanos a ellos le fuesen a buscar algunos bastimentos mercados por sus rescates, y para ello les dio muchos; los cuales fueron, y no hallaron ningunos y visto esto, mandó llamar a los indios principales de la tierra, y preguntóles adónde habrían, por sus rescates, bastimentos; los cuales dijeron que a nueve leguas de allí estaban en la ribera de unas grandes lagunas unos indios que se llaman arrianicosies, y que éstos tienen muchos bastimentos en gran abundancia, y que éstos darían lo que fuese menester.</p>
+      
+      <p>CAPÍTULO LXVII</p>
+      <p>De cómo el gobernador mandó a buscar bastimentos al <persName>capitán Mendoza</persName></p>
+      <p>Luego que el gobernador se informó de los indios principales del puerto, mandó juntar los oficiales, clérigos y capitanes y otras personas de experiencia para tomar con ellos acuerdo y parescer de lo que debía hacer, porque toda la gente pedía de comer, y el gobernador no tenía qué les dar, y estaban para se le derramar y ir por la tierra adentro a buscar de comer; y juntos los oficiales y clérigos, les dijo que vían ya la necesidad y hambre, que era tan general, que <persName>padescían</persName>, y que no esperaba menos que morir todos si brevemente no se daba orden para lo remediar, y que él era informado que los indios que se llaman arrianicosies tenían bastimentos, y que diesen su parescer de lo que en ello debía de hacer; los cuales todos juntamente le dijeron que debía enviar a los pueblos de los indios la mayor parte de la gente, ansí para se mantener y sustentar como a comprar bastimento, para que enviasen luego a la gente que consigo quedaba en el puerto, y que si los indios no quisiesen dar los bastimentos comprándoselos, que se los tomasen por fuerza; y si se pusiesen en los defender, los hiciesen guerra hasta se los tomar; porque atenta la necesidad que había, y que todos se morían de hambre, que del altar se podía tomar para comer; y este parecer dieron firmado de sus nombres; y ansí, se acordó de enviar a buscar los bastimentos al dicho capitán, con esta instrucción:</p>
+      <p>«Lo que vos el capitán <persName>Gonzalo de Mendoza</persName> habéis de hacer en los pueblos donde vais a buscar bastimentos para sustentar esta gente por que no se muera de hambre, es que los bastimentos que ansí mercáredes, habéislo de pagar muy a contento de los indios socorinos y sococies, y a los otros que por la comarca están poblados, y decirles heis de mi parte que estoy maravillado de ellos cómo no me han venido a ver, como lo han hecho todas las otras generaciones de la comarca; y que yo tengo relación que ellos son buenos, y que por ello deseo verlos y tenerlos por amigos, y darles de mis cosas, y que vengan a dar la obediencia a <persName>Su Majestad</persName>, como lo han hecho todos los otros; y haciéndolo ansí, siempre los favoresceré y ayudaré contra los que los quisieren enojar; y habéis de tener gran vigilancia y cuidado que por los lugares que pasáredes de los indios nuestros amigos no consintáis que ninguna de la gente que con vos lleváis entren por sus lugares ni les hagan fuerza ni otro ningún mal tratamiento, sino que todo lo que rescatáredes y ellos os dieren, lo paguéis a su contento, y ellos no tengan causa de se quejar; y llegado a los pueblos, pediréis a los indios a do vais que os den de los mantenimientos que tuvieren para sustentar las gentes que lleváis, ofresciéndoles la paga y rogándoselo con amorosas palabras; y si no os lo quisieren dar, <persName>requerírselo heis una</persName>, y dos, y tres veces, y más, cuantas de derecho pudiéredes y debiéredes, y ofresciéndole primero la paga; y si todavía</p><p>no os lo quisieren dar, tomarlo heis por fuerza; y si os lo defendieren con mano armada, hacerle heis la guerra, porque la hambre en que quedamos no sufre otra cosa; y en todo lo que sucediere adelante os habed tan templadamente, cuanto conviene al servicio de <persName>Dios</persName> y de <persName>Su Majestad</persName>; lo cual confío de vos, como de servidor de <placeName>Su Majestad</placeName>.»</p>
+      
+      <p>CAPÍTULO LXVIII</p>
+      <p>De cómo envió un bergantín a descubrir el <placeName>río de los xarayes</placeName>, y en él al <persName>capitán Ribera</persName></p>
+      <p>Con esta instrucción envió al capitán <persName>Gonzalo de Mendoza</persName>, con el parescer de los clérigos y oficiales y capitanes, y con ciento y veinte cristianos y seiscientos indios flecheros, que bastaban</p>
+    </body>
+  </text>
+</TEI>

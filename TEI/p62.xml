@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno><idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <pb n="62" facs="62.jpg"/>
+      <div type="capitulo" n="73"> 
+        <p>la ciudad de la <placeName key="Asunción">Ascensión</placeName>, en doce días, lo que había andado en dos meses cuando subió; aunque la gente venía a la muerte enferma, sacaban fuerza de flaqueza con deseo de llegar a sus casas; y cierto no fue poco el trabajo, por venir como tengo dicho, porque no podían tomar armas para resistir a los enemigos, ni menos podían aprovechar con un remo para ayudar ni guiar los bergantines; y si no fuera por los versos que llevábamos en los bergantines, el trabajo y peligro fuera mayor; traíamos las canoas de los indios en medio de los navíos, por guardarlos y salvarlos de los enemigos hasta volverlos a sus tierras y casas; y para que más seguros fuesen, repartió el gobernador algunos cristianos en sus canoas, y con venir tan recatados, guardándonos de los enemigos, pasando por tierra de los indios guaxarapos, dieron un salto con muchas canoas en gran cantidad y dieron en unas balsas que venían junto a nosotros, y arrojaron un dardo y dieron a un cristiano por los pechos y pasáronlo de parte a parte, y cayó luego muerto, el cual se llamaba <persName ana="Español que falleció en el episodio mencionado.">Miranda</persName>, natural de <placeName key="Valladolid">Valladolid</placeName>, e hirieron algunos indios de los nuestros, y si no fueran socorridos con los versos, nos hicieran mucho daño. Todo ello causó la flaqueza grande que tenía la gente.</p>
+        <p>A 8 días del mes de abril del dicho año llegamos a la ciudad de <placeName key="Asunción">la Ascención</placeName> con toda la gente y navíos y <persName ref="https://pueblosoriginarios.com/sur/bosque_atlantico/guarani/cultura.html">indios guaraníes</persName>, y todos ellos y el <note ana="Cabeza de Vaca">gobernador</note>, con los cristianos que traía, venían enfermos y flacos; y llegado allí el gobernador, halló al capitán <persName ref="https://historia-hispanica.rah.es/biografias/40062-juan-de-salazar-de-espinoza">Salazar</persName> que tenía hecho llamamiento en toda la tierra y tenía juntos más de veinte mil indios y muchas canoas, y para ir por tierra otra gente a buscar y matar y destruir a los <persName ref="https://es.wikipedia.org/wiki/Agaces">indios agaces</persName>, porque después que el gobernador se había partido del puerto no habían cesado de hacer la guerra a los cristianos que habían quedado en la ciudad y a los naturales, robándolos y matándolos y tomándoles las mujeres y hijos, y salteándoles la tierra y quemándoles los pueblos, haciéndoles muy grandes males; y como llegó el gobernador, cesó de ponerse en efecto, y hallamos la carabela que el gobernador mandó hacer, que casi estaba ya hecha, porque en acabándose había de dar aviso a <persName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/20">Su Majestad</persName> de lo suscedido, de la entrada que se hizo de la tierra y otras cosas suscedidas en ella, y mandó el gobernador que se acabase.</p>     
+      </div>
+      <div type="capitulo" n="74">
+      <head>CAPÍTULO LXXIV</head>
+      <head type="titulocapitulo">Cómo el gobernador llegó con su gente a la Ascensión y aquí le prendieron</head>
+      <p>Dende a quince días que hubo llegado el gobernador a la ciudad de la <placeName key="Asunción">Ascensión</placeName>, como los oficiales de <persName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/20">Su Majestad</persName> le tenían <note ana="Sobre las disputas que tenía Cabeza de Vaca con Irala.">odio por las causas</note> que son dichas, que no les consentía, por ser, como eran, contra el servicio de Dios y de Su Majestad, ansí en haber despoblado el mejor y más principal puerto de la provincia, con pretensión de se alzar con la tierra (como al presente lo están), y viendo venir al gobernador tan a la muerte y a todos los cristianos que con él traía, día de Sant Marcos se juntaron y confederaron con otros amigos suyos, y conciertan de aquella noche prender al gobernador; y para mejor lo poder hacer a su salvo, dicen a cien hombres que ellos saben que el gobernador quiere tomarles sus haciendas y casas y indias, y darlas y repartirlas entre los que venían con él de la entrada perdidos, y que aquello era muy gran sinjusticia y contra el servicio de Su Majestad, y que ellos, como sus oficiales, querían aquella noche ir a requerir, en nombre de Su Majestad, que no les quitase las casas ni ropas y indias; y porque se temían que el gobernador los mandaría prender por ello, era menester que ellos fuesen armados y llevasen sus amigos, y pues ellos lo eran, y por esto se ponían en hacer el requerimiento, del cual se seguía muy gran servicio a Su Majestad y a ellos mucho provecho, y que a hora del Ave María viniesen con sus armas a dos casas que les señalaron, y que allí se metiesen hasta que ellos avisasen lo que habían de hacer; y ansí, entraron en la cámara donde el gobernador estaba muy malo hasta diez o doce de ellos, diciendo a voces: <hi rend="italic">¡Libertad, libertad; viva el Rey!</hi> Eran el veedor <persName ref="https://historia-hispanica.rah.es/biografias/8883-alonso-cabrera">Alonso Cabrera</persName>, el contador <persName ref="https://historia-hispanica.rah.es/biografias/8691-felipe-de-caceres">Felipe de Cáceres</persName>, <persName ref="https://historia-hispanica.rah.es/biografias/44762-garci-venegas">Garci-Vanegas</persName>, teniente de tesorero; un criado del gobernador, que se llamaba <persName ref="https://historia-hispanica.rah.es/biografias/34077-pedro-de-orantes">Pedro de Oñate</persName>, el cual tenía en su cámara, y éste los metió y dio la puerta y fue principal en todo, y a don <persName ref="https://historia-hispanica.rah.es/biografias/30365-francisco-de-mendoza">Francisco de Mendoza</persName> y a <persName ref="https://es.wikipedia.org/wiki/Jaime_Rasquin">Jaime Rasquín</persName>, y éste puso una ballesta con un arpón con yerba a los pechos al gobernador; <persName ana="Un interprete, según comentarios de origen portugués.">Diego de Acosta</persName>, lengua, portugués; <persName>Solórzano</persName>, natural de la <placeName key="Canarias">Gran Canaria</placeName>; y éstos entraron a prender al gobernador adelante con sus armas; y ansí, lo sacaron en camisa,</p></div>
+    </body>
+  </text>
+</TEI>

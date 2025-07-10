@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno><idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <pb n="61" facs="61.jpg"/> 
+      <div type="capitulo" n="71">
+      <p>que habían llevado; y habiéndoselos ido a pedir respondieron que los <persName ana="Los guasarapos o guachís, pertenecen al grupo más amplio de la tribu Mbaya-Guaycurú, así como Mbayaú y Guaycurú.">indios guaxarapos</persName> se los habían llevado, y que no los tenían ellos; de allí adelante venían de noche a correr la laguna, por ver si podían captivar algunos de los cristianos y indios que pescasen en ella, y a estorbar que no pescasen en ella, diciendo que la tierra era suya, y que no habían de pescar en ella los cristianos y los indios; que nos fuésemos de su tierra, si no, que nos habían de matar. El <note ana="Cabeza de Vaca">gobernador</note> envió a decir que se sosegasen y guardasen la paz que con él habían asentado, y viniesen a traer los cristianos e indios que habían llevado, y que los ternía por amigos; donde no lo quisiesen hacer, que procedería contra ellos como contra enemigos, a los cuales se lo envió a decir y apercibir muchas veces, y no lo quisieron hacer, y no dejaban de hacer la guerra y daños que podían; y visto que no aprovechaba nada, el gobernador mandó hacer información contra los dichos indios; y habida, con el parescer de los oficiales de <placeName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/20">Su Majestad</placeName> y los clérigos, fueron dados y pronunciados por enemigos, para poderlos hacer la guerra; la cual se les hizo, y aseguró la tierra de los daños que cada día hacían.</p></div>
+      <div type="capitulo" n="72">
+      <head>CAPÍTULO LXXII</head>
+      <head type="titulocapitulo">De cómo vino Hernando de Ribera de su entrada que hizo por el río</head>
+      <p>A 30 días del mes de enero del año de 1543 vino el capitán <persName ref="https://historia-hispanica.rah.es/biografias/38870-hernando-de-ribera">Hernando de Ribera</persName> con el navío y gente con que le envió el <note ana="Cabeza de Vaca">gobernador</note> a descubrir por el río arriba; y porque cuando él vino le halló enfermo, y ansimismo toda la gente, de calenturas con fríos, no le pudo dar relación de su descubrimiento, y en este tiempo las aguas de los ríos crescían de tal manera, que toda aquella tierra estaba cubierta y anegada de agua, y por esto no se podía tomar a hacer la entrada y descubrimiento, y los indios naturales de la tierra le dijeron y certificaron que ahí duraba la cresciente de las aguas cuatro meses del año, tanto, que cubre la tierra cinco y seis brazas en alto, y hacen lo que atrás tengo dicho de andarse dentro en canoas, con sus casas todo este tiempo buscando de comer, sin poder saltar en la tierra; y en toda esta tierra <note ana="Mención a la práctica de antropofagia que tenían por hábito distintos pueblos originarios de América. Asimismo, la Antropología explica que, en algunos casos, esta costumbre se utilizó como herramienta para legitimar la dominación colonial y la imposición de un sistema de valores europeo.">tienen por costumbre</note> los naturales de ella de se matar y comer los unos a los otros; y cuando las aguas bajan, tornan a armar sus casas donde las tenían antes que cresciesen, y queda la tierra inficionada de pestilencia del mal olor y pescado que queda en seco en ella, y con el gran calor que hace es muy trabajosa de sufrir.</p></div>
+      <div type="capitulo" n="73">
+      <head>CAPÍTULO LXXIII</head>
+      <head type="titulocapitulo">De lo que acontesció al gobernador y gente en este puerto</head>
+      <p>Tres meses estuvo el <note ana="Cabeza de Vaca">gobernador</note> en el <placeName key="Puerto los Reyes">puerto de los Reyes</placeName> con toda la gente enferma de calenturas, y él con ellos, esperando que Dios fuese servido de darles salud y que las aguas bajasen para poner en efecto la entrada y descubrimiento de la tierra, y de cada día crescía la enfermedad, y lo mismo hacían las aguas; de manera que del puerto de los Reyes fue forzado retirarnos con harto trabajo, y demás de hacernos tanto daño, trujeron consigo tantos mosquitos de todas maneras, que de noche ni de día no nos dejaban dormir ni reposar, con lo cual se pasaba un tormento intolerable, que era peor de sufrir que las calenturas; y visto esto, y porque habían requerido al gobernador los oficiales de Su Majestad que se retirase y fuese del dicho puerto abajo a la ciudad de la <placeName key="Asunción">Ascensión</placeName>, adonde la gente convaleciese, habido para ello información y parescer de los clérigos y oficiales, se retiró; pero <note ana="Cabeza de Vaca no autorizaba este tipo de prácticas, comunes desde los primeros momentos de la colonización, en las que los nativos ofrecían mujeres, en particular hijas de principales, a los españoles como estrategia diplomática o gesto de hospitalidad. Su rechazo explícito, sería una de las tensiones que marcaron su disputa con Domingo Martínez de Irala.">no consintió que los cristianos trujesen obra de cien muchachas</note>, que los naturales del puerto de los Reyes, al tiempo que allí llegó el gobernador, habían ofrescido sus padres a capitanes y personas señaladas para estar bien con ellos y para que hiciesen de ellas lo que solían de las otras que tenían; y por evitar la ofensa que en esto a Dios se hacía, el gobernador mandó a sus padres que las tuviesen consigo en sus casas hasta tanto que se hobiesen de volver; y al tiempo que se embarcaron para volver, por no dejar a sus padres descontentos y a la tierra escandalizada a causa de ello, lo hizo ansí; y para dar más color a lo que hacía, publicó una instrucción de Su Majestad, en que manda <hi rend="bold">«que ninguno sea osado de sacar a ningún indio de su tierra, so graves penas»</hi>; y de esto quedaron los naturales muy contentos, y los españoles muy quejosos y desesperados, y por esta causa le querían algunos mal, y dende entonces fue aborrescido de los más de ellos, y con aquella color y razón hicieron lo que diré adelante; y embarcada la gente, ansí cristianos como indios, se vino al puerto</p></div>
+    </body>
+  </text>
+</TEI>

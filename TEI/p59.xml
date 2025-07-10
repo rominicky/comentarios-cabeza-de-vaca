@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+<idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="pb">pb 059</div>
+      
+      <p>dentro de la casa metidas hasta el cuello debajo de tierra, llenas de vino de maíz; sacaron vino en unos calabazos grandes y les comenzaron a dar de beber; y los dos orejones le dijeron que a tres jornadas de allí, con unos indios que llaman payzunoes, estaban ciertos cristianos, y dende allí les enseñaron a Tapuaguazu (que es una peña muy alta y grande), y luego comenzaron a venir muchos indios muy pintados y emplumados, y con arcos y flechas a punto de</p><p>guerra, y el dicho indio habló con ellos con mucha aceleración, y tomó asimismo un arco y flechas, y enviaba indios que iban y venían con mensajes; de donde habían conoscido que hacía llamamiento del pueblo que debía estar cerca de allí, y se juntaban para los matar; y que había dicho a los cristianos que con él iban, que saliesen todos juntos de la casa, y se volviesen por el mismo camino que habían traído antes que se juntasen más indios; a esta sazón estarían juntos más de trescientos, dándolos a entender que iban a traer otros muchos cristianos que vivían allí cerca; y que ya que iban a salir, los indios se les ponían delante para los detener, y por medio de ellos habían salido, y que obra de un tiro de piedra de la casa, visto por los indios que se iban, habían ido tras de ellos, y con grande grita, tirándoles muchas flechas, los habían seguido hasta los meter por el monte, donde se defendieron; y los indios, creyendo que allí había más cristianos, no osaron entrar tras de ellos y los habían dejado ir, y escaparon todos heridos, y se tornaron por el propio camino que abrieron, y lo que habían caminado en veinte y un días, dende donde el gobernador los había enviado hasta llegar al puerto de <placeName>los Reyes</placeName> lo anduvieron en doce días; que le paresció que dende aquel puerto hasta donde estaban los dichos indios había setenta leguas de camino, y que una laguna que está a veinte leguas de este puerto, que se pasó el agua hasta la rodilla, venía entonces tan crescida y traía tanta agua, que se había extendido y alargado más de una legua por la tierra adentro, por donde ellos habían pasado, y más de dos lanzas de hondo, y que con muy gran trabajo y peligro lo habían pasado con balsas; y que si habían de entrar por la tierra, era necesario que abajase el agua de la laguna; y que los indios se llaman tarapecocies, los cuales tienen muchos bastimentos, y vio que crían patos y gallinas como las nuestras en mucha cantidad. Esta relación dio <persName>Francisco de Ribera</persName> y los españoles que con él fueron y vinieron, y de la guía que con ellos fue; los cuales dijeron lo mismo que había declarado <persName>Francisco de Ribera</persName>; y porque en este puerto de <placeName>los Reyes</placeName> estaban algunos indios de la generación de los tarapecocies, donde llegó el <persName>Francisco de Ribera</persName>, los cuales vinieron con <persName>García</persName>, lengua, cuando fue por las poblaciones de <placeName>la tierra</placeName>, y volvió desbaratado por los indios guaraníes en el río del <placeName>Paraguay</placeName>, y se escaparon éstos con los indios chaneses que huyeron, y vivían todos juntos en el <placeName>puerto de los Reyes</placeName>, y para informarse de ellos los mandó llamar el gobernador, y luego conoscieron y se alegraron con unas flechas que <persName>Francisco de Ribera</persName> traía, de las que le tiraron los indios tarapecocies, y dijeron que aquéllas eran de su tierra; y el gobernador les preguntó que por qué los de su generación habían querido matar aquellos que los habían ido a ver y hablar. Y dijeron que los de su generación no eran enemigos de los cristianos, antes los tenían por amigos desde que <persName>García</persName> estuvo en la tierra y contrató con ellos; y que la causa por que los tarapecocies los querían matar sería por llevar en su compañía indios guaraníes, que los tienen por enemigos, porque los tiempos pasados fueron hasta su tierra a los matar y destruir; porque los cristianos no habían llevado lengua que los hablasen y los entendiesen para les decir y hacer entender a lo que iban, porque no acostumbran hacer guerra a los que no les hacen mal; y que si llevaran lengua que les hablara, les hicieran buenos tratamientos y les dieran de comer, y oro y plata que tienen, que traen de las poblaciones de la tierra adentro. <placeName>Fueron</placeName> preguntados qué generaciones son de los que han la plata y el oro, y cómo lo contratan y viene a su poder; dijeron que los payzunoes, que están tres jornadas de su tierra, lo dan a los suyos a trueco de arcos y flechas y esclavos que toman de otras generaciones, y que los payzunoes lo han de los chaneses y <placeName>chimenoes</placeName> y <placeName>carcaraes</placeName> y candirees, que son otras gentes de los indios, que lo tienen en mucha cantidad, y que los indios lo contratan, como</p><p>dicho es. <placeName>Fuéle</placeName> mostrando un candelero de <persName>azófar</persName> muy limpio y claro, para que lo viese y declarase si el oro que tenían en su tierra era de aquella manera; y dijeron que lo del candelero era duro y bellaco, y lo de su tierra era blando y no tenía mal olor y era más amarillo, y luego le fue mostrada una sortija de oro, y dijeron si era de aquello mismo lo de su tierra, y dijo que sí. Asimismo le mostraron un plato</p>
+    </body>
+  </text>
+</TEI>

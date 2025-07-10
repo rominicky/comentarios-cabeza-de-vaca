@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina <surname>De León</surname></editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+            <idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <pb n="08" facs="08.jpg"/>
+      <div type="capitulo" n="4">
+      <p>había trescientas y cincuenta leguas por el río arriba, de muy trabajosa navegación, y que estaba por teniente de gobernador en la tierra, y provincia <persName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/90">Domingo de Irala</persName>, vizcaíno, por quien <note ana="Cabeza de Vaca alude, con ironía a Irala como lugarteniente, que le sucedió a Ayolas y lo vincula a su muerte."><hi rend="bold">sucedió la muerte, y perdición</hi></note> de <persName ref="https://es.wikipedia.org/wiki/Juan_de_Ayolas">Juan de Ayolas</persName>, y de todos los cristianos que consigo llevó; y también le dijeron, y informaron, que Domingo de Irala, dende la ciudad de la <placeName key="Asunción">Ascensión</placeName>, había subido por el <placeName ref="https://es.wikipedia.org/wiki/R%C3%ADo_Paraguay#Toponimia">río del Paraguay</placeName> arriba, con ciertos bergantines, y gentes, diciendo que iba a buscar, y dar socorro a Juan de Ayolas, y había entrado por tierra muy trabajosa de aguas, y ciénagas, a cuya causa no había podido entrar por la tierra adentro, y se había vuelto, y había tomado presos seis indios, de la generación de los <persName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/721">payaguos</persName>, que fueron los que mataron a Juan de Ayolas, y cristianos, de los cuales prisioneros se informó, y certificó de la muerte de Juan de Ayolas, y cristianos, y cómo al tiempo había venido a su poder un indio <persName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/885">chane</persName>, llamado <persName ana="Refiere al originario del pueblo Chané, bautizado, según diversas fuentes, como Gonzalo Aquier (o Chaves), quien se encontró con Irala en la Candelaria en 1540.">Gonzalo</persName>, que escapó cuando mataron a los de su generación, y cristianos, que venían con ellos con las cargas, el cual estaba en poder de los indios payaguos captivo; y <note ana="Ayolas participó en la expedición al Río de la Plata junto a Pedro de Mendoza, exploró el interior por el río Paraná, con las fundaciones de Corpus Christi y Candelaria. Cuando Mendoza retorna a España, Ayolas fue nombrado teniente de gobernador, pero murió en el Chaco posiblemente en enfrentamiento contra pueblos originarios. Irala asumió el gobierno tras su desaparición, lo que generó tensiones con Alvar Núñez Cabeza de Vaca, quien lo acusó de haber abandonado a Ayolas deliberadamente.">Domingo de Irala</note> se retiró de la entrada, en la cual <hi rend="bold">se le murieron sesenta cristianos, de enfermedad, y malos tratamientos</hi>; y otrosí, que los oficiales de Su Majestad, que en la tierra, y provincia residían, habían hecho y hacían muy grandes agravios a los españoles, pobladores, y conquistadores, y a los indios naturales de la dicha provincia, vasallos de Su Majestad, de que estaban muy descontentos y desasosegados; y que por esta causa, y porque asimismo los capitanes los maltrataban, ellos habían hurtado un batel en el <placeName key="buenayre">puerto de Buenos Aires</placeName>, y se habían venido huyendo, con intención, y propósito de dar aviso a Su Majestad de todo lo que pasaba en la tierra, y provincia: a los cuales nueve cristianos, porque venían desnudos, el <persName ana="Título que ostentaba Álvar Núñez Cabeza de Vaca.">gobernador</persName> los vistió, y recogió, para volverlos consigo a la provincia, por ser hombres provechosos, y buenos marineros, y porque entre ellos había un piloto para la navegación del río.</p></div>
+
+      <div type="capitulo" n="5">
+      <head>CAPÍTULO V</head>
+      <head type="titulocapitulo">De cómo el gobernador dio priesa a su camino</head>
+      <p>El <persName ana="Título que ostentaba Álvar Núñez Cabeza de Vaca. Arribó en 1541 a la isla de Catalina, con el título otorgado por el rey Carlos I de España, de Segundo Adelantado, capitán general y gobernador del Río de la Plata, Paranáguazu y sus anexos. Allí comenzó su recorrido por tierra firme buscando alcanzar la ciudad de Asunción, que se había convertido en centro de la conquista del Río de la Plata.">gobernador</persName>, habida relación de los nueve cristianos, le paresció, que para con mayor brevedad socorrer a los que estaban en la ciudad de la <placeName key="Asunción">Ascensión</placeName>, y a los que residían en el <placeName key="riodelaplata">puerto de Buenos Aires</placeName>, debía buscar camino por la Tierra Firme, desde la isla, para poder entrar por él a las partes, y lugares ya dichos, do estaban los cristianos, y que por la mar podrían ir los navíos al puerto de Buenos Aires, y contra la voluntad, y parescer del contador <persName ref="https://historia-hispanica.rah.es/biografias/8691-felipe-de-caceres">Felipe de Cáceres</persName>, y del piloto <persName ana="Antonio López de  Aguilar arribó al Río de la Plata en 1539 junto a Alonso Cabrera. Al año siguiente volvió a España y regresó en 1541 con la expedición de Cabeza de Vaca, con destino a Paraguay. Se propuso efectuar una expedición por cuenta propia en 1541 remontando el Río de la Plata, pero murió antes de comenzarla.">Antonio López</persName>, que querían que fuera con toda el armada al puerto de Buenos Aires, dende la <placeName key="Santa Catalina">isla de Santa Catalina</placeName> envió al factor <persName ana="Pedro Dorantes, o de Orantes, oriundo de Béjar; fue factor real de la expedición de Núñez Cabeza de Vaca al Río de la Plata. En 1543 De Orantes escribió cartas al Rey, pidiendo que mandase un procurador para defender los intereses de los indios. La mala situación entre el Adelantado y sus oficiales reales hizo que se conjuraran, bajo órdenes de Ñuflo de Chaves y De Orantes. Lo derrocaron en abril de 1544, fue vuelto a España, custodiado por García Venegas y Alonso Cabrera.">Pedro Dorantes</persName> a descubrir, y buscar camino por la Tierra Firme, y porque se descubriese aquella tierra, en el cual descubrimiento le mataron al rey de <placeName key="Portugal">Portugal</placeName> mucha gente los indios naturales: el cual dicho Pedro Dorantes, por mandado del gobernador, partió con ciertos cristianos españoles, y indios, que fueron con él para le guiar, y acompañar en el descubrimiento. A cabo de tres meses y medio, que el factor Pedro Dorantes hobo partido a descubrir la tierra, volvió a la isla de Santa Catalina, donde el gobernador le quedaba esperando; y entre otras cosas de su relación, dijo, que habiendo atravesado grandes sierras, y montañas, y tierra muy despoblada, había llegado a do dicen el <placeName key="Campo">Campo</placeName>, que dende allí comienza la tierra poblada, y que los naturales de la isla dijeron, que era más segura, y cercana la entrada para llegar a la tierra poblada, por un río arriba, que se dice <placeName key="Itapocu">Itabucu</placeName>, que está en la punta de la isla, a diez y ocho, o veinte leguas del puerto. Sabido esto por el gobernador, luego envió a ver, y descubrir el río, y la tierra firme de él, por donde había de ir caminando: el cual visto, y sabido, determinó de hacer por allí la entrada, así para descubrir aquella tierra, que no se había visto, ni descubierto, como por socorrer más brevemente a la gente española, que estaba en la provincia; y así acordado de hacer por allí la entrada, los frailes fray <persName ref="https://historia-hispanica.rah.es/biografias/4146-bernardo-de-armenta-o-armentia">Bernaldo de Armenia</persName>, y fray <persName ref="https://historia-hispanica.rah.es/biografias/26055-alonso-lebron">Alonso Lebrón</persName>, su compañero, habiéndoles dicho el Gobernador, que se quedasen en la tierra, y isla de Santa Catalina a enseñar, y doctrinar los indios naturales, y a reformar, y sostener los que habían baptizado, no lo quisieron hacer, poniendo por excusa, que se querían ir en su compañía del gobernador, para residir en la ciudad de Ascensión, donde estaban los españoles, que iba a socorrer.</p></div>
+    </body>
+  </text>
+
+</TEI>

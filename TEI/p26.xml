@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+<idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="pb">pb 026</div>
+      
+      <p>son muy valientes y de grandes fuerzas, viven gentílicamente, no tienen casas de asiento, mantiénense de montería y de pesquería; ninguna nasción los venció si no fueron españoles. <persName>Tienen</persName> por costumbre que si alguno los venciese, se les darían por esclavos. Las mujeres tienen por costumbre y libertad que si a cualquier hombre que los suyos hobieren prendido y captivado, queriéndolo matar, la primera mujer que lo viera lo liberta, y no puede morir ni menos ser captivo; y queriendo estar entre ellos el tal captivo, lo tratan y quieren como si fuese de ellos mismos. Y es cierto que las mujeres tienen más libertad que la que dio la reina <persName>doña Isabel</persName>, nuestra señora, a las mujeres de <placeName>España</placeName>; y cansado el gobernador y su gente de seguir al enemigo, se volvió al real, y recogida la gente con buena orden, comenzó a caminar, volviéndose a la ciudad de la <placeName>Ascensión</placeName>; e yendo por el camino, los indios guaycurúes por muchas veces los siguieron y dieron arma, lo cual dio causa a que el gobernador tuviese mucho trabajo en traer recogidos los indios que consigo llevó, porque no se los matasen los enemigos que habían escapado de la batalla; porque los indios guaraníes que habían ido en su servicio tienen por costumbre que, en habiendo una pluma o una flecha o una estera de cualquiera de los enemigos, se vienen con ella para su tierra solos, sin aguardar otro ninguno; y <persName>ansí acontesció</persName> matar veinte guaycurúes a mil guaraníes, tomándolos solos y divididos; tomaron en aquella jornada el gobernador y su gente hasta cuatrocientos prisioneros, entre hombres y mujeres y mochachos, y caminando por el camino, la gente de a caballo alancearon y mataron muchos venados; de que los indios se maravillaban mucho de ver que los caballos fuesen tan ligeros que los pudiesen alcanzar. También los indios mataron con flechas y arcos muchos venados; y a hora de las cuatro de la tarde vinieron a reposar debajo de unas grandes arboledas, donde dormieron aquella noche, puestas centinelas y a buen recaudo.</p>
+      
+      <p>CAPÍTULO XXVII</p>
+      <p>De cómo el gobernador volvió a la ciudad de la <placeName>Ascensión</placeName> con toda su gente</p>
+      <p>Otro día siguiente, siendo de día claro, partieron en buena orden, y fueron caminando y cazando, así los españoles de a caballo como los indios guaraníes, y se mataron muchos venados y avestruces, y ansimismo la gente española con las espadas mataron algunos venados que venían a dar al escuadrón huyendo de la gente de a caballo y de los indios, que era cosa de ver y de muy gran placer ver la caza que se hizo el dicho día; y hora y media antes que <placeName>anocheciese</placeName> llegaron a la ribera del río del <placeName>Paraguay</placeName>, donde había dejado el gobernador los dos bergantines y canoas, y este día comenzó a pasar alguna de la gente y caballos; y otro día siguiente, dende la mañana hasta el mediodía, se acabó todo de pasar; y caminando, llegó a la ciudad de la <placeName>Ascensión</placeName> con su gente, donde había dejado para su guarda doscientos y cincuenta hombres. y por capitán a <persName>Gonzalo de Mendoza</persName>, el cual tenía presos seis indios de una generación que se llaman <placeName>yapirúes</placeName>, la cual es una gente crescida, de grandes estaturas, valientes hombres, guerreros y grandes corredores, y no labran ni crían: mantiénense de la caza y pesquería; son enemigos de los indios guaraníes y de los guaycurúes. Y habiendo hablado <persName>Gonzalo de Mendoza</persName> al gobernador, le informó y dijo que el día antes habían venido los indios y pasado el río del <placeName>Paraguay</placeName>, diciendo que los de su generación habían sabido de la guerra que habían ido a hacer y se había hecho a los indios guaycurúes, y que ellos y todas las otras generaciones estaban por ello atemorizados, y que su principal los enviaba a hacer saber cómo deseaban ser amigos de los cristianos; y que si ayuda fuese menester contra los guaycurúes, que vernían; y que él había sospechado que los indios venían a hacer alguna traición y a ver su real, debajo de aquellos ofrecimientos, y que por esta razón los había preso hasta tanto que se pudiese bien informar y saber la verdad; y sabido lo susodicho por el gobernador, los mandó luego soltar y que fuesen traídos ante él; los cuales fueron luego traídos, y les mandó hablar con una lengua intérprete español que entendía su lengua, y les mandó preguntar la causa de su venida a cada uno por sí. Y entendiendo que de ello redundara provecho y servicio de <placeName>Su Majestad</placeName>, les hizo buen tratamiento y les dio muchas cosas de rescates para ellos y para su principal, diciéndoles cómo él los <persName>recebía</persName> por amigos y por vasallos de <placeName>Su Majestad</placeName>, y que del gobernador serían bien tratados y favorescidos, con tanto que se apartasen de la guerra que solían tener con los guaraníes, que eran vasallos de <placeName>Su Majestad</placeName>, y de hacerles daño; porque les hacía saber que ésta había sido la causa prin-</p>
+    </body>
+  </text>
+</TEI>

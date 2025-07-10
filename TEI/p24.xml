@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+<idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="pb">pb 024</div>
+      
+      <p>dios, de lo cual hobo entre ellos tan grande escándalo y alboroto, que hicieron a los españoles tocar al arma, y los españoles, creyendo que se querían volver contra ellos, dieron en los indios con apellido de <placeName>Santiago</placeName>, y de aquella refriega hirieron algunos indios; y visto por los indios, se metieron por el monte adentro huyendo, y hobieran herido con dos arcabuzazos al gobernador, porque le pasaron las pelotas a raíz de la cara; los cuales se tuvo por cierto que le tiraron maliciosamente por lo matar, por complacer a <persName>Domingo de Irala</persName>, porque le había quitado el mandar de la tierra, como solía. Y visto por el gobernador que los indios se habían metido por los montes, y que convenía remediar y apaciguar, tan grandes escándalos y alboroto, se apeó solo, y se lanzó en el monte con los indios, animándolos y diciéndoles que no era nada, sino que aquel tigre había causado aquel alboroto, y que él y su gente española eran sus amigos y hermanos, y vasallos de <placeName>Su Majestad</placeName>, y que fuesen todos con él adelante a echar los enemigos de la tierra, pues que los tenían muy cerca. Y con ver los indios al gobernador en persona entre ellos, y con las cosas que les dijo, ellos se asosegaron, y salieron del monte con él; y es cierto que en aquel trance estuvo la cosa en punto de perderse todo el campo, porque si los dichos indios huían y se volvían a sus casas, nunca se aseguraran ni fiaran de los españoles, ni sus amigos y parientes; y ansí, se salieron, llamando el gobernador a todos los principales por sus nombres, que se habían metido en los montes con los otros, los cuales estaban muy atemorizados, y les dijo y aseguró que viniesen con él seguros, sin ningún miedo ni temor; y que si los españoles los habían querido matar, ellos habían sido la causa, porque se habían puesto en arma, dando a entender que los querían matar, porque bien entendido tenían que había sido la causa aquel tigre que pasó entre ellos, y que había puesto el temor a todos, y que, pues eran amigos, se tornasen a juntar, pues sabían que la guerra que iban a hacer era y tocaba a ellos mismos, y por su respecto se la hacía, porque los indios guaycurúes nunca los habían visto ni conoscido los españoles, ni hecho ningún enojo ni daño, y que por amparar y defender a ellos, y que no les fuesen hechos daños algunos, iban contra los dichos indios.</p><p>Siendo tan rogados y persuadidos por el gobernador por buenas palabras, salieron todos a ponerse en su mano muy atemorizados, diciendo que ellos se habían escandalizado yendo caminando, pensando que del monte salían sus enemigos, los que iban a buscar, y que iban huyendo a se amparar con los españoles, y que no era otra la causa de su alteración; y como fueron sosegados los indios principales, luego los otros de su generación se juntaron, y sin que hobiese ningún muerto; y ansí juntos, el gobernador mandó que todos los indios de allí adelante fuesen a la retaguardia, y los españoles en el avanguardia, y la gente de a caballo delante de toda la gente de los indios españoles; y mandó que todavía caminasen como iban en la orden, por dar más contento a los indios, y viesen la voluntad con que iban contra sus enemigos, y perdiesen el temor de lo pasado, porque, si se rompiera con los indios, y no se pusiera remedio, todos los españoles que estaban en la provincia no se pudieran sustentar ni vivir en ella, y la habían de desamparar forzosamente; y ansí, fue caminando hasta dos horas de la noche, que paró con toda la gente, a do cenaron de lo que llevaban, debajo de unos árboles.</p>
+      
+      <p>CAPÍTULO XXV</p>
+      <p>De cómo el gobernador y su gente alcanzaron a los enemigos</p>
+      <p>A hora de las once de la noche, después de haber reposado los indios y españoles que estaban en el campo, sin consentir que hiciesen lumbre ni fuego ninguno, porque no fuesen sentidos de los enemigos, a la hora llegó una de las espías y descubridores que el gobernador había enviado para saber de los enemigos, y dijo que los dejaba asentando su pueblo; lo cual holgó mucho de oír el gobernador, porque tenía temor que hobiesen oído los arcabuces al tiempo que los dispararon en el alboroto y escándalo de aquella noche; y haciéndole preguntar a la espía a do quedaban los indios, le dijo que quedarían tres leguas de allí; y sabido esto por el gobernador, mandó levantar el campo, y caminó luego toda la gente, yendo con ella poco a poco, por detenerse en el camino y llegar a dar en ellos al reír del alba, lo cual ansí convenía para seguridad de los indios amigos que consigo llevaban, y les dio por señal unas cruces de yeso, en los pechos puestas y señaladas, y en las espaldas también, porque fuesen conoscidos de los españoles, y no los mata-</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200"><svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fondo -->
+  <rect width="200" height="200" fill="#2b003c"></rect>
+  
+  <!-- Hexágono centrado -->
+  <polygon points="100,20 170,60 170,140 100,180 30,140 30,60" fill="none" stroke="#ff79c6" stroke-width="10"></polygon>
+  
+  <!-- Letra R centrada geométricamente -->
+  <text x="100" y="132" font-size="92" font-family="Roboto, sans-serif" fill="#ff79c6" text-anchor="middle" font-weight="light">R</text>
+</svg><style>@media (prefers-color-scheme: light) { :root { filter: contrast(1) brightness(1); } }
+@media (prefers-color-scheme: dark) { :root { filter: none; } }
+</style></svg>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+<idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <pb n="71" facs="71.jpg" />
+      <div type="capitulo" n="84">      
+      <p>y se vinieron para estos reinos de <placeName key="Castilla">Castilla</placeName>, y llegaron a ella ocho o diez días primero que el <note ana="Álvar Núñez Cabeza de Vaca">gobernador</note>, porque con tiempos contrarios se detuvo en éstos; y llegados ellos primero que el gobernador a la corte llegase, publicaban que se había ido al rey de <placeName key="Portugal">Portugal</placeName> para darle aviso de aquellas partes, y dende a pocos días llegó a esta corte. Como fue llegado, la propia noche desaparecieron los delincuentes y se fueron a <placeName key="Madrid">Madrid</placeName>, a do esperaron que la corte fuese allí, como fue; y en este tiempo murió el obispo de Cuenca, que presidía en el <note ana="El Consejo de Indias se fundó en 1511, fue la organización más importante de la administración indiana (América y las Filipinas), asesoraba a virreyes en la función ejecutiva y judicial.">Consejo de las Indias</note>, el cual tenía deseo y voluntad de castigar aquel delito y desacato que contra <persName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/20">Su Majestad</persName> se había hecho en aquella tierra. Dende a pocos días después de haber estado presos ellos, y el gobernador igualmente, y sueltos sobre fianzas que no saldrían de la corte, <persName ref="https://historia-hispanica.rah.es/biografias/44762-garci-venegas">Garci-Vanegas</persName>, que era el uno de los que le habían traído y preso, murió muerte desastrada y súpita, que le saltaron los ojos de la cara, sin poder manifestar ni declarar la verdad de lo pasado; y <persName ref="https://historia-hispanica.rah.es/biografias/8883-alonso-cabrera">Alonso Cabrera</persName>, veedor, su compañero, perdió el juicio, y estando sin él mató a su mujer en <placeName key="Lora">Lora</placeName>; murieron súpita y desastradamente los frailes que fueron en los escándalos y levantamiento contra el gobernador; que paresce manifestarse la poca culpa que el gobernador ha tenido en ello; y después de le haber tenido preso y detenido en la corte ocho años, le dieron por libre y quito; y por algunas causas que le movieron, le quitaron la gobernación, porque sus contrarios decían que si volvía a la tierra, que por castigar a los culpados habría escándalos y alteraciones en la tierra; y ansí, se la quitaron, con todo lo demás, sin haberle dado recompensa de lo mucho que gastó en el servicio que hizo en la ir a socorrer y descubrir.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

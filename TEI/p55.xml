@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+<idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="pb">pb 055</div>
+      
+      <p>mentos que habían traído, porque cada cristiano traía para sí dos arrobas de harina; y que mirase que en el bastimento que quedaba no les bastaba para seis días; y que pasados éstos, la gente no tenía qué comer, y que les parescía que sería caso muy peligroso pasar adelante sin bastimentos con que se sustentar, mayormente que los indios nunca dicen cosa cierta; que podría ser que donde dice la guía que hay diez y seis jornadas, hobiese muchas más, y que cuando la gente hobiese de dar la vuelta no pudiesen, y de hambre se muriesen todos, como ha acaescido muchas veces en los descubrimientos nuevos que en todas estas partes se han hecho, y que les parescía que por la seguridad y vida de estos cristianos y indios que traía, se debía de volver con ellos al <placeName>puerto de los Reyes</placeName>, donde había salido y dejado los navíos, y que allí se podrían tornar a fornescer y proveer de más bastimentos para proseguir la entrada; y que esto era su parescer, y que si necesario fuese, se lo requerían de parte de <placeName>Su Majestad</placeName>.</p>
+      
+      <p>CAPÍTULO LXV</p>
+      <p>De cómo el gobernador y gente se volvió al puerto</p>
+      <p>Y visto el parescer de los clérigos y oficiales y capitanes, y la necesidad de la gente, y la voluntad que todos tenían de dar la vuelta, aunque el gobernador les puso delante el grande daño que de ello resultaba, y que en el puerto de los Reyes era imposible hallarse</p><p>bastimentos para sustentar tanta gente y para fornecello de nuevo, y que los maíces no estaban para los coger, ni los indios tenían qué les dar, y que se acordasen que los naturales de la tierra les decían que presto vernía la cresciente de las aguas, las cuales pondrían en mucho trabajo a nosotros y a ellos; no bastó esto y otras cosas que les dijo, para que todavía no fuese persuadido que se volviese. <placeName>Conoscida</placeName> su demasiada voluntad, lo hobo de hacer, por no dar lugar a que hobiese algún desacato por do hobiese de castigar a algunos; y ansí, los hobo de complacer, y mandó apercebir para que otro día se volviesen desde allí para el puerto de los Reyes; y otro día de mañana envió dende allí al capitán <persName>Francisco de Ribera</persName>, que se le ofresció con seis cristianos y con la guía que sabía el camino, para que él y los seis cristianos y once indios principales fuesen con él, y los aguardasen y acompañasen, y no los dejasen hasta que los volviesen donde el gobernador estaba, y les apercibió que si los dejaba que los mandaría castigar; y ansí, se partieron para <placeName>Tapua</placeName>, llevando consigo la guía que sabía el camino; y el gobernador se partió también en aquel punto para el puerto de los Reyes con toda la gente; y ansí se vino en ocho días al puerto, bien descontento por no haber pasado adelante.</p>
+      
+      <p>CAPÍTULO LXVI</p>
+      <p>De cómo querían matar a los que quedaron en el puerto de <placeName>los Reyes</placeName></p>
+      <p>Vuelto al <placeName>puerto de los Reyes</placeName>, el capitán <persName>Juan Romero</persName>, que había allí quedado por su teniente, le dijo y certificó que dende a poco que el gobernador había partido del puerto, los indios naturales de él y de la isla que está a una legua del puerto, trataban de matar todos los cristianos que allí habían quedado, y tomarles los bergantines, y que para ello hacían llamamiento de indios por toda la tierra, y estaban juntos ya los guaxarapos, que son nuestros enemigos, y con otras muchas generaciones de otros indios, y que tenían acordado de dar en ellos de noche, y que los habían venido a ver y a tentar so color de venir a rescatar, y no les traían bastimentos, como solían, y cuando venían con ellos era para espiarlos; y claramente le habían dicho que le habían de venir a matar y destruir los cristianos; y sabido esto, el gobernador mandó juntar a los indios principales de la tierra, y les mandó hablar y amonestar de parte de <placeName>Su Majestad</placeName>, que <placeName>asosegasen</placeName> y no quebrantasen la paz que ellos habían dado y asentado, pues el gobernador y todos los cristianos le habían hecho y hacían buenas obras como amigos, y no les habían hecho ningún enojo ni desplacer, y el gobernador les había dado muchas cosas, y los defendería de sus enemigos; y que si otra cosa hiciesen, los ternían por enemigos y les haría guerra; lo cual les apercibió y dijo estando presentes los clérigos y oficiales, y luego les dio bonetes colorados y otras cosas, y prometieron de nuevo de tener por amigos a los cristianos, y echar de su tierra a los indios que habían venido contra ellos, que eran los guaxarapos y otras generaciones. Dende a dos días que el gobernador hobo llegado al <placeName>puerto de los Reyes</placeName>, como se halló con</p>
+    </body>
+  </text>
+</TEI>

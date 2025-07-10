@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+<idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="pb">pb 023</div>
+      
+      <p>la misma hora fue acordado que marchasen lo más encubiertamente que pudiesen, caminando tras de los indios, y que no se hiciesen fuegos de día, porque no fuese descubierto el ejército, ni se desmandasen los indios que allí iban a cazar ni a otra cosa alguna; y acordado sobre esto, domingo de mañana partieron con buena orden, y fueron caminando por unos llanos y por entre arboledas, por ir más encubiertos; y de esta manera fueron caminando, llevando siempre delante indios que descubrían la tierra, muy ligeros y corredores, escogidos para aquel efecto, los cuales siempre venían a dar aviso; y demás de esto, iban las espías con todo cuidado en seguimiento de los enemigos, para tener aviso cuando hobiesen asentado su pueblo, y la orden que el gobernador dio para marchar el campo fue, que todos los indios que consigo llevaba iban hechos un escuadrón, que duraba bien una legua, todos con sus plumajes de papagayos muy galanes y pintados, y con sus arcos y flechas, con mucha orden y concierto; los cuales llevaban el avanguardia, y tras de ellos, en el cuerpo de la batalla, iban el gobernador con la gente de caballo, y luego la infantería de los españoles, arcabuceros y ballesteros, con el carruaje de las mujeres que llevaban la munición y bastimentos de los españoles, y los indios llevaban su carruaje en medio de ellos; y de esta forma y manera fueron caminando hasta el mediodía, que fueron a reposar debajo de unas grandes arboledas; y habiendo allí comido y reposado toda la gente y indios, tornaron a caminar por las veredas, que iban seguidas por vera de los montes y arboledas, por donde los indios, que sabían la tierra, los guiaban; y en todo el camino y campos que llevaron a su vista, había tanta caza de venados y avestruces, que era cosa de ver; pero los indios ni los españoles no salían a la caza, por no ser descubiertos ni vistos por los enemigos; y con la orden iban caminando, llevando los indios guaraníes la vanguardia, según está dicho, todos hechos un escuadrón, en buena orden, en que habría bien diez mil hombres, que era cosa muy de ver cómo iban todos pintados de almagra y otras colores, y con tantas cuentas blancas por los cuellos, y sus penachos, y con muchas planchas de cobre, que, como el <persName>Sol</persName> reverberaba en ellas, daban de sí tanto resplandor, que era maravilla de ver, los cuales iban proveídos de muchas flechas y arcos.</p>
+      
+      <p>CAPÍTULO XXIII</p>
+      <p>Cómo, yendo siguiendo los enemigos, fue avisado el gobernador cómo iban adelante</p>
+      <p>Caminando el gobernador y su gente por la orden ya dicha todo aquel día, después de puesto <persName>Sol</persName>, a hora del <placeName>Ave María</placeName>, sucedió un escándalo y alboroto entre los indios que iban en la hueste; y fue el caso que se vinieron apretar los unos con los otros y se alborotaron con la venida de un espía que vino de los indios guaycurúes, que los puso en sospecha que se querían retirar de miedo de ellos, la cual les dijo que iban adelante, y que los había visto todo el día cazar por toda la tierra, y que todavía iban adelante caminando sus mujeres y hijos, y que creían que aquella noche asentaría su pueblo, y que los indios guaraníes habían sido avisados de unas esclavas que ellos habían captivado pocos días había, de otra generación de indios que se llaman merchireses, y que ellos habían oído decir a los de su generación que los guaycurúes tenían guerra con la generación de los indios que se llaman <persName>guatataes</persName>, y que creían que iban a hacerlos daño a su pueblo, y que a esta causa iban caminando a tanta priesa por la tierra; y porque las espías iban tras de ellos caminando hasta los ver adonde hacían parada y asiento, para dar el aviso de ello; y sabido por el gobernador lo que la espía dijo, visto que aquella noche hacía buena <placeName>Luna</placeName> clara, mandó que por la misma orden todavía fuesen caminando todos adelante sobre aviso, los ballesteros con sus ballestas armadas, y los arcabuceros cargados los arcabuces y las mechas encendidas (según que en tal caso convenía); porque, aunque los indios guaraníes iban en su compañía y eran también sus amigos, tenían todo cuidado de recatarse y guardarse de ellos tanto como de los enemigos, porque suelen hacer mayores traiciones y maldades si con ellos se tiene algún descuido y confianza; y así, suelen hacer de las suyas.</p>
+      
+      <p>CAPÍTULO XXIV</p>
+      <p>De un escándalo que causó un tigre entre los españoles y los indios</p>
+      <p>Caminando el gobernador y su gente por vera de unas arboledas muy espesas, ya que quería anochecer atravesóse un tigre por medio de los in-</p>
+    </body>
+  </text>
+</TEI>

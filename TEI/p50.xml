@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+<idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="pb">pb 050</div>
+      
+      <p>mucho trabajo y sed y cansancio y hambre. Otro día siguiente, a las ocho de la mañana, llegaron a una laguna pequeña de agua, donde bebieron el agua de ella, que era muy sucia, y hincheron los calabazos que los indios llevaban, y todo el día caminaron por anegadizos, como el día antes habían hecho, salvo que habían hallado en algunas partes agua de lagunas, donde se refrescaron, y un árbol que hacía una poca de sombra, donde sestearon y comieron lo que llevaban, sin les quedar cosa ninguna para adelante; y las guías les dijeron que les quedaba una jornada para llegar a los pueblos de los indios xarayes. Y la noche venida, reposaron, hasta que venido el día, comenzaron a caminar, y dieron luego en otras ciénagas, de las cuales no pensaron salir, según el aspereza y dificultad que en ellas hallaron, que demás de abrasarles las piernas, porque metiendo el pie se hundían hasta la cinta y no lo podían tornar a sacar; pero que sería una legua poco más lo que duraron las ciénagas, y luego hallaron el camino mejor y más asentado; y el mismo día, a la una hora después de mediodía, sin haber comido cosa ninguna ni tener qué, vieron por el camino por donde ellos iban que venían hacia ellos hasta veinte indios, los cuales llegaron con mucho placer y regocijo, cargados de pan de maíz, y de patos cocidos, y pescado, y vino de maíz, y les dijeron que su principal había sabido cómo tenían a su tierra por el camino, y les había mandado que viniesen a les traer de comer y les hablar de su parte, y llevarlos donde estaba él y todos los suyos muy alegres con su venida: con lo que estos indios les trujeron se remediaron de la falta que habían tenido de mantenimiento. Este día, una hora antes que <placeName>anocheciese</placeName>, llegaron a los pueblos de los indios; y antes de llegar a ellos con un tiro de ballesta, salieron más de quinientos indios de los xarayes a los recebir con mucho placer, todos muy galanes, compuestos con muchas plumas de papagayos y avantales de cuentas blancas, con que cubrían sus vergüenzas, y los tomaron en medio y los metieron en el pueblo, a la entrada del cual estaban muy gran número de mujeres y niños esperándolos, las mujeres todas cubiertas sus vergüenzas, y muchas cubiertas con unas ropas largas de algodón que usan entre ellos, que llaman tipoes; y entrando por el pueblo, llegaron donde estaba el principal de los xarayes, acompañado de hasta trescientos indios muy bien dispuestos, los más de ellos hombres ancianos; el cual estaba asentado en una red de algodón en medio de una gran plaza, y todos los suyos estaban en pie y lo tenían en medio; y como llegaron todos, los indios hicieron una calle por donde pasasen, y llegando donde estaba el principal, le trujeron dos banquillos de palo, en que les dijo por señas que se sentasen; y habiéndose sentado, mandó venir allí un indio de la generación de los guaraníes que había mucho tiempo que estaba entre ellos y estaba casado allí con una india de la generación de los xarayes, y lo querían muy bien y lo tenían por natural. Con el cual el dicho indio principal les había dicho que fuesen bien venidos y que se holgaba mucho de verlos, porque muchos tiempos había que deseaba ver los cristianos; y que dende el tiempo que <persName>García</persName> había andado por aquellas tierras tenía noticia de ellos, y que los tenía por sus parientes y amigos; y que ansimesmo deseaba mucho ver al principal de los cristianos, porque había sabido que era bueno y muy amigo de los indios, y que les daba de sus cosas y no era escaso, y les dijesen si les enviaba por alguna cosa de su tierra, que él se lo daría; y por lengua del intérprete le dijeron y declararon cómo el gobernador los enviaba para que dijese y declarase el camino que había dende allí hasta las poblaciones de <placeName>la tierra</placeName>, y los pueblos y gente que había dende allí a ellos, y en qué tantos días se podría llegar donde estaban los indios que tenían oro y plata; y allende de</p><p>esto, para que supiese que lo quería conoscer y tener por amigo, con otras particularidades que el gobernador les mandó que les dijese; a lo cual el indio respondió que él se holgaba de tenerlos por amigos, y que él y los suyos le tenían por señor, y que los mandase; y que en lo que tocaba al camino para ir a las poblaciones de <placeName>la tierra</placeName>, que por allí no sabían ni tenían noticia que hobiese tal camino, ni ellos habían ido la tierra adentro, a causa que toda la tierra se anegaba al tiempo de las avenidas, dende a dos lunas; y pasadas todas las aguas, toda la tierra quedaba tal, que no podían andar por ella; pero que el propio indio con quien les hablaba, que era de la generación de los guaraníes, había ido a las poblaciones de la tierra adentro y sabía el camino por donde habían de ir, que por hacer placer al principal de los cristianos se lo enviaría para que fuese a enseñarle el camino, y luego en presencia de los españoles le mandó al indio <persName>guaraní</persName> se viniese con ellos, y ansí lo hizo con mucha voluntad; y visto por los cristianos que el principal había negado el camino con tan buenas cautelas</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+<idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="pb">pb 027</div>
+      
+      <p>cipal por que les había hecho guerra a los indios guaycurúes; y ansí los despidió y se partieron muy alegres y contentos.</p>
+      
+      <p>CAPÍTULO XXVIII</p>
+      <p>De cómo los indios agaces rompieron las paces</p>
+      <p>Demás de lo que <persName>Gonzalo de Mendoza</persName> dijo y avisó al gobernador, de que se hace mención en el capítulo antes que éste, le dijo que los indios de la generación de los agaces, con quien se habían hecho y asentado las paces la noche del propio día que partió de la ciudad de la <placeName>Ascensión</placeName> a hacer la guerra a los guaycurúes, habían venido con mano armada a poner fuego a la ciudad) hacerles la guerra, y que habían sido sentidos por las centinelas, que tocaron al arma; y ellos, conosciendo que eran sentidos, se fueron huyendo, y dieron en las labranzas y caserías de los cristianos, de los cuales tomaron muchas mujeres de la generación de los guaraníes, de cristianas nuevamente convertidas, y que de allí adelante habían venido cada noche a saltear y robar la tierra, y habían hecho muchos daños a los naturales por haber rompido la paz; y las mujeres que habían dado en rehenes, que eran de su generación, para que guardarían la paz, la misma noche que ellos vinieron habían huido, y les habían dado aviso cómo el pueblo quedaba con poca gente, y que era buen tiempo para matar los cristianos; y por aviso de ellas vinieron a quebrantar la paz y hacer la guerra, como lo acostumbraban; y habían robado las caserías de los españoles, donde tenían sus mantenimientos, y se los habían llevado, con más de treinta mujeres de los guaraníes. Y oído esto por el gobernador, y tomada información de ello, mandó llamar los religiosos y clérigos, y a los oficiales de <placeName>Su Majestad</placeName> y a los capitanes, a los cuales dio cuenta de lo que los agaces habían hecho en rompimiento de las paces, y les rogó, y de parte de <placeName>Su Majestad</placeName> les mandó, que diesen su parescer (como <persName>Su Majestad</persName> lo mandó, que lo tomase, y con él hiciese lo que conviniese), firmándolo todos ellos de sus nombres y mano, y siendo conformes a una cosa, hiciese lo que ellos le aconsejasen; y platicado el negocio entre todos ellos, y muy bien mirado, fueron de acuerdo y le dieron por parescer que les hiciese la guerra a fuego y a sangre, por castigarlos de los males y daños que continuo hacían en la tierra; y siendo éste su parescer, estando conformes, lo firmaron de sus nombres. Y para más justificación de sus delitos, el gobernador mandó hacer proceso contra ellos; y hecho, lo mandó juntar y acumular con otros cuatro procesos que habían hecho contra ellos; antes que el gobernador fuese los cristianos que antes en <placeName>la tierra</placeName> estaban habían muerto más de mil de ellos por los males que en <placeName>la tierra</placeName> continuamente hacían.</p>
+      
+      <p>CAPÍTULO XXIX</p>
+      <p>De cómo el gobernador soltó uno de los prisioneros guaycurúes, y envió llamar los otros</p>
+      <p>Después de haber hecho lo que dicho es contra los agaces, mandó el gobernador llamar a los indios principales guaraníes que se hallaron en la guerra de los guaycurúes, y les mandó que le trujesen todos los prisioneros que habían habido y traído de la guerra de los guaycurúes, y les mandó que no consintiesen que los guaraníes <placeName>escondiesen</placeName> ni <placeName>traspusiesen</placeName> ninguno de los dichos prisioneros, so pena que el que lo hiciese sería muy bien castigado; y así, trujeron los españoles los que habían habido, y a todos juntos les dijo que <persName>Su Majestad</persName> tenía mandado que ninguno de aquellos guaycurúes no fuese esclavo, porque no se habían hecho con ellos las diligencias que se habían de hacer, y antes era más servido que se les diese libertad; y entre los tales indios prisioneros estaba uno muy gentil hombre y de muy buena proporción, y por ello el gobernador lo mandó soltar y poner en libertad, y le mandó que fuese a llamar los otros todos de su generación; que él quería hablarles de parte de <placeName>Su Majestad</placeName> y recebirlos en su nombre por sus vasallos, y que, siéndolo, él los ampararía y defendería, y les daría siempre rescate y otras cosas; y dióle algunos rescates, con que se partió muy contento para los suyos, y ansí se fue, y dende a cuatro días volvió y <placeName>trujo</placeName> consigo a todos los de su generación, los cuales muchos de ellos estaban malheridos; y ansí como estaban vinieron todos, sin faltar ninguno.</p>
+    </body>
+  </text>
+</TEI>

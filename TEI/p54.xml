@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+<idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="pb">pb 054</div>
+      
+      <p>está en la otra casa, dos jornadas de esta suya, ha ido muchas veces por él, y lo sabe, y dirá por dónde han de ir por él; y visto que estos indios no sabían el camino para seguir el descubrimiento, los mandó el gobernador volver a su casa; a todos les dio rescates, a ellos y a sus mujeres y hijos, y con ellos se volvieron a sus casas muy contentos.</p>
+      
+      <p>CAPÍTULO LXIII</p>
+      <p>De cómo el gobernador envió a buscar la casa que estaba adelante</p>
+      <p>Otro día mandó el gobernador a una lengua que fuese con dos españoles y con dos indios (de la casa que decían que estaban adelante) para que supiesen de ellos si sabían el camino y el tiempo que se podía tardar en llegar a la primera tierra poblada, y que con mucha presteza le avisasen de todo lo que se informase, para que, sabido, se proveyese lo que más conviniese; y partidos, otro día mandó caminar la gente poco a poco por el mismo camino que llevaba la lengua y los otros. E yendo ansí caminando, al tercero día que partieron llegó al gobernador un indio que le enviaron, el cual le dio una carta de la lengua, por la cual le hacía saber cómo habían llegado a la casa de los dichos indios, y que habían hablado con el indio que sabía el camino de la tierra adentro; y decía que dende aquella su casa hasta la primera población de adelante, que estaba cabe aquel cerro que llamaban Tapuaguazu, que es una peña alta, que subido en ella se paresce mucha tierra poblada; y que dende allí hasta llegar a Tapuaguazu habrá diez y seis jornadas de despoblados, y que era el camino muy trabajoso, por estar muy cerrado el camino de arboledas y yerbas muy altas y muy grandes malezas; y que el camino por donde habían ido después que del gobernador partieron, hasta llegar a la casa de este indio, estaba ansimismo tan cerrado y dificultoso, que en lo pasar habían llevado muy gran trabajo, y a gatas habían pasado la mayor parte del camino, y que el indio decía de él que era muy peor el camino que habían de pasar que el que habían traído hasta allí, y que ellos traerían consigo el indio para que el gobernador se informase de él; y vista esta carta, partió para do el indio venía, y halló los caminos tan espesos y montuosos, de tan grandes arboledas y malezas, que lo que iban cortando no podían cortar en todo un día tanto camino como un tiro de ballesta; y porque a esta sazón vino muy grande agua, y por que la gente y municiones no se le mojasen y perdiesen, hizo retirar la gente para los ranchos que habían dejado a la mañana, en los cuales había reparos de chozas.</p>
+      
+      <p>LXIV</p>
+      <p>De cómo vino la lengua de la casilla</p>
+      <p>Otro día, a las tres horas de la tarde, vino la lengua y trujo consigo el indio que dijo que sabía el camino, al cual <persName>recebió</persName> y habló muy alegremente, y le dio de sus rescates, con que él se contentó; y el gobernador mandó a la lengua que de su parte le dijese y rogase que con toda verdad le descubriese el camino de la tierra poblada. <placeName>El</placeName> dijo que había muchos días que no había ido por él, pero que él lo sabía y lo había andado muchas veces yendo a Tapuaguazu, y que de allí se parescen los humos de toda la población de la tierra; y que iba él a <persName>Tapua</persName> por flechas, que las hay en aquella parte, y que ha dejado muchos días de ir por ellas, porque yendo a <placeName>Tapua</placeName>, vio antes de llegar humos que se hacían por los indios, por lo cual conosció que se comenzaban a venir a poblar aquella tierra los que solían vivir en ella, que la dejaron despoblada en tiempo de las guerras, y por que no lo matasen no había osado ir por el camino, el cual está ya tan cerrado, que con muy gran trabajo se puede ir por él, y que le paresce que en diez y seis días iban hasta <placeName>Tapua</placeName> yendo cortando los árboles y abriendo camino. Fue preguntando si quería ir con los cristianos a les enseñar el camino, y dijo que sí iría de buena voluntad, aunque tenía gran miedo a los indios de la tierra; y vista la relación que dio el indio, y la dificultad y el inconveniente que decía del camino, mandó el gobernador juntar los oficiales de <placeName>Su Majestad</placeName> y a los clérigos y capitanes, para tomar parescer con ellos de lo que se debía hacer sobre el descubrimiento, platicado con ellos lo que el indio decía; dijeron que ellos habían visto que a la mayor parte de los españoles les faltaba el bastimento, y que tres días había que no tenían qué comer, y que no lo osaban pedir por la desorden que en lo gastar había habido y tenido, y viendo que la primera guía que habíamos traído que había certificado que al quinto día hallarían de comer y tierra muy poblada y muchos bastimentos; y debajo de esta seguridad, y creyendo ser ansí verdad, habían puesto los cristianos y indios poco recaudo y menos guarda en los basti-</p>
+    </body>
+  </text>
+</TEI>

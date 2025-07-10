@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno><idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <pb n="17" facs="17.jpg"/>
+      <div type="capitulo" n="13">      
+      <p>como a tal capitán general de la provincia en nombre de <placeName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/20">Su Majestad</placeName>, y le fueron dadas y entregadas las varas de la justicia; las cuales el <persName ana="Álvar Núñez Cabeza de Vaca">gobernador</persName> dio y proveyó de nuevo en personas que en nombre de Su Majestad administrasen la ejecución de la justicia civil y criminal en la dicha provincia.</p>
+      </div>
+      <div type="capitulo" n="14">
+      <head>CAPÍTULO XIV</head>
+      <head type="titulocapitulo">De cómo llegaron a la ciudad de la Ascensión los españoles que quedaron malos en el río del Piquen</head>
+      <p>Estando el gobernador en la ciudad de la <placeName key="Asunción">Ascensión</placeName>, de la manera que he dicho, a cabo de treinta días que hobo llegado a la ciudad, vinieron al puerto los cristianos que había enviado en las balsas, así enfernos como sanos, dende el <placeName ref="https://es.wikipedia.org/wiki/R%C3%ADo_Paran%C3%A1">río del Paraná</placeName>, que allí adolescieron, y venían fatigados del camino; de los cuales no faltó sino sólo uno, que lo mató un tigre, y de ellos supo el gobernador y fue certificado que los indios naturales del río habían hecho gran junta y llamamiento por toda la tierra, y por el río en canoas y por la ribera del río habían salido a ellos, yendo por el río abajo en sus balsas muy gran número y cantidad de los indios, y con grande grita y toque de atambores los habían acometido, tirándoles muchas flechas y muy espesas juntándose a ellos con más de doscientas canoas por los entrar y tomar las balsas para los matar, y que catorce días con sus noches no habían cesado poco ni mucho de los dar el combate; y que los de tierra no dejaban de les tirar juntamente, según que los de las canoas, y que traían unos garfios grandes, para en juntándose las balsas a tierra echarles mano y sacarlas a tierra; y detenerlos para los tomar a manos; y con esto, era tan grande la vocería y alaridos que daban los indios, que parescía que se juntaba el cielo con la Tierra, y cómo los de las canoas y los de la tierra se remudaban, y unos descansaban y otros peleaban, con tanta orden, que no dejaban de les dar siempre mucho trabajo; donde hobo de los españoles hasta veinte heridos de heridas pequeñas, no peligrosas; y en todo este tiempo las balsas no dejaban de caminar por el río abajo, así de día como de noche, porque la corriente del río, como era grande, los llevaba, sin que la gente trabajase más de en gobernar, para que no se llegasen a la tierra, donde estaba todo el peligro, aunque algunos remolinos que el río hace les puso en gran peligro muchas veces, porque traía las balsas a la redonda remolinando; y si no fuera por la buena maña que se dieron los que gobernaban, los remolinos los hicieran ir a tierra, donde fueran tomados y muertos. E yendo en esta forma, sin que tuviesen remedio de ser socorridos ni amparados, los siguieron catorce días los indios con sus canoas, flechándolos y peleando de día y de noche con ellos; se llegaron cerca de los lugares del dicho indio <persName ana="Uno de los originarios que había sido cristianizado, se menciona que fue criado de Gonzalo de Acosta.">Francisco</persName>, que fue esclavo y criado de cristianos, el cual, con cierta gente suya, salió por el río arriba a recebir y socorrer los cristianos, y los trajo a una isla cerca de su propio pueblo, donde los proveyó y socorrió de bastimentos, porque del trabajo de la guerra continua que les habían dado, venían fatigados y con mucha hambre, y allí se curaron y reformaron los heridos, y los enemigos se retiraron y no osaron tornarles acometer; y en este tiempo llegaron dos bergantines que en su socorro habían enviado, en los cuales fueron recogidos a la dicha ciudad de la Ascensión.</p></div>
+      <div type="capitulo" n="15">
+      <head>CAPÍTULO XV</head>
+      <head type="titulocapitulo">De cómo el gobernador envió a socorrer la gente que venía en su nao capitana a Buenos Aires, y a que tornasen a poblar aquel puerto</head>
+      <p>Con toda diligencia el gobernador mandó aderezar dos bergantines, y cargados de bastimentos y cosas necesarias, con cierta gente de la que halló en la ciudad de la Ascensión, que habían sido pobladores del <placeName key="Buenos Aires">puerto de Buenos Aires</placeName>, porque tenían experiencia del río del Paraná, los envió a socorrer los ciento y cuarenta españoles que envió en la nao capitana dende la <placeName key="Santa Catalina">isla de Santa Catalina</placeName>, por el gran peligro en que estarían por se haber despoblado el puerto de Buenos Aires, y para que se tornase luego a poblar nuevamente el pueblo en la parte más suficiente y aparejada que les paresciese a las personas a quien lo acometió y encargó, porque era cosa muy conveniente y necesaria hacerse la población y puerto, sin el cual toda la gente española que residía en la provincia y conquista, y la que adelante viniese, estaba en gran peligro y se perderían, porque las naos que a la provincia fuesen de rota batida, han de ir a tomar puerto en el dicho río, y allí hacer bergantines para subir trescientas y cincuenta le</p></div>
+      </body>
+  </text>
+</TEI>

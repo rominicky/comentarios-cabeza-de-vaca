@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model
+  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng"
+  schematypens="http://relaxng.org/ns/structure/1.0"
+  type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    
+    <teiHeader> 
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>             
+                <author>Álvar Núñez Cabeza de Vaca</author>
+                <editor resp="digital">Romina De León</editor>
+                <sponsor>LLILAS Benson</sponsor>
+             </titleStmt>
+            <publicationStmt>
+                <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+                <availability>
+                    <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <bibl>
+                <title>Historiadores Primitivos de las Indias Occidentales</title>
+                <biblScope unit="volume">Tomo I</biblScope>
+                <author>Andrés González Barcía Carballido y Zúñiga</author>
+                <editor>Joaquín Ibarra y Juan de Zúñiga</editor> 
+                <date>1749</date>
+                <pubPlace>Madrid, España</pubPlace>
+                <objectIdentifier>   
+                    <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+                    <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+                    <idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+                </objectIdentifier>
+                </bibl>
+            </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+<text>
+    <body><pb n="05" facs="05.jpg"/><div type="capitulo" n="1"><head>CAPÍTULO I</head>
+    <head type="titulocapitulo">De los comentarios de Alvar Núñez Cabeza de Vaca</head>
+    <p>Después que Dios nuestro Señor fue servido de sacar a <persName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/126">Alvar Núñez Cabeza de Vaca</persName> del captiverio y trabajos que tuvo diez años en <placeName ref="https://en.wikipedia.org/wiki/Spanish_Florida">la Florida</placeName> y vino a <note ana="Refiere a su recorrido por América del Sur por el Río de la Plata y Paraguay.">estos reinos</note> en el año del Señor de 1537, donde estuvo hasta el año de <note ana="En realidad su viaje en América del Sur en 1545.">40</note>, en el cual vinieron a esta corte de <persName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/20">Su Majestad</persName> personas del <placeName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/358">Río de la Plata</placeName>, a dar cuenta a Su Majestad del suceso de la Armada, que allí había enviado <persName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/24">don Pedro de Mendoza</persName>, y de los trabajos en que estaban los que de ellos escaparon, y a le suplicar fuese servido de los proveer, y socorrer, antes que <note ana="Refiere al despoblamiento del fuerte de Buenos Aires en 1541">todos peresciesen</note> (porque ya quedaban pocos de ellos). Y sabido por Su Majestad, mandó que se tomase cierto asiento y capitulación con Alvar Núñez Cabeza de Vaca, para que fuese a socorrellos; el cual asiento, y capitulación se efectuó, mediante que el dicho Cabeza de Vaca se ofresció de los ir a socorrer, y que gastaría en la jornada, y socorro que así había de hacer en caballos, armas, ropas, y bastimentos, y otras cosas, ocho mil Ducados, y por la capitulación, y asiento, que con Su Majestad tomó, le hizo merced de la Gobernación, y de la Capitanía General de aquella Tierra, y Provincia, con Título de <note ana="https://es.wikipedia.org/wiki/Adelantado">Adelantado</note> de ella; y asimesmo le hizo Merced del dozavo de todo lo que en la Tierra, y Provincia se hobiese, y lo que en ella entrase, y saliese, con tanto, que el dicho Alvar Núñez gastase en la jornada los dichos ocho mil Ducados; y así, él en cumplimiento del Asiento, que con Su Majestad hizo, se partió luego a <placeName key="Sevilla">Sevilla</placeName>, para poner en obra lo capitulado, y proveerse para el dicho socorro, y armada, y para ello mercó dos naos, y una carabela, para con otra que le esperaba en <placeName key="Canarias">Canaria</placeName>; la una nao de éstas era nueva del primer viaje, y era de trescientos y cincuenta toneles, y la otra era de ciento y cincuenta; los cuales navíos aderezó muy bien, y proveyó de muchos bastimentos, y pilotos, y marineros, y hizo cuatrocientos soldados bien aderezados, cual convenía para el socorro; y todos los que se ofrecieron a ir en la jornada, llevaron las armas dobladas: estuvo en mercar, y proveer los navíos desde el mes de mayo, hasta en fin de septiembre, y estuvieron prestos para poder navegar, y con tiempos contrarios estuvo detenido en la <placeName key="Cádiz">Ciudad de Cádiz</placeName>, desde en fin de septiembre, hasta dos de noviembre, que se embarcó, y hizo</p>
+</div></body>
+
+</text>
+</TEI>

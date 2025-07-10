@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno><idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <pb n="65" facs="65.jpg" />
+      <div type="capitulo" n="76">      
+      <p>demás de los alborotos y escándalos que había entre la gente, había muchas pasiones y pendencias por <note ana="Iralistas y alvaristas.">los bandos</note> que entre ellos había, unos diciendo que <hi rend="italic">los oficiales y sus amigos habían sido traidores y hecho gran maldad en lo prender, y que habían dado ocasión que se perdiese toda la tierra, como ha parescido y cada día paresce</hi>, y los <hi rend="italic">otros defendían al contrario</hi>; y sobre esto se mataron y hirieron y mancaron muchos españoles unos a otros; y los oficiales y sus amigos decían que los que le favorescían y deseaban su libertad eran traidores, y los habían de castigar por tales, y defendían que no hablase ninguno de los que tenían por sospechosos unos con otros; y en viendo hablar dos hombres juntos, hacían información y los prendían, hasta saber lo que hablaban; y si se juntaban tres o cuatro, luego tocaban al arma, y se ponían a punto de pelear, y tenían puestas encima del aposento donde estaba preso el gobernador centinelas en dos garitas que descubrían todo el pueblo y el campo; y allende de esto traían hombres que anduviesen espiando y mirando lo que se hacía y decía por el pueblo, y de noche andaban treinta hombres armados, y todos los que topaban en las calles los prendían y procuraban de saber dónde iban y de qué manera; y como los alborotos y escándalos eran tantos cada día, y los oficiales y sus valedores andaban por ello tan cansados y desvelados, entraron a rogar al gobernador que diese un mandamiento para la gente en que les mandase que no se moviesen y estuviesen sosegados, y que para ello, si necesario fuese, se les pusiese pena; y los mismos oficiales le metieron hecho y ordenado, para que si quisiese hacer por ellos aquello lo firmase; lo cual, después de firmado, no lo quisieron notificar a la gente, porque fueron aconsejados que no lo hiciesen, pues que pretendían y decían que todos habían dado parescer y sido en que le prendiesen, y por esto dejaron de notificallo.</p></div>
+      <div type="capitulo" n="77"> 
+      <head>CAPÍTULO LXXVII</head>
+      <head type="titulocapitulo">De cómo tenían preso al gobernador en una prisión muy áspera</head>
+      <p>En el tiempo que estas cosas pasaban, el <persName ana="Álvar Núñez Cabeza de Vaca">gobernador</persName> estaba malo en la cama, y muy flaco, y para la cura de su salud tenía unos muy buenos grillos a los pies, y a la cabecera una vela encendida, porque la prisión estaba tan escura que no se parescía el cielo, y era tan húmeda, que nascía la yerba debajo de la cama; tenía la vela consigo, porque cada hora pensaba tenella menester, y para su fin buscaron entre toda la gente el hombre de todos que más mal le quisiese, y hallaron uno que se llamaba <persName ref="https://historia-hispanica.rah.es/biografias/42067-hernando-de-sosa">Hernando de Sosa</persName>, al cual el gobernador había castigado porque había dado un bofetón y palos a un indio principal, y éste le pusieron por guarda en la misma cámara para que le guardase, y tenían dos puertas con candados cerradas sobre él; y los oficiales y todos sus aliados y confederados le guardaban de día y de noche, armados con todas sus armas, que eran más de ciento y cincuenta, a los cuales pagaban con la hacienda del gobernador, y con toda esta guarda, cada noche o tercera noche le metía <persName ana="Nativa que, los partidarios de Cabeza de Vaca, utilizaban para comunicarse con su gobernador cautivo.">la india</persName> que le llevaba de cenar una <hi rend="italic">carta que le escrebían los de fuera</hi>, y por ella le daban relación de todo lo que allá pasaba, y enviaban a decir que enviase a avisar qué era lo que mandaba que ellos hiciesen; porque las tres partes de la gente estaban determinados de morir todos, con los indios que los ayudaban para sacarle, y que lo habían dejado de hacer por el temor que les ponían diciendo que si acometían a sacarle, que luego le habían de dar de puñaladas y cortarle la cabeza; y que, por otra parte, más de setenta hombres de los que estaban en guarda de la prisión se habían confederado con ellos de se levantar con la puerta principal, adonde el gobernador estaba preso, y le detener y defender hasta que ellos entrasen, lo cual el gobernador les estorbó que no hiciesen, porque no podía ser tan ligeramente sin que se matasen muchos cristianos, y que comenzada la cosa, los indios acabarían todos los que pudiesen, y ansí se acabaría de perder toda la tierra y vida de todos.</p>
+      <p>Con esto les entretuvo que no lo hiciesen, y porque dije que <persName ana="Aliada de los partidarios de Cabeza de Vaca, que llevaba novedades al gobernador.">la india</persName> que le traía un carta cada tercer noche, y llevaba otra, pasando por todas las guardas, desnudándola en cueros, catándole la boca y los oídos, y trasquilándola porque no la llevase entre los cabellos, y catándola todo lo posible, que por ser cosa vergonzosa no lo señalo, pasaba la india por todos en cueros, y llegada donde estaba, daba lo que traía a la guarda, y ella se sentaba par de la cama del gobernador, como la pieza era chica; y sentada, se comenzaba a rascar el pie, y ansí, rascándose quitaba la carta y se la daba por detrás del otro. Traía ella esta carta, que era medio pliego de papel delgado, muy arrollada sotilmente, y cubierta con un poco de cera negra, metida en lo hueco de los dedos del pie hasta el pulgar, y venía atada</p></div>
+    </body>
+  </text>
+</TEI>

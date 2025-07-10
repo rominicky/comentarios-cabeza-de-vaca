@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+<idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="pb">pb 019</div>
+      
+      <p>y es cosa muy de maravillar el gran testor que tienen en la cabeza, porque la espada de palo con que les dan es de un palo muy recio y pesado, negro, y con ambas manos un hombre de fuerza basta a derribar un toro de un golpe, y al tal captivo no lo derriban sino de muchos, y en fin al cabo, lo derriban, y luego los niños llegan con sus hachetas, y primero el mayor de ellos o el hijo del principal, y danle con ellas en la cabeza tantos golpes, hasta que le hacen saltar la sangre, y estándoles dando, los indios les dicen a voces que sean valientes y se enseñen, y tengan ánimo para matar sus enemigos y para andar en las guerras, y que se acuerden que aquél ha muerto de los suyos, que se venguen de él; y luego como es muerto, el que le da el primer golpe toma el nombre del muerto y de allí adelante se nombra del nombre del que así mataron, en señal que es valiente, y luego las viejas lo despedazan y cuecen en sus ollas y reparten entre sí, y lo comen, y tiénenlo por cosa muy buena comer dél, y de allí adelante tornan a sus bailes y placeres, los cuales duran por otros muchos días, diciendo que ya es muerto por sus manos su enemigo, que mató a sus parientes, que agora descansarán y tomarán por ello placer.</p>
+      
+      <p>CAPÍTULO XVII</p>
+      <p>De la paz que el gobernador asentó con los indios agaces</p>
+      <p>En la ribera de este río del <placeName>Paraguay</placeName> está una nasción de indios que se llaman agaces; es una gente muy temida de todas las nasciones de aquella tierra; allende de ser valientes hombres y muy usados en la guerra, son muy grandes traidores, que debajo de palabra de paz han hecho grandes estragos y muertes en otras gentes y aun en propios parientes suyos por hacerse señores de toda la tierra; de manera que no se confían de ellos. Esta es una gente muy crescida, de grandes cuerpos y miembros como gigantes; andan hechos corsarios por el río en canoas; saltan en tierra a hacer robos y presas en los guaraníes, que tienen por principales enemigos; mantiénense de caza y pesquería del río y de la tierra, y no siembran, y tienen por costumbre de tomar captivos de los guaraníes, y tráenlos maniatados dentro de sus canoas, y lléganse a la propia tierra donde son naturales y salen sus parientes para rescatarlos, y delante de sus padres y hijos, mujeres y deudos, les dan crueles azotes y les dicen que les trayan de comer, si no que los matarán. Luego les traen muchos mantenimientos, hasta que les cargan las canoas; y se vuelven a sus casas, y llévanse los prisioneros, y esto hacen muchas veces, y son pocos los que rescatan; porque después que están hartos de traerlos en sus canoas y de azotarlos, los cortan las cabezas y las ponen por la ribera del río hincadas en unos palos altos. A estos indios, antes que fuese a la dicha provincia el gobernador, les hicieron guerra los españoles que en ella residían, y habían muerto a muchos de ellos, y asentaron paz con los dichos indios, la cual quebrantaron, como lo acostumbran, haciendo daños a los guaraníes muchas veces, llevando muchas provisiones; y cuando el gobernador llegó a la ciudad de la <placeName>Ascensión</placeName> había pocos días que los agaces habían rompido las paces y habían salteado y robado ciertos pueblos de los guaraníes, y cada día venían a desasosegar y dar rebato a la ciudad de la <placeName>Ascensión</placeName>; y como los indios agaces supieron de la venida del gobernador, los hombres más principales de ellos, que se llaman <placeName>Abacoten</placeName> y <placeName>Tabor</placeName> y <placeName>Alabos</placeName>, acompañados de otros muchos de su generación, vinieron en sus canoas y desembarcaron en el puerto de la ciudad, y salidos en tierra, se vinieron a poner en presencia del gobernador, y dijeron que ellos venían a dar la obediencia a <persName>Su Majestad</persName> y a ser amigos de los españoles, y que si hasta allí no habían guardado la paz, había sido por atrevimiento de algunos mancebos locos que sin su licencia salían y daban causa a que se creyese que ellos quebraban y rompían la paz, y que los tales habían sido castigados; y rogaron al gobernador los recebiese y hiciese paz con ellos y con los españoles, y que ellos la guardarían y conservarían, estando presentes los religiosos y clérigos y oficiales de <placeName>Su Majestad</placeName>. Hecho su mensaje, el gobernador los recebió con todo buen amor y les dio por respuesta que era contento de los rescebir por vasallos de <placeName>Su Majestad</placeName> y por amigos de los cristianos, con tanto que guardasen las condiciones de la paz y no la rompiesen como otras veces lo habían hecho, con apercebimiento que los tendrían por enemigos capitales y les harían la guerra; y de esta manera se asentó la paz y quedaron por amigos de los españoles y de los naturales guaraníes, y de allí adelante los mandó favorescer y socorrer de mantenimientos; y las condiciones y posturas de la paz, para que fuese guardada y conservada, fue que los dichos indios aga-</p>
+    </body>
+  </text>
+</TEI>

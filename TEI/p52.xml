@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+<idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="pb">pb 052</div>
+      
+      <p>todos, que no escaparon (a lo que señaló) docientos indios de tantos como eran, que cubrían los campos, y que entre los que escaparon se salvó este indio, y que la mayor parte se quedaron en aquellas montañas por donde habían pasado, para vivir en ellas, porque no habían osado pasar por temor que los matarían los guaxarapos y guatos y otras generaciones que estaban por donde habían de pasar; y que este indio no quiso quedar con éstos, y se fue con los que quisieron pasar adelante, a su tierra, y que en el camino habían sido sentidos de las generaciones, y una noche habían dado en ello y los habían muerto a todos y que este indio se había escapado por lo espeso de los montes, y caminando por ellos había venido a tierra de los xarayes, los cuales lo habían tenido en su poder y lo habían criado mucho tiempo, hasta que, teniéndole mucho amor, y él a ellos, le habían casado con una mujer de su generación. Fue preguntado que si sabía bien el camino por donde él y los de su generación fueron a las poblaciones de la tierra adentro. Dijo que había mucho tiempo que anduvo por el camino, y cuando los de su generación pasaron, que iban abriendo camino y cortando árboles y desmontando la tierra, que estaba muy fragosa y que ya aquellos caminos le paresce que serán tornados a cerrar del monte y yerba, porque nunca más los tornó a ver, ni andar por ellos; pero que le paresce que comenzando a ir por el camino lo sabrá seguir y ir por él, y que dende una montaña alta, redonda, que está a la vista de este puerto de <placeName>los Reyes</placeName>, se toma el camino. Fue preguntado en cuántos días de camino podrán llegar a la primera población. Dijo que, a lo que se acuerda, en cinco días se llegará a la primera tierra poblada, donde tienen mantenimientos muchos; que son</p><p>, aunque cuando los de su generación fueron a la guerra los destruyeron y despoblaron muchos pueblos; pero que ya estaban tomados a poblar. <placeName>grandes labradores</placeName><persName>Y fuéle</persName> preguntado si en el camino hay ríos caudalosos o fuentes. Dijo que vio ríos, pero que no son muy caudalosos, y que hay otros muy caudalosos, y fuentes, lagunas y cazas de venados y antas, mucha miel y fruta. Fue preguntado si al tiempo que los de su generación hicieron guerra a los naturales de la tierra, si vio que tenían oro o plata. Dijo que en los pueblos que saquearon había habido muchas planchas de plata y oro, y barbotes, y orejeras, y brazaletes, y coronas, y hachuelas, y vasijas pequeñas, y que todo se lo tornaron a tomar cuando los desbarataron, y que los que se escaparon trujeron algunas planchas de plata, y cuentas y barbotes, y se lo robaron los guaxarapos cuando pasaron por su tierra, y los mataron, y los que quedaron en las montañas tenían, y les quedó asimismo alguna cantidad de ello, y que ha oído decir que lo tienen los xarayes, y cuando los xarayes van a la guerra contra los indios, les ha visto sacar planchas de plata de las que trujeron y les quedó de la tierra adentro. Fue preguntado si tiene voluntad de irse en su compañía y de los cristianos a enseñar el camino. Dijo que sí, que de buena voluntad lo quiere hacer, y que para lo hacer lo envió su principal. El gobernador le apercibió y dijo que mirase que dijese la verdad de lo que sabía del camino, y no dijese otra cosa, porque de ello le podría venir mucho daño; y diciendo la verdad, mucho bien y provecho; el cual dijo que él había dicho la verdad de lo que sabía del camino, y que para lo enseñar y descubrir a los cristianos quería irse con ellos.</p>
+      
+      <p>CAPÍTULO LXI</p>
+      <p>Cómo se determinó de hacer la entrada el gobernador</p>
+      <p>Habida esta relación, con el parescer de los oficiales de <placeName>Su Majestad</placeName> y de los clérigos y capitanes, determinó el gobernador de ir a hacer la entrada y descubrir las poblaciones de <placeName>la tierra</placeName>, y para ello señaló trescientos hombres arcabuceros y ballesteros, y para la tierra que se había de pasar despoblada hasta llegar al poblado, mandó que se proveyesen de bastimentos para veinte días, y en el puerto mandó quedar cien hombres cristianos de guarda de los bergantines con hasta docientos indios guaraníes, y por capitán de ellos un <persName>Juan Romero</persName>, por ser plático en la tierra; y partió del puerto de los Reyes a 26 días del mes de noviembre del año de 43 años, y aquel día todo, hasta las cuatro de la tarde, fuimos caminando por entre unas arboledas, tierra fresca y bien asombrada, por un camino poco seguido, por donde la guía nos llevó, y aquella noche reposamos junto a unos manantiales de agua, hasta que otro día, una hora antes que amaneciese, comenzamos a caminar, llevando delante con la guía hasta veinte hombres que iban abriendo el camino, porque cuanto más íbamos por él lo</p>
+    </body>
+  </text>
+</TEI>

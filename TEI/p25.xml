@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+<idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="pb">pb 025</div>
+      
+      <p>, pensando que eran los enemigos. Mas, aunque esto llevaban para remedio de su seguridad y peligro, entrando de noche en las casas, no bastaban para la fuga de las espadas, porque también se hieren y matan los amigos como los enemigos; y ansí caminaron hasta que el alba comenzó a romper, al tiempo que estaban cerca de las casas y pueblos de los enemigos esperando que aclarase el día para darles la batalla. Y porque no fuesen entendidos ni sentidos de ellos, mandó que hinchesen a los caballos las bocas de yerba sobre los frenos, porque no pudiesen relinchar; y mandó a los indios que tuviesen cercado el pueblo de los enemigos, y les dejasen una salida por donde pudiesen huir al monte, por no hacer mucha carnecería en ellos. Y estando así esperando, los indios guaraníes que consigo traía el gobernador se morían de miedo de ellos, y nunca pudo acabar con ellos que acometiesen a los enemigos. Y estándoles el gobernador rogando y persuadiendo a ello, oyeron los alambores que tañían los indios guaycurúes; los cuales estaban cantando y llamando todas las nasciones, diciendo que viniesen a ellos, porque ellos eran pocos y más valientes que todas las otras nasciones de la tierra, y eran señores de ella y de los venados y de todos los otros animales de los campos, y eran señores de los ríos, y de los pesces que andaban en ellos; porque lo tal tienen de costumbre aquella nasción, que todas las noches del mundo se velan de esta manera; y al tiempo que ya se venía el día, salieron un poco adelante, y echáronse en el suelo; y estando así, vieron el bulto de la gente y las mechas de los arcabuces; y como los enemigos reconoscieron tanto bulto de gentes y muchas lumbres de las mechas, hablaron alto, diciendo: «¿Quién sois vosotros, que osáis venir a nuestras casas?» Y respondióles un cristiano que sabía su lengua, y díjoles: «Yo soy Héctor (que así se llamaba la lengua que lo dijo), y vengo con los míos a hacer el trueque (que en su lengua quiere decir venganza) de la muerte de los batatos que vosotros matastes.» Entonces respondieron los enemigos: «Vengáis mucho en mal hora; que también habrá para vosotros como hobo para ellos.» Y acabado de decir esto, arrojaron a los españoles los tizones de fuego que traían en las manos, y volvieron corriendo a sus casas, y tomaron sus arcos y flechas, y volvieron contra el gobernador y su gente con tanto ímpetu y braveza, que parescía que no los tenían en nada: los indios que llevaba consigo el gobernador se retiraran y huyeran si osaran. Y visto esto por el gobernador, encomendó el artillería de campo que llevaba a D. <persName>sen</persName><persName>Diego de Barba</persName>, y al capitán <persName>Salazar</persName> la infantería de todos los españoles y indios, hechos dos escuadrones, y mandó echar los pretales de los cascabeles a los caballos, y puesta la gente en orden, arremetieron contra los enemigos con el apellido y nombre de <persName>Señor Santiago</persName>, el gobernador delante en su caballo, tropellando cuantos hallaba delante; y como vieron los indios enemigos los caballos, que nunca los habían visto, fue tanto el espanto que tomaron de ellos, que huyeron para los montes cuanto pudieron, hasta meterse en ellos, y al pasar por su pueblo pusieron fuego a una casa; y como son de esteras, de juncos y de enea, comenzó a arder, y a esta causa se emprendió el fuego por todas las otras, que serían hasta veinte casas levadizas, y cada casa era de quinientos pasos. <persName>Habría</persName> en esta gente hasta cuatro mil hombres de guerra, los cuales se retiraron detrás del humo que los fuegos de las casas hacían; y estando así cubiertos con el humo mataron dos cristianos y descabezaron doce indios, de los que consigo llevaban, de esta manera, tomándolos por los cabellos, y con unos tres o cuatro dientes que traen en un palillo, que son de un pescado que se dice palometa. Este pescado corta los anzuelos con ellos, y teniendo a los</p><p>prisioneros por los cabellos, con tres o cuatro refregones que les dan, corriendo la mano por el pescuezo y torciéndola un poco, se lo cortan, y quitan la cabeza, y se la llevan en la mano, asida por los cabellos; y aunque van corriendo, muchas veces lo suelen hacer así tan fácilmente como si fuese otra cosa más ligera.</p>
+      
+      <p>CAPÍTULO XXVI</p>
+      <p>Cómo el gobernador rompió los enemigos</p>
+      <p>Rompidos y desbaratados los indios, y yendo en su seguimiento el gobernador y su gente, uno de a caballo que iba con el gobernador, que se halló muy junto a un indio de los enemigos, el cual indio se abrazó al pescuezo de la yegua en que iba él caballero, y con tres flechas que llevaba en la mano dio por el pescuezo a la yegua, que se lo pasó por tres partes, y no lo pudieron quitar hasta que allí lo mataron; y si no se hallara presente el gobernador la victoria por nuestra parte estuviera dudosa. Esta gente de estos indios son muy grandes y muy ligeros,</p>
+    </body>
+  </text>
+</TEI>

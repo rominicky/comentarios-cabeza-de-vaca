@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+<idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="pb">pb 015</div>
+      
+      <p>otra parte del río; y como hubieron pasado, mandó el gobernador que de las canoas se hiciesen balsas juntándolas de dos en dos; las cuales hechas, en espacio de dos horas fue pasada toda la gente y caballos de la otra parte del río; en concordia de los naturales, ayudándoles ellos propios a los pasar. <placeName>Este río del Paraná</placeName>, por la parte que lo pasaron, era de ancho un gran tiro de ballesta, es muy hondable y lleva muy gran corriente, y al pasar del río se trastornó una canoa con ciertos cristianos, uno de los cuales se ahogó porque la corriente lo llevó, que nunca más paresció. <placeName>Hace</placeName> este río muy grandes remolinos, con la gran fuerza del agua y gran hondura de él.</p>
+      
+      <p>CAPÍTULO XII</p>
+      <p>Que trata de las balsas que se hicieron para llevar los dolientes</p>
+      <p>Habiendo pasado el gobernador y su gente el <placeName>río del Paraná</placeName>, estuvo muy confuso de que no fuesen llegados dos bergantines que había enviado a pedir a los capitanes que estaban en la ciudad de la <placeName>Ascensión</placeName>, avisándoles por su carta que les escribió dende el <placeName>río del Paraná</placeName>, para asegurar el paso por temor de los indios de él, como para recoger algunos enfermos y fatigados del largo camino que habían caminado; y porque tenían nueva de su venida y no haber llegado, púsole en mayor confusión, y porque los enfermos eran muchos y no podían caminar, ni era cosa segura detenerse allí donde tantos enemigos estaban, y estar entre ellos sería dar atrevimiento para hacer alguna traición, como es su costumbre; por lo cual acordó de enviar los enfermos por el <placeName>río del Paraná</placeName> abajo en las mismas balsas, encomendados a un indio principal del río, que había por nombre <persName>Iguaron</persName>, al cual dio rescates porque él se ofresció a ir con ellos hasta el lugar de <persName>Francisco</persName>, criado de <persName>Gonzalo de Acosta</persName>, en confianza de que en el camino encontrarían los bergantines, donde serían recebidos y recogidos, y entretanto serían favorescidos por el indio llamado <persName>Francisco</persName> que fue criado entre cristianos, que vive en la misma ribera del <placeName>río del Paraná</placeName>, a cuatro jornadas de donde lo pasaron, según fue informado por los naturales; y así, los mandó embarcar, que serían hasta treinta hombres, y con ellos envió otros cincuenta hombres arcabuceros y ballesteros para que les guardasen y defendiesen; y luego que los hobo enviado se partió el gobernador con la otra gente por tierra para la ciudad de la <placeName>Ascensión</placeName>, hasta la cual, según le certificaron los indios del <placeName>río del Paraná</placeName>, habría hasta nueve jornadas; y en el <placeName>río del Paraná</placeName> se tomó la posesión en nombre y por <placeName>Su Majestad</placeName>, y los pilotos tomaron el altura en veinte y cuatro grados.</p>
+      <p>El gobernador con su gente fueron caminando por la tierra y provincia, por entre lugares de indios de la generación de los guaraníes, donde por todos ellos fue muy bien recebido, saliendo, como solían, a los caminos, cargados de bastimentos, y en el camino pasaron unas ciénagas muy grandes y otros malos pasos y ríos, donde en el hacer de los puentes para pasar la gente y caballos se pasaron grandes trabajos; y todos los indios de estos pueblos, pasado el <placeName>río del Paraná</placeName>, les acompañaban de unos pueblos a otros, y les mostraban y tenían muy grande amor y voluntad, sirviéndoles y haciéndoles socorro en guiarles y darles de comer, todo lo cual pagaba y satisfacía muy bien el gobernador, con que quedaban muy contentos. Y caminando por la tierra y provincia, aportó a ellos un cristiano español que venía de la ciudad de la <placeName>Ascensión</placeName> a saber de la venida del gobernador, y llevar el aviso de ello a los cristianos y gente que en la ciudad estaban; porque, según la necesidad y deseo que tenían de verlo a él y su gente por ser socorridos, no podían creer que fuesen a hacerles tan gran beneficio hasta que lo viesen por vista de ojos, no embargante que habían recebido las cartas que el gobernador les había escripto. Este cristiano dijo y informó al gobernador del estado y gran peligro en que estaba la gente, y las muertes que habían suscedido, así en los que llevó <persName>Juan de Ayolas</persName> como otros muchos que los indios de la tierra habían muerto; por lo cual estaban muy atribulados y</p><p>perdidos, mayormente por haber despoblado el <placeName>puerto de</placeName> Buenos Aires, que está asentado en el <placeName>río del Paraná</placeName>, donde habían de ser socorridos los navíos y gentes que de estos reinos de <placeName>España</placeName> fuesen a los socorrer; y por esta causa tenían perdida la esperanza de ser socorridos, pues el puerto se había despoblado, y por otros muchos daños que le habían sucedido en <placeName>la tierra</placeName>.</p>
+      
+    </body>
+  </text>
+</TEI>

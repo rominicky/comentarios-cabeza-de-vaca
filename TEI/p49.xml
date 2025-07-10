@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+<idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="pb">pb 049</div>
+      <p>los cuales el gobernador mandó que hablasen al principal de los xarayes, y le dijesen cómo el gobernador los enviaba para que de su parte le hablasen y conosciesen, y tuviesen por amigo a él y a los suyos; y que le rogaba le viniesen a ver, porque le quería hablar, y que a los españoles los informase de las poblaciones y gentes de la tierra adentro y el camino que iba dende su tierra para llegar a ellas; y dio a los españoles muchos rescates y un bonete de grana para que diesen al principal de los dichos xarayes; y otro tanto para el principal de los guaraníes, que les dijese lo mismo que enviaba a decir al principal de los xarayes. Otro día después llegó al puerto el capitán Gonzalo de Mendoza con su gente y navíos, y le informaron que la</p><p>víspera de Todos Santos, viniendo navegando por tierra de los guaxarapos y habiéndoles hablado y dádose por amigos, diciendo haberlo hecho ansí con los navíos que primero habían subido, porque el tiempo de vela era contrario, habían salido a surgir los españoles que iban en los bergantines, y al doblar de un torno o vuelta del río, donde se pudo dar vela con los cinco que iban delanteros, el que quedó detrás, que fue un bergantín, donde venía por capitán <persName>Agustín de Campos</persName>, viniendo toda la gente de él por tierra sirgando, salieron los indios guaxarapos y dieron en ellos, y mataron cinco cristianos, y se ahogó <persName>Juan de Bolaños</persName> por acogerse a un navío, viniendo salvos y seguros, teniendo los indios por amigos, fiándose y no se guardando de ellos; y que si no se recogieran los otros cristianos al bergantín, a todos los mataran, porque no tenían ningunas armas con que se defender ni ofender. La muerte de los cristianos fue muy gran daño para nuestra reputación, porque los indios guaxarapos venían en sus canoas a hablar y comunicar con los indios del <placeName>puerto de los Reyes</placeName>, que tenían por amigos, y les dijeron cómo ellos habían muerto a los cristianos y que no éramos valientes, y que teníamos las cabezas tiernas, y que nos procurasen de matar y que ellos los ayudarían para ello; y de allí adelante los comenzaron a levantar y poner malos pensamientos a los indios del <placeName>puerto de los Reyes</placeName>.</p>
+      
+      <p>CAPÍTULO LIX</p>
+      <p>Cómo el gobernador envió a los xarayes</p>
+      <p>Dende a ocho días que <persName>Antón Correa</persName> y <persName>Héctor de Acuña</persName>, con los indios que llevaron por <persName>guías</persName>, hobieron partido, como dicho es, para la tierra y pueblos de los indios xarayes a les hablar de parte del gobernador, vinieron al puerto a le dar aviso de lo que habían hecho, sabido y entendido de la tierra y naturales y del principal de los indios, y visto por vista de ojos; y trujeron consigo un indio que el principal de <placeName>los xarayes</placeName> enviaba por que fuese guía del descubrimiento de la tierra; y <persName>Antón Correa</persName> y <persName>Héctor de Acuña</persName> dijeron que el propio día que partieron del <placeName>puerto de los Reyes</placeName> con las guías habían llegado a unos pueblos de unos indios que se llaman artaneses, que es una gente crescida de cuerpos y andan desnudas, en cueros; son labradores, siembran poco a causa que alcanzan poca tierra que sea buena para sembrar, porque la mayor parte es anegadizos y arenales muy secos; son pobres, y mantiénense la mayor parte del año de pesquerías de las lagunas que tienen junto de sus pueblos; las mujeres de estos indios son muy feas de rostros, porque se los labran y hacen muchas rayas con sus púas de rayas que para aquello tienen, y traen cubiertas sus vergüenzas; estos indios son muy feos de rostros porque se horadan el labio bajo y en él se ponen una cáscara de una fruta de unos árboles, que es tamaña y tan redonda como un gran tortero y ésta les apesga y hace alargar el labio tanto, que paresce una cosa muy fea, y que los indios artaneses le habían recebido muy bien en sus casas y dado de comer de lo que tenían; y otro día había salido con ellos un indio de la generación a les guiar, y habían sacado agua para beber en el camino en calabazos, y que todo el día habían caminado por ciénagas con grandísimo trabajo, en tal manera, que en poniendo el pie zahondaban hasta la rodilla, y luego metían el otro y con mucha premia los sacaban; y estaba el cieno tan caliente, y hervía con la fuerza del <persName>Sol</persName> tanto, que les abrasaba las piernas y les hacía llagas en ellas, de que pasaban mucho dolor; y allende de esto, tuvieron por cierto de morir el dicho día de sed, porque el agua que los indios</p><p>llevaban en calabazos no les bastó para la mitad de la jornada del día, y aquella noche durmieron en el campo entre aquellas ciénagas con</p>
+    </body>
+  </text>
+</TEI>

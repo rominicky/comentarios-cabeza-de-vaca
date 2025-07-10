@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno><idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <pb n="40" facs="40.jpg"/>
+      <div type="capitulo" n="47">     
+      <p><placeName key="Puerto Guayviano">puerto Guayviaño</placeName> y fue navegando por el río arriba con buen viento de vela; y el propio día a las nueve de la mañana llegó al <placeName key="Itabitan">puerto de Itabitan</placeName>, donde halló haber llegado la gente de caballo todos muy buenos, y le informaron haber pasado con mucha paz y concordia por todos los pueblos de la tierra, donde a todos habían dado muchas dádivas de los rescates que les dieron para el camino.</p>
+      </div>
+      <div type="capitulo" n="48">
+      <head>CAPÍTULO XLVIII</head>
+      <head type="titulocapitulo">De cómo en este puerto se embarcaron los caballos</head>
+      <p>En este puerto de Itabitan estuvo dos días en los cuales se embarcaron los caballos y se pusieron todas las cosas del armada en la orden que convenía; y porque la tierra donde estaban y residían los <persName ref="https://es.wikipedia.org/wiki/Payaguaes">indios payaguaes</persName> estaba muy cerca de allí adelante, mandó que el indio del <persName key="Ipananie">puerto de Ipananie</persName>, que sabía la lengua de los indios payaguaes y su tierra, se embarcase en el bergantín que iba por capitán de los otros, para haber siempre aviso de lo que se había de hacer, y con buen viento de vela partió del puerto; y por que los indios payaguaes no hiciesen algún daño en los <persName ref="https://pueblosoriginarios.com/sur/bosque_atlantico/guarani/cultura.html">indios guaraníes</persName> que llevaba en su compañía, les mandó que todos fuesen juntos hechos en un cuerpo, y no se apartasen de los bergantines, y por mucha orden fuesen siguiendo el viaje, y de noche mandó surgir por la ribera del río a toda la gente, y con buena guarda durmió en tierra, y los indios guaraníes ponían sus canoas junto a los bergantines, y los españoles y los indios tomaban y ocupaban una gran lengua de tierra por el río abajo, y eran tantas las lumbres y fuegos que hacían, que era gran placer de verlos; y en todo el tiempo de la navegación el gobernador daba de comer ansí a los españoles como a los indios, y iban tan proveídos y hartos, que era gran cosa de ver, y grande la abundancia de las pesquerías y caza que mataban, que lo dejaban sobrado, y en ello había una montería de unos puercos que andan continuo en el agua, mayores que los de <placeName key="España">España</placeName>: éstos tienen el hocico romo y mayor que estos otros de acá de España; llámanlos de agua; de noche se mantienen en la tierra y de día andan siempre en el agua, y en viendo la gente dan una zambullada por el río, y métense en lo hondo, y están mucho debajo del agua, y cuando salen encima, están un tiro de ballesta de donde se zambulleron; y no pueden andar a caza y montería de los puercos menos que media docena de canoas con indios, las cuales, como ellos se zambullen, las tres van para arriba y las tres para bajo, y están repartidas en tercios, y en los arcos puestas sus flechas, para que en saliendo que salen encima del agua, le dan tres o cuatro flechazos con tanta presteza, antes que se torne a meter debajo, y de esta manera los siguen, hasta que ellos salen de bajo del agua, muertos con las heridas; tienen mucha carne de comer, la cual tienen por buena los cristianos, aunque no tenían necesidad de ella; y por muchos lugares de este río hay muchos puercos de éstos; iba toda la gente en este viaje tan gorda y recia que parescía que salían entonces de España. Los caballos iban gordos, y muchos días los sacaban en tierra a cazar y montear con ellos, porque había muchos venados y antas, y otros animales. y salvajinas, y muchas nutrias.</p></div>
+      <div type="capitulo" n="49">
+      <head>CAPÍTULO XLIX</head>
+      <head type="titulocapitulo">Cómo por este puerto entró Juan de Ayolas cuando le mataron a él y a sus compañeros</head>
+      <p>A 12 días del mes de octubre llegó al puerto que dicen de <placeName key="Puerto de la Candelaria">la Candelaria</placeName>, que es tierra de los <persName ref="https://es.wikipedia.org/wiki/Payaguaes">indios payaguaes</persName>. y por este puerto entró con su gente el capitán <persName ref="https://historia-hispanica.rah.es/biografias/5320-juan-de-ayolas">Juan de Ayolas</persName>, y hizo su entrada con los españoles que llevaba, y en el mismo puerto, cuando volvió de la entrada que hizo, y dejó allí que le esperase a <persName ref="https://historia-hispanica.rah.es/biografias/29465-domingo-martinez-de-irala">Domingo de Irala</persName> con los bergantines que habían traído, y cuando volvió no halló a los bergantines; y estándolos esperando tardó allí más de cuatro meses, y en este tiempo padesció muy grande hambre; y conoscido por los payaguaes su gran flaqueza y falta de sus armas, se comenzaron a tratar con ellos familiarmente, y como amigos los dijeron que los querían llevar a sus casas para mantenerlos en ellas; y atravesándolos por unos pajonales, cada dos indios se abrazaron con un cristiano, y salieron otros muchos con garrotes y diéronles tantos palos en las cabezas, que de esta manera mataron al capitán Juan de Ayolas y a ochenta hombres que le habían quedado de ciento y cincuenta que traía cuando entró la tierra adentro; y la <note ana="Cabeza de Vaca inculpa a Irala por el abandono y muerte de Ayolas.">culpa de la muerte</note> de éstos tuvo el que quedó con los bergantines y gente aguardando allí, el cual desamparó el puerto y</p></div>
+    </body>
+  </text>
+</TEI>

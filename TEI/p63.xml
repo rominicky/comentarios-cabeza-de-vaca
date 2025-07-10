@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno><idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <pb n="63" facs="63.jpg"/>
+      <div type="capitulo" n="74">
+        <p>diciendo: <hi rend="italic">¡Libertad, libertad!</hi> Y llamándolo de tirano, poniéndole las ballestas a los pechos, diciendo estas y otras palabras: <hi rend="italic">Aquí pagaréis las injurias y daños que nos habéis hecho</hi>; y salido a la calle, toparon con la otra gente que ellos habían traído para aguardalles; los cuales, como vieron traer preso al <note ana="Cabeza de Vaca">gobernador</note> de aquella manera, dijeron al factor <persName ref="https://historia-hispanica.rah.es/biografias/34077-pedro-de-orantes">Pedro Dorantes</persName> y a los demás: <hi rend="italic">Pese a tal con los traidores; ¿traéisnos para que seamos testigos que no nos tomen nuestras haciendas y casas y indias, y no le requerís, sino prendéislo?; ¿queréis hacernos a nosotros traidores contra el <persName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/20">Rey</persName>, prendiendo a su gobernador?</hi>; y echaron mano a las espadas, y hubo una gran revuelta entre ellos porque le habían preso; y como estaban cerca de las casas de los oficiales, los unos de ellos se metieron con el gobernador en las casas de <persName ref="https://historia-hispanica.rah.es/biografias/44762-garci-venegas">Garci-Vanegas</persName>, y los otros quedaron a la puerta, diciéndoles que ellos los habían engañado; que no dijesen que no sabían lo que ellos habían hecho, sino que procurasen de ayudallos a que le sustentasen en la prisión, porque les hacían saber que si soltasen al gobernador, que los haría a todos cuartos, y a ellos les cortaría las cabezas; y pues les iba las vidas en ello, los ayudasen a llevar adelante lo que habían hecho, y que ellos partirían con ellos la hacienda y indias y ropa del gobernador; y luego entraron los oficiales donde el gobernador estaba, que era una pieza muy pequeña, y le echaron unos grillos y le pusieron guardas; y hecho esto, fueron luego a casa de <persName ref="https://historia-hispanica.rah.es/biografias/35795-juan-pavon">Juan Pavón</persName>, alcalde mayor, y a casa de <persName>Francisco de Peralta</persName>, alguacil, y llegando adonde estaba el alcalde mayor, <persName ref="https://aunamendi.eusko-ikaskuntza.eus/en/orue-martin-de/ar-112436/">Martín de Ure</persName>, vizcaíno, se adelantó de todos y quitó por fuerza la vara al alcalde mayor y al alguacil; y ansí presos, dando muchas puñadas al alcalde mayor y al alguacil, y dándole empujones y llamándoles de traidores, él y los que con él iban los llevaron a la cárcel pública y los echaron de cabeza en el cepo, y soltaron de él a los que estaban presos, que entre ellos estaba uno condenado a muerte porque había muerto un <persName>Morales</persName>, hidalgo de <placeName key="Sevilla">Sevilla</placeName>. Después de esto hecho, tomaron un atambor y fueron por las calles alborotando y desasosegando al pueblo, diciendo a grandes voces: <hi rend="italic">¡Libertad, libertad; viva el Rey!</hi> Y después de haber dado una vuelta al pueblo, fueron los mismos a la casa de <persName ref="https://historia-hispanica.rah.es/biografias/21656-pedro-hernandez">Pero Hernández</persName>, escribano de la provincia (que a la sazón estaba enfermo), y le prendieron, y a <persName ref="https://es.wikipedia.org/wiki/Bartolom%C3%A9_Gonz%C3%A1lez_de_Villaverde">Bartolomé González</persName>, y le tomaron la hacienda y escripturas que allí tenía; y ansí, lo llevaron preso a la casa de <persName ref="https://historia-hispanica.rah.es/biografias/29465-domingo-martinez-de-irala">Domingo de Irala</persName>, adonde le echaron dos pares de grillos; y después de habelle dicho muchas afrentas, le pusieron sus guardas, y tornan a pregonar: Mandan los señores oficiales de Su Majestad que ninguno sea osado de andar por las calles, y todos se recojan a sus casas, so pena de muerte y de traidores; y acabando de decir esto, tornaban, como de primero, a decir: ¡Libertad, libertad! Y cuando esto apregonaban, a los que topaban en las calles les daban muchos rempujones y espaldarazos, y los metían por fuerza en sus casas; y luego, como esto acabaron de hacer, los oficiales fueron a las casas donde el gobernador vivía y tenía su hacienda y escripturas y provisiones que Su Majestad le mandó despachar acerca de la gobernación de la tierra, y los autos de cómo le habían recebido y obedecido en nombre de Su Majestad por <note ana="Títulos otorgados por el monarca peninsular.">gobernador y capitán general</note>, y descerrajaron unas arcas, y tomaron todas las escripturas que en ellas estaban, y se apoderaron en todo ello, y abrieron asimismo un arca que estaba cerrada con tres llaves, donde estaban los procesos que se habían hecho contra los oficiales, de los delitos que habían cometido, los cuales estaban remitidos a Su Majestad; y tomaron todos sus bienes, ropas, bastimentos de vino y aceite, y acero y hierro y otras muchas cosas, y la mayor parte de ellas desaparescieron, dando saco en todo, llamándole de tirano y otras palabras; y lo que dejaron de la hacienda del gobernador lo pusieron en poder de quien más sus amigos eran y los seguían, so color de depósito, y eran los mismos valedores que los ayudaban. Valía, a lo que dicen, más de cien mil castellanos su hacienda, a los precios de allá, entre lo cual le tomaron diez bergantines.</p></div>
+      <div type="capitulo" n="75">
+      <head>CAPÍTULO LXXV</head> 
+      <head type="titulocapitulo">De cómo juntaron la gente ante la casa de Domingo de Irala</head>
+      <p>Y luego otro día siguiente por la mañana los oficiales, con atambor, mandaron pregonar por las calles que todos se juntasen delante las casas del capitán <persName ref="https://historia-hispanica.rah.es/biografias/29465-domingo-martinez-de-irala">Domingo de Irala</persName>, y allí juntos sus amigos y valedores con sus armas, con pregonero, a altas voces leyeron un libelo infamatorio; entre las otras cosas, dijeron que tenía el gobernador ordenado de tomarles a todos sus haciendas y tenerlos por esclavos, y que ellos por la libertad de todos le habían prendido; y acabando de leer</p></div>
+    </body>
+  </text>
+</TEI>

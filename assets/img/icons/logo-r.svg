@@ -1,0 +1,18 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fondo -->
+  <rect width="200" height="200" fill="#2b003c"/>
+  
+  <!-- Hexágono centrado -->
+  <polygon 
+    points="100,20 170,60 170,140 100,180 30,140 30,60" 
+    fill="none" stroke="#ff79c6" stroke-width="10"/>
+  
+  <!-- Letra R centrada geométricamente -->
+  <text 
+    x="100" y="132" 
+    font-size="92" font-family="Roboto, sans-serif" 
+    fill="#ff79c6" text-anchor="middle" 
+    font-weight="light">R</text>
+</svg>
+
+  

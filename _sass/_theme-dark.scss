@@ -1,0 +1,26 @@
+// Dark theme
+// Import sass partials (used in all themes)
+@use "variables";
+@use "base";
+@use "components";
+@use "utilities";
+;
+
+// Color variables
+$black: #fff;  // El texto en blanco
+$gray-dark: #ccc;
+$gray: #999;
+$gray-light: #666;
+$white: #2B2826;  // Fondo oscuro
+$burgundy: #B54545;
+// Config
+$color-background: $black !default;
+$color-foreground: $white !default;
+$color-title: $white !default;
+$color-body-text: $white !default;
+$color-text-accent: $gray-dark !default;
+$color-code: $gray-light !default;
+$color-nav-link: $white !default;
+$color-primary-link: $burgundy !default;
+$color-primary-underline: $gray-dark !default;
+$color-border: $gray-light !default;

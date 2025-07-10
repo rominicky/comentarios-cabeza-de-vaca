@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+<idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="pb">pb 028</div>
+      
+      <p>CAPÍTULO XXX</p>
+      <p>Cómo vinieron a dar la obediencia los indios guaycurúes a <placeName>Su Majestad</placeName></p>
+      <p>Dende a cuatro días que el prisionero se partió del real, un lunes por la mañana llegó a la orilla del río con toda la gente de su nasción, los cuales estaban debajo de una arboleda a la orilla del río del <placeName>Paraguay</placeName>; y sabido por el gobernador, mandó pasar muchas canoas con algunos cristianos y algunas lenguas con ellas, para que los pasasen a la ciudad, para saber y entender qué gente eran; y pasadas de la otra parte las canoas, y en ellas hasta veinte hombres de su nasción, vinieron ante el gobernador, y en su presencia se sentaron sobre un pie como es costumbre entre ellos, y dijeron por su lengua que ellos eran principales de su nasción de guaycurúes, y que ellos y sus antepasados habían tenido guerras con todas las generaciones de aquella tierra, así de los guaraníes como de los imperúes y agaces y <persName>guatataes</persName> y <persName>naperúes</persName> y <placeName>mayaes</placeName>, y otras muchas generaciones, y que siempre les habían vencido y maltratado, y ellos no habían sido vencidos de ninguna generación ni lo pensaron ser; y que pues habían hallado otros más valientes que ellos, que se venían a poner en su poder y a ser sus esclavos, para servir a los españoles; y pues el gobernador, con quien hablaban, era el principal de ellos, que les mandase lo que habían de hacer como a tales sus sujetos y obedientes; y que bien sabían los indios guaraníes que no bastaban ellos a hacerles la guerra, porque ellos no los temían ni tenían en nada, ni se atreverían a los ir a buscar y hacer la guerra si no fuera por los españoles; y que sus mujeres y hijos quedaban de la otra parte del río, y venían a dar la obediencia y hacer lo mismo que ellos; y que por ellos, y en nombre de todos, se venían a ofrescer al servicio de <placeName>Su Majestad</placeName>.</p>
+      
+      <p>CAPÍTULO XXXI</p>
+      <p>De cómo el gobernador, hechas las paces con los guaycurúes, les entregó los prisioneros</p>
+      <p>Y visto por el gobernador lo que los indios guaycurúes dijeron por su mensaje, y que una gente que tan temida era en toda la tierra venían con tanta humildad a ofrescerse y ponerse en su poder (lo cual puso grande espanto y temor en toda la tierra), les mandó decir por las lenguas intérpretes que él era allí venido por mandado de <persName>Su Majestad</persName>, y para que todos los naturales viniesen en conoscimiento de Dios nuestro Señor, y fuesen cristianos y vasallos de <placeName>Su Majestad</placeName>, y a ponerlos en paz y sosiego, y a favolescerlos y hacerlos buenos tratamientos y que si ellos se apartaban de las guerras y daños que hacían a los indios guaraníes, que él los ampararía y defendería y tendría por amigos, y siempre serían mejor tratados que las otras generaciones, y que les darían y entregarían los prisioneros que en la guerra les había tomado, así los que él tenía como los que tenían los cristianos en su poder, y los otros todos que tenían los guaraníes que en su compañía habían llevado (que tenían muchos de ellos); y poniéndolo en efecto, los prisioneros que en su poder estaban y los que los dichos guaraníes tenían, los trajeron todos ante el gobernador, y se los dio y entregó; y como los hobieron recebido, dijeron y afirmaron otra vez que ellos querían ser vasallos de <placeName>Su Majestad</placeName>, y dende entonces daban la obediencia y vasallaje, y se apartaban de la guerra de los guaraníes, y que dende en adelante vernían a traer en la ciudad todo lo que tomasen, para provisión de los españoles; y el gobernador se lo agradesció, y les repartió a los principales muchas joyas y rescates, y quedaron concertadas las paces, y de allí adelante siempre las guardaron, y vinieron todas las veces que el gobernador los envió a llamar, y fueron muy obedientes en sus mandamientos, y su venida era de ocho a ocho días a la ciudad, cargados de carne de venados y puercos monteses, asada en barbacoa. Esta barbacoa es como unas parrillas, y están dos palmos altas del suelo, y son de palos delgados, y echan la carne escalada encima, y ansí la asan; y traen mucho pescado y otros muchos mantenimientos, mantecas y otras cosas, y muchas mantas de lino que hacen de unos cardos, las cuales hacen muy pintadas; y asimismo muchos cueros de tigres y de antas y de venados, y de otros animales que matan; y cuando así vienen, dura la contratación de los tales mantenimientos dos días, y contratan los de la otra parte del río que están con sus ranchos; la cual contratación es muy grande, y son muy apacibles para los guaraníes, los cuales les dan, en trueque de lo que traen, mucho maíz y mandioca y mandubis, que es una fruta como avellanas o chufas, que se cría de-</p>
+    </body>
+  </text>
+</TEI>

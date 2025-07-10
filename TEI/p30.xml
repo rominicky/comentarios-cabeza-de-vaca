@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno><idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <pb n="30" facs="30.jpg"/>
+      <div type="capitulo" n="32">
+      <p>mujeres y hijos y si otra cosa en contrario quisiesen hacer, morirían de hambre; y que sería por demás el trabajo que en ello se pusiese, porque no podrían venir ellos ni sus mujeres y hijos a la doctrina, ni los religiosos estar entre ellos, porque había poca seguridad y menos confianza.</p></div>
+    <div type="capitulo" n="33">
+      <head>CAPÍTULO XXXIII</head>
+      <head type="titulocapitulo">De la sentencia que se dio contra los agaces, con parescer de los religiosos y capitanes y oficiales de Su Majestad</head>
+      <p>Después de haber rescebido el <persName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/126">gobernador</persName> a la obediencia de <persName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/20">Su Majestad</persName> los indios (como habéis oído), mandó que le mostrasen el proceso y probanza que se había hecho contra los <persName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/686">indios agaces</persName>; y visto por él y por los otros procesos que contra ellos se había hecho, paresció por ellos ser culpados por los robos y muertes que por toda la tierra habían hecho, mostró el proceso de sus culpas y la instrucción que tenía de Su Majestad a los clérigos y religiosos, estando presentes los capitanes y oficiales de Su Majestad; y habiéndolo muy bien visto todos juntamente, sin discrepar en ninguna cosa, le dieron por parescer que les hiciese la guerra a fuego y a sangre, porque así convenía al servicio de Dios y de Su Majestad; y por lo que resultaba por el proceso de sus culpas, conforme a derecho, los condenó a muerte a trece o a catorce de su generación que tenía presos; y entrando en la cárcel su <note ana="Los alcaldes mayores eran funcionarios regionales con autoridad judicial, administrativa, militar y legislativa en los virreinatos españoles de América">alcalde mayor</note> a sacarlos, con unos cuchillos que tenían escondidos dieron ciertas puñaladas a personas que entraron con el alcalde y los mataran si no fuera por otra gente que con ellos iban, que los socorrieron; y defendiéndose de ellos, fuéles forzado meter mano a las espadas que llevaban; y metiéronlos en tanta necesidad, que mataron dos de ellos y sacaron los otros a ahorcar en ejecución de la sentencia.</p></div>
+      <div type="capitulo" n="34">
+        <head>CAPÍTULO XXXIV</head>
+        <head type="titulocapitulo">De cómo el gobernador tornó a socorrer a los que estaban en Buenos Aires</head>
+      <p>Como las cosas estaban en paz y quietud, envió el gobernador a socorrer la gente que estaba en <placeName key="Buenos Aires">Buenos Aires</placeName>, y al capitán <persName ref="https://historia-hispanica.rah.es/biografias/39188-juan-romero">Juan Romero</persName>, que había enviado a hacer el mismo socorro con dos bergantines y gente; para el cual socorro acordó enviar al capitán <persName ref="https://historia-hispanica.rah.es/biografias/30387-gonzalo-de-mendoza">Gonzalo de Mendoza</persName> con otros dos bergantines cargados de bastimentos y cien hombres; y esto hecho, mandó llamar los religiosos y clérigos y oficiales de Vuestra Majestad, a los cuales dijo que pues no había cosa que impidiese el descubrimiento de aquella <note ana="Refiere a la región del Río de la Plata.">provincia</note>, que se debía de buscar lumbre y camino por donde sin peligro y menos pérdida de gente se pusiese en efecto la entrada por tierra, por donde hubiese poblaciones de indios y que tuviesen bastimentos, apartándose de los despoblados y desiertos (porque había muchos en la tierra), y que les rogaba y encomendaba de parte de Su Majestad mirasen lo que más útil y provechoso fuese y les paresciese, y que sobre ello le diesen su parescer, los cuales religiosos y clérigos, y el comisario fray <persName ref="https://historia-hispanica.rah.es/biografias/4146-bernardo-de-armenta-o-armentia">Bernaldo de Armenia</persName>, y fray <persName ref="https://historia-hispanica.rah.es/biografias/26055-alonso-lebron">Alonso Lebrón</persName>, de la orden del señor Sant Francisco; y fray <persName ref="h">Juan de Salazar</persName>, de la orden de la Merced; y fray <persName ref="https://historia-hispanica.rah.es/biografias/23132-luis-de-herrezuelo">Luis de Herrezuelo</persName>, de la orden de San Hierónimo; y <persName ref="https://historia-hispanica.rah.es/biografias/3397-francisco-de-andrada">Francisco de Andrada</persName>, el bachiller <persName>Martín de Almenza</persName>, y el <persName>bachiller Martínez</persName>, y <persName ref="https://historia-hispanica.rah.es/biografias/25392-juan-gabriel-lezcano">Juan Gabriel de Lezcano</persName>, clérigos y capellanes de la iglesia de la ciudad de la <placeName key="Asunción">Ascensión</placeName>. Ansimismo pidió parescer a los oficiales de Su Majestad y a los capitanes; y habiendo platicado entre todos sobre ello, todos conformes dijeron que su parescer era que luego con toda brevedad se enviase a buscar tierra poblada por donde se pudiese ir a hacer la entrada y descubrimiento, por las causas y razones que el gobernador había dicho y propuesto, y así quedó aquel día sentado y concertado; y para que mejor se pudiese hacer el descubrimiento, y con más brevedad, mandó el gobernador llamar los indios más principales de la tierra y más antiguos de los <persName ref="https://pueblosoriginarios.com/sur/bosque_atlantico/guarani/cultura.html">guaraníes</persName>, y les dijo cómo él quería ir a descubrir las poblaciones a aquella provincia, de las cuales ellos le habían dado relación muchas veces; y que antes de lo poner en efecto quería enviar algunos cristianos a que por vista de ojos viesen el camino por donde habían de ir; y que pues ellos eran cristianos y vasallos de Su Majestad, tuviesen por bien de dar indios de su generación que supiesen el camino para los llevar y guiar de manera que se pudiese traer buena relación, y a Vuestra Majestad harían servicio y a ellos mucho provecho, allende que les sería pagado y gratificado; y los indios principales dijeron que ellos se iban, y proveerían de la gente que fuese menester cuando se la pidiesen, y allí se ofrescieron muchos de ir con los cristianos;</p></div>
+    </body>
+  </text>
+</TEI>

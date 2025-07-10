@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+<idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="pb">pb 073</div>
+      
+      <p>paresce, según y la parte donde señaló, los dichos pueblos están en doce grados a la banda del norueste, entre las sierras de <placeName>Santa Marta</placeName> y del <placeName>Marañón</placeName>, y que es gente guerrera y pelean con arcos y flechas; ansimismo señalaron los dichos indios que del oesnorueste hasta el norueste, cuarta al norte, hay otras muchas poblaciones y muy grandes de indios; hay pueblos tan grandes, que en un día no pueden atravesar de un cabo a otro, y que toda es gente que posee mucho metal blanco y amarillo, y con ello se sirven en sus casas, y que toda es gente vestida; y para ir allí podían ir muy presto, y todo por tierra muy poblada. Y que asimismo por la banda del oeste había un lago de agua muy grande, y que no se parescía tierra de la una banda a la otra; y a la ribera del dicho lago había muy grandes poblaciones de gentes vestidas y que poseían mucho metal, y que tenían piedras, de que traían bordadas las ropas y relumbraban mucho; las cuales sacaban los indios del dicho lago, y que tenían muy grandes pueblos, y toda era gente la de las dichas poblaciones labradores y que tenían muy grandes mantenimientos y criaban muchos patos y otras aves; y que dende aquí donde se halló podía ir al dicho lago y poblaciones de él, a lo que le señalaron en quince jomadas, todo por tierra poblada, adonde había mucho metal y buenos caminos en abajando las aguas, que a la sazón estaban crescidas, que ellos le llevarían; pero que eran pocos cristianos, y los pueblos por donde habían de pasar eran grandes y de muchas gentes; asimesmo dijo y declaró que le dijeron y informaron y señalaron a la banda del oeste, cuarta al sudueste, había muy</p><p>grandes poblaciones, que tenían las casas de tierra y que era buena gente, vestida y muy rica, y que tenían mucho metal y criaban mucho ganado de ovejas muy grandes, con los cuales se sirven en sus rozas y labranzas, y las cargan, y les preguntó si las dichas poblaciones de los dichos indios si estaban muy lejos; y que les respondieron que hasta ir ellos era toda tierra poblada de muchas gentes, y que en poco tiempo podía llegar a ellas, y entre las dichas poblaciones hay otra gente de cristianos, y había grandes desiertos de arenales y no había agua. Fueron preguntados cómo sabían que había cristianos de aquella banda de las dichas poblaciones, y dijeron que en los tiempos pasados los indios comarcanos de las dichas poblaciones habían oído decir a los naturales de los dichos pueblos que, yendo los de su generación por los dichos desiertos, habían visto venir mucha gente vestida, blanca, con barbas, y traían unos animales (según señalaron eran caballos), diciendo que venían en ellos caballeros, y que a causa de no haber agua los habían visto volver, y que se habían muerto muchos de ellos; y que los indios de las dichas poblaciones creían que venía la dicha gente de aquella banda de los desiertos; y que asimismo le señalaron que a la banda del oeste, cuarta al sueste, había muy grandes montañas y despoblados, y que los indios lo habían probado a pasar, por la noticia que de ello tenían que había gentes de aquella banda, y que no habían podido pasar, porque se morían de hambre y sed. Fueron preguntados cómo sabían los susodichos. <placeName>Dijeron</placeName> que entre todos los indios de toda esta tierra se comunicaban y sabían que era muy cierto, porque habían visto y comunicado con ellos, y que había visto los dichos cristianos y caballos que venían por los dichos desiertos, y que a la caída de las dichas sierras, a la parte del sudueste, había muy grandes poblaciones y gente rica de mucho metal, y que los indios que decían lo susodicho decían que tenían ansimesmo noticia que en la otra banda, en el agua salada, andaban navíos muy grandes. Fue preguntado si en las dichas poblaciones hay entre las gentes de ellos principales hombres que los mandan. <placeName>Dijeron</placeName> que cada generación y población tiene solamente uno de la mesma generación, a quien todos obedescen; declaró que para saber la verdad de los dichos indios y saber si discrepaban en su declaración, en todo un día y una noche a cada uno por sí les preguntó por diversas vías la dicha declaración; en la cual, tornándola a decir y declarar sin variar ni discrepar, se conformaron.</p>
+      <p>La cual relación de suso contenida el capitán <persName>Hernando de Ribera</persName> dijo y declaró haberle tomado y rescebido con toda claridad y fidelidad y lealtad, y sin engaño, fraude ni cautela; y porque a la dicha su relación se pueda dar y dé toda fe y crédito, y no se pueda poner ni ponga ninguna duda en ello ni en parte de ello, dijo que juraba, y juró por <persName>Dios</persName> y por <persName>Santa María</persName> y por las palabras de los santos cuatro Evangelios, donde corporalmente puso su mano derecha en un libro misal, que al presente en sus manos tenía el reverendo padre <persName>Francisco González de Paniagua</persName>, abierto por parte do estaban escritos los santos Evangelios, y por la señal de la cruz, a tal como esta +, donde asimismo puso su mano derecha, que la relación, según de la forma y manera que la tiene dicha y declarada y de suso se contiene, le fue dada, dicha y denunciada y declarada por los dichos indios principales de la dicha tierra y de otros hombres ancianos, a los cuales con toda diligencia examinó y interrogó, para saber de ellos verdad y claridad de las cosas de la tierra adentro; y que habida la dicha relación, asimismo le vinieron a ver otros indios de otros pueblos, principalmente de un pueblo muy grande que se dice</p>
+    </body>
+  </text>
+</TEI>

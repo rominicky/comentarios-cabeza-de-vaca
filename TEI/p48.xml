@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+<idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="pb">pb 048</div>
+      
+      <p>ni saber el camino, nunca más se han vuelto a su tierra; y los indios guaraníes que habitan en las montañas de esta tierra saben el camino por donde van a la tierra; los cuales lo podían bien enseñar, porque van y vienen a la guerra contra los indios de la tierra adentro. Fue preguntado qué pueblos de indios hay en su tierra y de otras generaciones, y qué otros mantenimientos tienen, y que con qué armas pelean. Dijo que en su tierra los de su generación tienen un solo principal que los manda a todos, y de todos es obedescido, y que hay muchos pueblos de muchas gentes de los de su generación, que tienen guerra con los indios que se llaman chimeneos y con otras generaciones de indios que se llaman carcaraes; y que otras muchas gentes hay en la tierra, que tienen grandes pueblos, que se llaman gorgotoquies y payzuñoes y estarapecocies y candirees, que tienen sus principales, y todos tienen guerra unos con otros, y pelean con arcos y flechas, y todos generalmente son labradores y criadores, que siembran maíz y mandiocas y batatas y <persName>mandubias</persName> en mucha abundancia, y crían patos y gallinas como los de <placeName>España</placeName>; crían ovejas grandes, y todas las generaciones tienen guerras unos con otros, y los indios contratan arcos y flechas y mantas y otras cosas por arcos y flechas, y por mujeres que les dan por ellos. Habida esta relación, los indios se fueron muy alegres y contentos, y el principal de ellos se ofresció irse con el gobernador a la entrada y descubrimiento de la tierra, diciendo que se iría con su mujer y hijos a vivir a su tierra, que era lo que él más deseaba.</p>
+      
+      <p>CAPÍTULO LVII</p>
+      <p>Cómo el gobernador envió a buscar los indios de <persName>García</persName></p>
+      <p>Habida la relación del indio, el gobernador mandó luego que con algunos naturales de la tierra fuesen algunos españoles a buscar los indios guaraníes que estaban en aquella tierra, para informarse de ellos y llevarlos por guía, del descubrimiento de la tierra, y también fueron con los españoles algunos indios guaraníes de los que traía en su compañía, los cuales se partieron y fueron por donde las guías los llevaron; y al cabo de seis días volvieron, y dijeron que los indios guaraníes se habían ido de la tierra, porque sus pueblos y casas estaban despoblados, y toda la tierra ansí lo parescía, porque diez leguas a la redonda lo habían mirado y no habían hallado persona. Sabido lo susodicho, el gobernador se informó de los indios chaneses si sabían a qué parte se podían haber ido los indios guaraníes; los cuales le dijeron y avisaron que los indios naturales de aquel puerto con los de aquella isla se habían juntado, y les habían ido a hacer guerra, y habían muerto muchos de los indios guaraníes, y los que quedaron se habían ido huyendo por la tierra adentro, y creían que se irían a juntar con otros pueblos de guaraníes que estaban en frontera de una generación de indios que se llaman xarayes, con los cuales y con otras generaciones tienen guerra, y que los indios xarayes es gente que tienen alguna plata y oro, que les dan los indios de tierra adentro, y que por allí es todo tierra poblada, que puede ir a las poblaciones; y los xarayes son labradores, que siembran maíz y otras simientes en gran cantidad, y crían patos y gallinas como las de <placeName>España</placeName>. <persName>Fuéles</persName> preguntado qué tantas jornadas de aquel puerto estaba la tierra de los indios xarayes; dijo que por tierra podían ir, pero que era el camino muy malo y trabajoso, a causa de las muchas ciénagas que había, y muy gran falta de agua, y que podían ir en cuatro o cinco días, y que si quisiesen ir por agua en canoas, por el río arriba, ocho o diez días.</p>
+      
+      <p>CAPÍTULO LVIII</p>
+      <p>De cómo el gobernador habló a los oficiales y les dio aviso de lo que pasaba</p>
+      <p>Luego el gobernador mandó juntar los oficiales y clérigos, y siendo informados de la relación de los indios xarayes y de los guaraníes que están en su frontera, fue acordado que con algunos indios naturales de este puerto, para más seguridad, fuesen dos españoles y dos indios guaraníes a hablar los indios xarayes, y viesen la manera de su tierra y pueblos, y se informasen de ellos de los pueblos y gentes de la tierra adentro, y del camino que iba dende su tierra hasta llegar a ellos, y tuviesen manera cómo hablasen con los indios guaraníes, porque de ellos más abiertamente y con más certeza podrían ser avisados y saber la verdad. Este mismo día se partieron los dos españoles, que fueron <persName>Héctor de Acuña</persName> y <persName>Antón Correa</persName>, lenguas y intérpretes de los guaraníes, con hasta diez indios sacocies y dos indios guaraníes, a</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+<idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="pb">pb 045</div>
+      
+      <p>de el remate del río del <placeName>Paraguay</placeName>, a causa de otros muchos ríos y grandes lagunas que en esa parte están divididos y apartados; de manera que son tantas las bocas y entradas de ellos, que aun los indios naturales que andan siempre en ellas con sus canoas, con dificultad las conoscen, y se pierden muchas veces por ellas; este río por donde entró el gobernador le llaman los indios naturales de aquella tierra <placeName>Iguatu</placeName>, que quiere decir agua buena, y corre a la laguna en nuestro favor; y como hasta entonces habíamos ido agua arriba, entrados en esta laguna íbamos agua abajo.</p>
+      
+      <p>CAPÍTULO LIII</p>
+      <p>Cómo a la boca de este río pusieron tres cruces</p>
+      <p>En la boca de este río mandó el gobernador poner muchas señales de árboles cortados, y hizo poner tres cruces altas para que los navíos entrasen por allí tras él, y no errasen la entrada por este río. <placeName>Fuimos</placeName> navegando a remo tres días, a cabo de los cuales salió del río y fue navegando por otros dos brazos del río que salen de la laguna, muy grandes; y a ocho días del mes, una hora antes del día, llegaron a dar en unas sierras que están en medio del río, muy altas y redondas, que la hechura de ellas era como una campana, y siempre yendo para arriba ensangostándose. Estas sierras están peladas, y no crían yerbas ni árbol ninguno, y son <placeName>bermejas</placeName>; creemos que tienen mucho metal, porque la otra tierra que está fuera del río, en la comarca y parajes de la tierra, es muy montuosa, de grandes árboles y de mucha yerba; y porque las sierras que están en el río no tienen nada de esto, paresce señal que tienen mucho metal, y ansí, donde lo hay, no cría árbol ni yerba; y los indios nos decían que en otros tiempos sus pasados sacaban de allí el metal</p><p>, y por no llevar aparejo de mineros ni fundidores, ni las herramientas que era menester para catar y buscar la tierra, y por la gran enfermedad que dio en la gente, no hizo el gobernador buscar el metal, y también lo dejó para cuando otra vez volviese por allí porque estas tierras caen cerca del <persName>blanco</persName><placeName>puerto de los Reyes</placeName>, tomándolas por la tierra. <placeName>Yendo</placeName> caminando por el río arriba, entramos por otra boca de otra laguna que tiene más de una legua y media de ancho, y salimos por otra boca de la misma laguna y fuimos por un brazo de ella junto a la <placeName>Tierra Firme</placeName>, y fuímonos a poner aquel día, a las diez horas de la mañana, a la entrada de otra laguna donde tienen su asiento y pueblo los indios sacocies y saquexes y chaneses; y no quiso el gobernador pasar de allí adelante, porque le paresció que debía enviar hacer saber a los indios su venida y les avisar; y luego envió en una canoa a una lengua con unos cristianos para que les hablasen de su parte y les rogasen que le viniesen a ver y a hablar; y luego se partió la canoa con la lengua y cristianos, y a las cinco de la tarde volvieron, y dijeron que los indios de los pueblos los habían salido a recebir mostrando muy gran placer, y dijeron a la lengua cómo ya ellos sabían cómo venían, y que deseaban mucho ver al gobernador y a los cristianos; y dijeron entonces que las aguas habían bajado mucho, y que por aquello la canoa había llegado con mucho trabajo, y que era necesario que, para que los navíos pasasen aquellos bajos que había hasta llegar al puerto de los Reyes, los descargasen y alijasen para pasar, porque de otra manera no podían pasar, porque no había agua poco más de un palmo, y cargados, pedían los navíos cinco y seis palmos de agua para poder navegar; y este banco y bajo estaba cerca del <placeName>puerto de los Reyes</placeName>. Otro día de mañana el gobernador mandó partir los navíos, gente, indios y cristianos, y que fuesen navegando al remo hasta llegar al bajo que habían de pasar los navíos, y mandó salir toda la gente y que saltasen al agua, la cual no les daba a la rodilla; y puestos los indios y cristianos a los bordos y lados del bergantín que se llamaba <placeName>Sant Marcos</placeName>, toda la gente que podía caber por los lados del bergantín lo pasaron a hombro y casi en peso y fuerza de brazos, sin que lo descargase, y duró el bajo más de tiro y medio de arcabuz; fue muy gran trabajo pasarlo a fuerza de brazos, y después de pasado, los mismos indios y cristianos pasaron los otros bergantines con menos trabajo que el primero, porque no eran tan grandes como el primero; y después de puestos en el hondo, nos fuimos a desembarcar en el <placeName>puerto de los Reyes</placeName>, en el cual hallamos en la ribera muy gran copia de gente de los naturales, que sus mujeres y hijos y ellos estaban esperando; y ansí, salió el gobernador con toda la gente, y todos ellos se vinieron a él, y él les informó cómo <persName>Su Majestad</persName> le enviaba para que les apercibiese y amonestase que fuesen cristianos, y recebiesen la doctrina cristiana, y creyesen en Dios, criador del Cielo y de la Tierra, y a ser vasallos de</p>
+    </body>
+  </text>
+</TEI>

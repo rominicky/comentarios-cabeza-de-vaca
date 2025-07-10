@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno><idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <pb n="68" facs="68.jpg" />
+      <div type="capitulo" n="81">      
+      <p>aquellas palabras que decía; y con esto, <persName ana="Regidor, trató de presentar un requerimiento para que Cabeza de Vaca pudiese nombrar un representante, sin embargo no prosperó">Pedro de Molina</persName> se salió, quitándose su bonete (que no fue poco salir de entre ellos sin hacerle mucho mal).</p></div>
+      <div type="capitulo" n="82"> 
+      <head>CAPÍTULO LXXXII</head>
+      <head type="titulocapitulo">Cómo dieron licencia los alzados a los indios que comiesen carne humana</head>
+      <p>Para valerse los oficiales y <persName ref="https://historia-hispanica.rah.es/biografias/29465-domingo-martinez-de-irala">Domingo de Irala</persName> con los indios naturales de la tierra, les dieron licencia para que matasen y comiesen a los indios enemigos de ellos, y a muchos de éstos, a quien dieron licencia, eran cristianos nuevamente convertidos, y por hacellos que no se fuesen de la tierra y les ayudasen; cosa tan contra el servicio de Dios y de <persName ref="terminologias.filo.uba.ar/vocabs/1006/term/20">Su Majestad</persName>, y tan aborrecible a todos cuantos lo oyeron; y dijéronles más, que el <note ana="Álvar Núñez Cabeza de Vaca">gobernador</note> era malo, y que por ello no les consentía matar y comer a sus enemigos, y que por esta causa le habían preso, y que agora, que ellos mandaban, les daban licencia para que lo hiciesen ansí como se lo mandaban; y visto los oficiales y Domingo de Irala que, con todo lo que ellos podían hacer y hacían, que no cesaban los alborotos y escándalos, y que de cada día eran mayores, acordaron de sacar de la provincia al gobernador, y los mismos que lo acordaron se quisieron quedar en ella y no venir en estos reinos, y que con sólo echarle de la tierra con algunos de sus amigos se contentaron, lo cual, entendido por los que le favorescían, entre ellos hobo muy gran escándalo, diciendo que, pues los oficiales habían hecho entender que habían podido prenderle, y les habían dicho que vernían con el gobernador a dar cuenta a Su Majestad, que habían de venir, aunque no quisiesen, a dar cuenta de lo que habían hecho; y ansí, se hobieron de concertar que los dos de los oficiales viniesen con él, y los otros dos se quedasen en la tierra; y para traerle alzaron uno de los bergantines que el gobernador había hecho para el descubrimiento de la tierra y conquista de la provincia; y de esta causa había muy grandes alborotos y mayores alteraciones, por el gran descontento que la gente tenía de ver que le querían ausentar de la tierra. Los oficiales acordaron de prender a los más principales y a quien la gente más acudía, y sabido por ellos, andaban siempre sobre aviso, y no los osaban prender, y se concertaron por intercesión del gobernador, porque los oficiales le rogaron que se lo enviase a mandar, y cesasen los escándalos y diesen su fe y palabra de no sacarle de la prisión, y que los oficiales y la justicia que tenían puesta prometían de no prender a ninguna persona ni hacerle ningún agravio; y que soltarían los que tenían presos, y ansí lo juraron y prometieron, con tanto que, porque había tanto tiempo que le tenían preso y ninguna persona le había visto, y tenían sospecha y se recelaban que le habían muerto secretamente, dejasen entrar en la prisión donde el gobernador estaba dos religiosos y dos caballeros para que le viesen y pudiesen certificar a la gente que estaba vivo; y los oficiales prometieron de lo cumplir dentro de tres o cuatro días antes que le embarcasen, lo cual no cumplieron</p></div>
+      <div type="capitulo" n="83"> 
+      <head>CAPÍTULO LXXXIII</head>
+      <head type="titulocapitulo">De cómo habían de escrebir a Su Majestad y enviar la relación</head>
+      <p>Cuando esto pasó, dieron muchas minutas los oficiales para que por ellas escribiesen a estos reinos contra el gobernador, para ponerle mal con todos, y ansí las escribieron, y para dar color a sus delitos, escribieron cosas que nunca pasaron ni fueron verdad; y al tiempo que se adobaba y fornesía el bergantín en que le habían de traer, los carpinteros y amigos hicieron con ellos que con todo el secreto del mundo cavasen un madero tan grueso como el muslo, que tenía tres palmos, y en este grueso le metieron un proceso de una información general que el <note ana="Álvar Núñez Cabeza de Vaca">gobernador</note> había hecho para enviar a Su Majestad, y otras escripturas que sus amigos habían escapado cuando le prendieron, que le importaban; y ansí, las tomaron y envolvieron en un encerado, y le enclavaron el madero en la popa del bergantín con seis clavos en la cabeza y pie, y decían los carpinteros que habían puesto aquello allí para fortificar el bergantín, y venía tan secreto, que todo el mundo no lo podía alcanzar a saber, y dio el carpintero el aviso de esto a un marinero que venía en él, para que, en llegando a tierra de promisión, se aprovechase de ello; y estando concertado que le habían de dejar ver antes que lo embarcasen, el <persName ref="historia-hispanica.rah.es/biografias/40062-juan-de-salazar-de-espinoza">capitán Salazar</persName> ni otros ningunos le vieron; antes, una noche, a media noche, vinieron a la prisión con mucha arcabucería, trayendo cada arcabucero tres mechas entre</p></div>
+    </body>
+  </text>
+</TEI>

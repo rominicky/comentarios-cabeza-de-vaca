@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+<idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="pb">pb 051</div>
+      
+      <p>y razones, paresciéndoles a ellos, por lo que de la tierra habían visto y andado, que podía ser ansí verdad, lo creyeron, y le rogaron que los mandase guiar a los pueblos de los guaraníes, porque los querían ver y hablar, de lo cual el indio se alteró y escandalizó mucho; y que con buen semblante y disimulado continente había respondido que los indios guaraníes eran sus enemigos y tenían guerra con ellos, y cada día se mataban unos a otros; que pues él era amigo de los cristianos, que no fuesen a buscar sus enemigos para tenerlos por amigos; y que si todavía quisiesen ir a ver los dichos indios guaraníes, que otro día de mañana los llevarían los suyos para que los hablasen. Ya, porque era noche, el mismo principal los llevó consigo a su casa, y allí les mandó dar de comer y sendas redes de algodón en que durmiesen, y les convidó que si quisiese cada uno su moza, que se la darían; pero no las quisieron, diciendo que venían cansados; y otro día, una hora antes del alba, comienzan tan gran ruido de atambores y bocinas, que parescía que se hundía el pueblo, y en aquella plaza que estaba delante de la casa principal se juntaron todos los indios, muy emplumados y aderezados a punto de guerra, con sus arcos y muchas flechas, y luego el principal mandó abrir la puerta de su casa para que los viese, y habría bien seiscientos indios de guerra; y el principal les dijo: «Cristianos, mira mi gente, que de esta manera van a los pueblos de los guaraníes; id con ellos, que ellos os llevarán y volverán, porque si fuésedes solos, mataron hían sabiendo que habéis estado en mi tierra y que sois mis amigos». Y los españoles, visto que de aquella manera no podrían hablar al principal de los guaraníes, y que sería ocasión de perder la amistad de los dichos xarayes, les dijeron que tenían determinado volverse a dar cuenta de todo a su principal, y que verían lo que les mandaría y volverían a se lo decir; y de esta manera se sosegaron los indios; y aquel día todo estuvieron en el pueblo de <placeName>los xarayes</placeName>, el cual sería de hasta mil vecinos; y a media legua y a una de allí había otros cuatro pueblos de la generación, que todos obedescían al dicho principal, el cual se llamaba <persName>Camire</persName>. Estos indios xarayes es gente crescida, de buena disposición; son labradores, y siembran y cogen dos veces en el año maíz y batatas y mandioca y mandubíes; crían patos en gran cantidad y algunas gallinas como las de nuestra <placeName>España</placeName>; horádanse los labios como los artaneses; cada uno tiene su casa por sí, donde viven con su mujer y hijos; ellos labran y siembran, las mujeres lo cogen y lo traen a sus casas, y son grandes hilanderas de algodón; estos indios crían muchos patos para que maten y coman los grillos, como digo antes de esto.</p>
+      
+      <p>CAPÍTULO LX</p>
+      <p>De cómo volvieron las lenguas de los indios xarayes</p>
+      <p>Estos indios xarayes alcanzan grandes pesquerías, ansí del río como de lagunas, y mucha caza de venados. <placeName>Habiendo</placeName> estado los españoles con el indio principal todo el día, le dieron los rescates y bonete de grana que el gobernador enviaba, con lo cual se holgó mucho y lo recebió con tanto sosiego, que fue cosa de ver y maravillar; y luego el indio principal mandó traer allí muchos penachos de plumas de papagayos y otros penachos, y los dio a los cristianos para que los trujesen al gobernador; los cuales eran muy galanes, y luego se despidieron del <persName>Camire</persName> para venirse, el cual mandó a veinte indios de los suyos que acompañasen a los cristianos; y ansí se salieron y los acompañaron hasta los pueblos de los indios artaneses, y de allí se volvieron a su tierra y quedó con ellos el guía que el principal les dio; el cual el gobernador <persName>recebió</persName> y le mostró mucho cariño; y luego con intérpretes de la guía guaraní quiso preguntar y interrogar al indio, para saber si sabía el camino de las poblaciones de <placeName>la tierra</placeName>, y le preguntó de qué generación era y dónde era natural. Dijo que era de la generación de los guaraníes y natural de <placeName>Itati</placeName>, que es en el río del <placeName>Paraguay</placeName>; y que siendo él muy mozo, los de su generación hicieron gran llamamiento y junta de indios de toda la tierra, y pasaron a la tierra y población de la tierra adentro, y él fue con su padre y parientes para hacer guerra a los naturales de ella, y les tomaron y robaron las planchas y joyas que tenían de oro y plata; y habiendo llegado a las primeras poblaciones, comenzaron luego a hacer guerra y matar muchos indios, y se despoblaron muchos pueblos y se fueron huyendo a recogerse a los pueblos de más adentro; y luego se juntaron las generaciones de toda aquella tierra y vinieron contra los de su generación, y desbarataron y mataron muchos de ellos, y otros se fueron huyendo por muchas partes y los indios enemigos lo siguieron y tomaron los pasos y mataron a</p>
+    </body>
+  </text>
+</TEI>

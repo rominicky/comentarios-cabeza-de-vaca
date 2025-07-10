@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+<idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <pb n="14" facs="14.jpg"/>
+    <div type="capitulo" n="11">
+      <head>CAPÍTULO XI</head> 
+      <head type="titulocapitulo">De cómo el gobernador caminó con canoas por el río de Iguazu, y por salvar un mal paso de un salto que el río hacia, llevó por tierra las canoas una legua a fuerza de brazos</head>
+      <p>Habiendo dejado el <note ana="Título otorgado a Cabeza de Vaca.">gobernador</note> los indios del río del <placeName ref="https://es.wikipedia.org/wiki/R%C3%ADo_Piquir%C3%AD">Piqueri</placeName> muy amigos y pacíficos, fue caminando con su gente por la tierra, pasando por muchos pueblos de indios de la generación de los <persName ref="https://pueblosoriginarios.com/sur/bosque_atlantico/guarani/cultura.html">guaraníes</persName>; todos los cuales les salían a recebir a los caminos con muchos bastimentos, mostrando grande placer contentamiento con su venida, y a los indios principales señores de los pueblos les daba muchos rescates, y hasta las mujeres viejas y niños salían a ellos los recebir, cargados de maíz y batatas, y asimismo de los otros pueblos de la tierra, que estaban a una jomada y a dos unos de otros, todos vinieron de la mesma forma a traer bastimentos; y antes de llegar con gran trecho a los pueblos por do habían de pasar, alimpiaban y desmontaban los caminos, y bailaban y hacían grandes regocijos de verlos; y lo que más acrescienta su placer y de que mayor contento resciben, es cuando las viejas se alegran, porque se gobiernan con lo que éstas les dicen y sonles muy obedientes, y no lo son tanto a los viejos. A postrero día del dicho mes de enero, yendo caminando por la tierra y provincia, llegaron a un río que se llama <placeName ref="https://es.wikipedia.org/wiki/R%C3%ADo_Iguaz%C3%BA">Iguazu</placeName>, y antes de llegar al río anduvieron ocho jornadas de tierra despoblada, sin hallar ningún lugar poblado de indios. Este río Iguazu es el primer río que pasaron al principio de la jornada cuando salieron de la costa del <placeName ref="Brasil">Brasil</placeName>. Llámase también por aquella parte Iguazu; corre del esteoeste; en él no hay poblado ninguno; tomóse el altura en veinte y cinco grados y medio. Llegados que fueron al río de Iguazu, fue informado de los indios naturales que el dicho río entra en el <placeName ref="https://es.wikipedia.org/wiki/R%C3%ADo_Paran%C3%A1">río del Paraná</placeName>, que asimismo se llama el <placeName ref="https://es.wikipedia.org/wiki/R%C3%ADo_de_la_Plata">río de la Plata</placeName>; y que entre este río del Paraná y el río de Iguazu mataron los indios a los portugueses que <persName ref="https://pueblosoriginarios.com/biografias/sousa.html">Martín Alfonso de Sosa</persName> envió a descubrir aquella tierra: al tiempo que pasaban el río en canoas dieron los indios en ellos y los mataron. Algunos de estos indios de la ribera del río Paraná, que ansí mataron a los portugueses, le avisaron al gobernador que los indios del río del Piqueri, que era mala gente, enemigos nuestros, y que les estaban aguardando para acometerlos y matarlos en el paso del río; y por esta causa acordó el gobernador, sobre acuerdo, de tomar y asegurar por dos partes el río, yendo él con parte de su gente en canoas por el río de Iguazu abajo y salirse a poner en el río del Paraná, y por la otra parte fuese el resto de la gente y caballos por tierra, y se pusiesen y confrontasen con la otra parte del río, para poner temor a los indios y pasar en las canoas toda la gente; lo cual fue así puesto en efecto; y en ciertas canoas que compró de los indios de la tierra se embarcó el gobernador con hasta ochenta hombres, y así se partieron por el río de Iguazu abajo, y el resto de la gente y caballos mandó que se fuesen por tierra, según está dicho, y que todos se fuesen a juntar en el río del Paraná. E yendo por el dicho río de <placeName key="Cataratas">Iguazu</placeName> abajo era la corriente de él tan grande, que corrían las canoas por él con mucha furia; y esto causólo que muy cerca de donde se embarcó da el río un <hi rend="bold">salto por unas peñas abajo muy altas</hi>, y da el agua en lo bajo de la tierra tan grande golpe, que de muy lejos se oye; y la espuma del agua, como cae con tanta fuerza, sube en alto dos lanzas y más, por manera que fue necesario salir de las canoas y sacallas del agua y llevarlas por tierra hasta pasar el <note ana="En su descripción Cabeza de Vaca refiere a las sorprendentes Cataratas del río Iguazú, que fueron bautizadas como 'saltos de Santa María'.">salto</note>, y a fuerza de brazos las llevaron más de media legua, en que se pasaron muy grandes trabajos; salvado aquel mal paso, volvieron a meter en el agua las dichas canoas y proseguir su viaje, y fueron por el dicho río abajo hasta que llegaron al río del Paraná y fue Dios servido que la gente y caballos que iban por tierra, y las canoas y gente, con el gobernador que en ellas iban, llegaron todos a un tiempo, y en la ribera del río estaba muy gran número de indios de la misma generación de los guaraníes, todos muy emplumados con plumas de papagayos y almagrados, pintados de muchas maneras y colores, y con sus arcos y flechas en las manos hecho un escuadrón de ellos, que era muy gran placer de los ver. Como llegó el gobernador y su gente (de la forma ya dicha), pusieron mucho temor a los indios, y estuvieron muy confusos, y comenzó por <note ana="De esta manera nombraban a los intérpretes que comunicaban al español los mensajes de los nativos.">lenguas</note> de los intérpretes a les hablar, y a derramar entre los <note ana="Jefes de los pueblos nativos.">principales</note> de ellos grandes rescates; y como fuese gente muy cobdiciosa y amiga de novedades, comenzáronse a sosegar y allegarse al gobernador y su gente, y muchos de los indios les ayudaron a pasar de la otra</p>
+     </div> 
+    </body>
+  </text>
+</TEI>

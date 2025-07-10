@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+            <idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <pb n="13" ="13.jpg"/>
+      <p>la gente, y contra la voluntad del gobernador echaron por otro camino; y después de esto, los hizo traer y recoger de ciertos lugares de indios donde se habían recogido, y es cierto que si no los mandara recoger y traer, se vieran en muy gran trabajo. En el día 10 de enero, yendo caminando, pasaron muchos ríos y arroyos y otros malos pasos de grandes sierras y montañas de cañaverales de mucha agua; cada sierra de las que pasaron tenía un valle de tierra muy excelente, y un río y otras fuentes y arboledas. En toda esta tierra hay muchas aguas, a causa de estar debajo del Trópico; el camino y derrota que hicieron estos dos días fue al oeste.</p>
+      <div type="capitulo" n="10">
+      <head>CAPÍTULO X</head>
+      <head type="titulocapitulo">Del miedo que los indios tienen a los caballos</head>
+      <p>A los 14 días del mes de enero, yendo caminando por entre lugares de indios de la generación de los <persName ref="https://pueblosoriginarios.com/sur/bosque_atlantico/guarani/cultura.html">guaraníes</persName>, todos los cuales los rescibieron con mucho placer, y los venían a ver y traer maíz, gallinas y miel y de los otros mantenimientos; y como el <note ana="Título de Álvar Núñez Cabeza de Vaca.">gobernador</note> se lo pagaba tanto a su voluntad, traíanle tanto, que lo dejaban sobrado por los caminos.</p>
+      <p>Toda esta gente anda desnuda en cueros, así los hombres como las mujeres; tenían muy gran temor de los caballos, y rogaban al gobernador que les dijese a los caballos que no se enojasen, y por los tener contentos los traían de comer; y así llegaron a un río ancho y caudaloso que se llama <placeName key="Iguazu">Iguatu</placeName>, el cual es muy bueno y de buen pescado y arboledas, en la ribera del cual está un pueblo de indios de la generación de los guaraníes, los cuales siembran su maíz y cazabi como en todas las otras partes por donde habían pasado, y los salieron a recebir como hombres que tenían noticia de su venida y del buen tratamiento que les hacían; y les trujeron muchos bastimentos, porque los tienen. En toda aquella tierra hay muy grandes piñales de muchas maneras, y tienen las piñas como ya está dicho atrás. En toda esta tierra los indios les servían porque siempre el gobernador les hacía buen tratamiento. Este Iguatu está de la banda del oeste en veinte y cinco grados; será tan ancho como el Guadalquivir. En la ribera del cual, según la relación hobieron de los naturales, y por lo que vio por vista de ojos, está muy poblado, y es la más rica gente de toda aquella tierra y provincia, de labrar y criar, porque crían muchas gallinas, patos y otras aves, y tienen mucha caza de puercos y venados, y dantas y perdices, codornices y faisanes, y tienen en el río gran pesquería, y siembran y cogen mucho maíz, batatas, cazabi, mandubies, y tienen otras muchas frutas, y de los árboles cogen gran cantidad de miel. Estando en este pueblo, el gobernador acordó de escrebira los oficiales de Su Majestad, y capitanes y gentes que residían en la ciudad de la <placeName key="asuncion">Ascensión</placeName>, haciéndoles saber cómo por mandado de Su Majestad los iba a socorrer, y envió dos indios naturales de la tierra con la carta. Estando en este río del <placeName ref="https://es.wikipedia.org/wiki/R%C3%ADo_Piquir%C3%AD">Piqueri</placeName> una noche mordió un perro en una pierna a un Francisco Orejón, vecino de Ávila, y también allí le adolescieron otros catorce españoles, fatigados del largo camino; los cuales se quedaron con el Orejón que estaba mordido del perro, para venirse poco a poco; y el gobernador les encargó a los indios de la tierra para que los favoresciesen y mirasen por ellos, y los encaminasen para que pudiesen venirse en su seguimiento estando buenos; y porque tuviesen voluntad de lo hacer dio al principal del pueblo y a otros indios naturales de la tierra y provincia, muchos rescates, con que quedaron muy contentos los indios y su principal. En todo este camino y tierra por donde iba el gobernador y su gente haciendo el descubrimento hay grandes campiñas de tierras, y muy buenas aguas, ríos, arroyos y fuentes, y arboledas y sombras, y la más fértil tierra del mundo, muy aparejada para labrar y criar, y mucha parte de ella para ingenios de azúcar, y tierra de mucha caza, y la gente que vive en ella, de la generación de los guaraníes; comen carne humana, y todos son labradores y criadores de patos y gallinas, y toda gente muy doméstica y amiga de cristianos, y que con poco trabajo vernán en conoscimiento de nuestra santa fe católica, como se ha visto por experiencia; y según la manera de la tierra, se tiene por cierto que si minas de plata ha de haber, ha de ser allí.</p>
+    </div>
+  </body>
+  </text>
+</TEI>

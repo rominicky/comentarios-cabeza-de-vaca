@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno><idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <pb n="69" facs="69.jpg"/>
+    <div type="capitulo" n="83">
+    <p>los dedos, por que paresciese que era mucha arcabucería; y ansí entraron en la cámara donde estaba preso el veedor <persName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/88">Alonso Cabrera</persName> y el factor <persName ref="https://historia-hispanica.rah.es/biografias/34077-pedro-de-orantes">Pedro Dorantes</persName>, y le tomaron por los brazos y le levantaron de la cama con los grillos, como estaba muy malo, casi la candela en la mano, y ansí le sacaron hasta la puerta de la calle; y como vio el cielo (que hasta entonces no lo había visto), rogóles que le dejasen dar gracias a Dios; y como se levantó, que estaba de rodillas, trujéronle allí dos soldados de buenas fuerzas para que lo llevasen en los brazos a le embarcar, porque estaba muy flaco y tollido; y como le tomaron, y se vio entre aquella gente, díjoles: «Señores, sed testigos que dejo por mi lugarteniente al capitán <persName ref="https://historia-hispanica.rah.es/biografias/40062-juan-de-salazar-de-espinoza">Juan de Salazar de Espinosa</persName>, para que por mí, y en nombre de <persName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/20">Su Majestad</persName>, tenga esta tierra en paz y justicia hasta que Su Majestad provea lo que más servido sea.» Y como acabó de decir esto, <persName ref="https://historia-hispanica.rah.es/biografias/44762-garci-venegas">Garci-Vanegas</persName>, teniente de tesorero, arremetió con un puñal en la mano, diciendo: «No creo en tal, si al mentáis, si no os saco el alma», y aunque el <persName ref="https://historia-hispanica.rah.es/biografias/9096-alvar-nunez-cabeza-de-vaca">gobernador</persName> estaba avisado que no lo dijese en aquel tiempo, porque estaban determinados de le matar, porque era palabra muy escandalosa para ellos y para los que de parte de Su Majestad le tirasen de sus manos, porque estaban todos en la calle; y apartándose Garci-Vanegas un poco, tornó a decir las mismas palabras; y entonces Garci-Vanegas arremetió al gobernador con mucha furia, y púsole el puñal a la sien, diciendo: «No creo en tal (como de antes), si no os doy de puñaladas», y dióle en la sien una herida pequeña; y dio con los que le llevaban en los brazos tal rempujón, que dieron con el <note ana="Álvar Núñez Cabeza de Vaca">gobernador</note> y con ellos en el suelo, y el uno de ellos perdió la gorra; y como pasó esto, le llevaron con toda priesa a embarcar al bergantín; y ansí, le cerraron con tablas la popa de él; y estando allí, le echaron dos candados que no le dejaban lugar para rodearse, y ansí se hicieron al largo el río abajo. Dos días después de embarcado el gobernador, ido el río abajo, <persName ref="https://historia-hispanica.rah.es/biografias/29465-domingo-martinez-de-irala">Domingo de Irala</persName> y el contador <persName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/132">Felipe de Cáceres</persName> y el factor <persName ref="https://historia-hispanica.rah.es/biografias/34077-pedro-de-orantes">Pedro Dorantes</persName> juntaron sus amigos y dieron en la casa del capitán Salazar, y lo prendieron a él y a <persName ref="https://historia-hispanica.rah.es/biografias/16219-pedro-estupinan-y-cabeza-de-vaca">Pedro de Estopiñán Cabeza de Vaca</persName>, y los echaron prisioneros y metieron en un bergantín, y vinieron el río abajo hasta que llegaron al bergantín a do venía el gobernador, y con él vinieron presos a <placeName key="Castilla">Castilla</placeName>; y es cierto que si el capitán Salazar quisiera, el gobernador no fuera preso, ni menos pudieran sacallo de la tierra ni traello a Castilla; mas, como quedaba por teniente, desimulólo todo; y viniendo ansí, rogó a los oficiales que le dejasen traer dos criados suyos para que le sirviesen por el camino y le hiciesen de comer, y ansí, metieron los dos criados, no para que le sirviesen, sino para que viniesen bogando cuatrocientas leguas el río abajo, y no hallaban hombre que quisiese venir a traerle, y a unos traían por fuerza, y otros se venían huyendo por la tierra adentro, a los cuales tomaron sus haciendas, las cuales daban a los que traían por fuerza, y en este camino los oficiales hacían una maldad muy grande, y era que, al tiempo que le prendieron, otro día y otros tres andaban diciendo a la gente de su parcialidad y otros amigos suyos mil males del gobernador, y al cabo les decían: «¿Qué os parece? ¿Hecimos bien por vuestro provecho y servicio de Su Majestad? Y pues ansí es, por amor de mí que echéis una firma aquí al cabo de este papel.» Y de esta manera hinchieron cuatro manos de papel, y viniendo el río abajo, ellos mesmos decían y escribían los dichos contra el gobernador, y quedaban los que lo firmaron trecientas leguas el río arriba en la ciudad de la <placeName key="Asunción">Ascensión</placeName>; y de esta manera fueron las informaciones que enviaron contra el gobernador.</p></div>
+    <div type="capitulo" n="84">
+    <head>CAPÍTULO LXXXIV</head>
+    <head type="titulocapitulo">Cómo dieron rejalgar tres veces al gobernador viniendo en este camino</head>
+    <p>Viniendo el río abajo mandaron los oficiales a un Machín, vizcaíno, que le guisase de comer al gobernador, y después de guisado lo diese a un Lope Duarte, aliados de los oficiales y de <persName ref="https://historia-hispanica.rah.es/biografias/29465-domingo-martinez-de-irala">Domingo de Irala</persName>, y culpados como todos los otros que le prendieron, y venía por solicitador de Domingo de Irala, y para hacer sus negocios acá; y viniendo ansí debajo de la guarda y amparo de éstos, le dieron tres veces rejalgar; y para remedio de esto traía consigo una botija de aceite y un pedazo de unicornio, y cuando sentía algo se aprovechaba de estos remedios de día y de noche con muy gran trabajo y grandes gómitos, y plugo a Dios que escapó de ellos; y otro día rogó a los oficiales que le traían, que eran <persName ref="https://historia-hispanica.rah.es/biografias/8883-alonso-cabrera">Alonso Cabrera</persName> y <persName ref="https://historia-hispanica.rah.es/biografias/44762-garci-venegas">Garci-Vanegas</persName>, que le dejasen guisar de comer a sus criados, porque de ninguna mano de otra persona no lo había de tomar. Y ellos le respondieron que lo</p>
+    </div>
+    </body>
+  </text>
+</TEI>

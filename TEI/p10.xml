@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="alvar">Comentarios del mismo de lo sucedido durante su Gobierno del Rio de la Plata</title>
+        <author>Álvar Núñez Cabeza de Vaca</author>
+        <editor resp="digital">Romina De León</editor>
+        <sponsor>LLILAS Benson</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LLILAS Benson Digital Scholarship Fellowship</publisher>
+        <availability>
+          <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Historiadores Primitivos de las Indias Occidentales</title>
+          <biblScope unit="volume">Tomo I</biblScope>
+          <author>Andrés González Barcía Carballido y Zúñiga</author>
+          <editor>Joaquín Ibarra y Juan de Zúñiga</editor>
+          <date>1749</date>
+          <pubPlace>Madrid, España</pubPlace>
+          <objectIdentifier>
+            <institution>Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin</institution>
+            <idno>utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+            <idno type="url">https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8</idno>
+          </objectIdentifier>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <pb n="10" ="10.jpg"/>
+      <div type="capitulo" n="7">
+      <head>CAPÍTULO VII</head>
+      <head type="titulocapitulo">Que trata de lo que pasó el gobernador y su gente por el camino, y de la manera de la tierra</head>
+      <p>De aqueste río, llamado <placeName key="Iguazu">Iguazu</placeName>, el <persName ana="Título que ostentaba Álvar Núñez Cabeza de Vaca.">gobernador</persName>, y su gente pasaron adelante, descubriendo tierra; y a tres días del mes de diciembre llegaron a un río que los indios llaman <placeName key="Rio Tibagi">Tibagi</placeName>. Es un río enladrillado de losas grandes, solado, puestas en tanta orden, y concierto, como si a mano se hobieran puesto. En pasar de la otra parte de este río, se rescibió gran trabajo, porque la gente, y caballos resbalaban por las piedras, y no se podían tener sobre los pies, y tomaron por remedio pasar asidos unos a otros; y aunque el río no era muy hondable, corría el agua con gran furia, y fuerza. De dos leguas cerca de este río vinieron los indios con mucho placer, a traer a la hueste bastimentos para la gente: por manera, que nunca les faltaba de comer, y aun a veces lo dejaban sobrado por los caminos. Lo cual causó dar el gobernador a los indios tanto, y ser con ellos tan largo, especialmente con los principales, que demás de pagarles los mantenimientos, que le traían, les daba graciosamente muchos rescates, y les hacía muchas mercedes, y todo buen tratamiento: en tal manera, que corría la fama por la tierra, y provincia, y todos los naturales perdían el temor, y venían a ver, y traer todo lo que tenían, y se lo pagaban (según es dicho). Este mismo día, estando cerca de otro lugar de indios, que su principal señor se dijo llamar <persName ana="Principal de otra parcialidad guaraní.">Tapapirazu</persName>, llegó un indio, natural de la costa del <placeName key="Brasil">Brasil</placeName>, que se llamaba <persName ana="Este indígena, que había llegado de Asunción, era conocedor de la zona, se infiere que también bilingüe, por ello Cabeza de Vaca lo eligió como guía del grupo.">Miguel</persName>, nuevamente convertido, el cual venía de la ciudad de la <placeName key="asuncion">Ascensión</placeName>, donde residían los españoles, que iban a socorrer, el cual se venía a la costa del Brasil, porque había mucho tiempo que estaba con los españoles, con el cual se holgó mucho el gobernador, porque de él fue bien informado del estado en que estaba la provincia, y los españoles, y naturales de ella, por el muy grande peligro en que estaban los españoles, a causa de la muerte de <persName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/64">Juan de Ayolas</persName>, como de otros capitanes, y gente, que los indios habían muerto; y habida relación de este indio, de su propia voluntad quiso volverse en compañía del gobernador a la ciudad de la Ascensión, de donde él se venía, para guiar la gente, y avisar del camino por donde habían de ir; y dende aquí el gobernador mandó despedir y volver los indios, que salieron de la <placeName key="santacatalina">isla de Santa Catalina</placeName> en su compañía. Los cuales, así por los buenos tratamientos que les hizo, como por las muchas dádivas que les dio, se volvieron muy contentos, y alegres.</p>
+      <p>Y porque la gente, que en su compañía llevaba el gobernador, era falta de experiencia, porque no hiciesen daños, ni agravios a los indios, mandóles, que no contratasen, ni comunicasen con ellos, ni fuesen a sus casas, y lugares, por ser tal su condición de los indios, que de cualquier cosa se alteran, y escandalizan, de donde podía resultar gran daño, y desasosiego en toda la tierra: y asimesmo mandó, que todas las personas que los entendían, que traía en su compañía, contratasen con los indios, y les comprasen los bastimentos para toda la gente, todo a costa del gobernador; y así, cada día repartía entre la gente los bastimentos, por su propia persona, y se los daba graciosamente, sin interés alguno.</p>
+      <p>Era cosa muy de ver, cuán temidos eran los caballos por todos los indios de aquella tierra, y provincia, que del temor que les habían, les sacaban al camino para que comiesen muchos mantenimientos, gallinas, y miel, diciendo, que porque no se enojasen, que ellos les darían muy bien de comer; y por los sosegar, que no desamparasen sus pueblos, asentaban el real muy apartado de ellos, y porque los cristianos no les hiciesen fuerzas, ni agravios. Y con esta orden, y viendo que el gobernador castigaba a quien en algo los enojaba, venían todos los indios tan seguros con sus mujeres, y hijos, que era cosa de ver; y de muy lejos venían cargados con mantenimientos, sólo por ver los cristianos, y los caballos, como gente que nunca tal había visto pasar por sus tierras.</p>
+      <p>Yendo caminando por la tierra, provincia el gobernador, y su gente, llegó a un pueblo de indios de la generación de los <persName ref="https://pueblosoriginarios.com/sur/bosque_atlantico/guarani/cultura.html">guaraníes</persName>, y salió el señor principal de este pueblo al camino con toda su gente, muy alegre a rescebillo, y traían miel, patos, y gallinas, y harina, y maíz; y por lengua de los intérpretes les mandaba hablar, y sosegar, agradesciéndoles su venida, pagándoles lo que traían, de que recebía mucho contentamiento; y allende de esto, al principal de este pueblo, que se decía <persName ana="Principal de una parcialiadad guraní.">Pupebaje</persName>, mandó dar graciosamente algunos rescates de tijeras, y cuchillos, y otras cosas, y de allí pasaron, prosiguiendo el camino, dejando los indios de este </p></div>
+    </body>
+  </text>
+</TEI>
