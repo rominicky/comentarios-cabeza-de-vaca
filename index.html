@@ -35,7 +35,7 @@ layout: home
       </div>
     <h3>Actualizar</h3>
     <br/>
-      La presente edición digital parte del texto publicado por LLilas Benson, buscando enriquecer la experiencia lectora con un <a href="url" target="_blank">mapa interactivo</a> del itinerario de  a las tierras de sur de América, una <a href="url" target="_blank">edición digital</a> enriquecida con anotaciones, y <a href="url" target="_blank">recursos</a> de interés del orden de lo cualitativo y lo cuantitativo (notebooks, visualizaciones y un vocabulario controlado).
+      La presente edición digital parte del texto publicado por LLilas Benson, buscando enriquecer la experiencia lectora con un <a href="{{ site.baseurl }}/itinerario" target="_blank">mapa interactivo</a> del itinerario de  a las tierras de sur de América, una <a href="{{ site.baseurl }}/indice" target="_blank">edición digital</a> enriquecida con anotaciones, y <a href="{{ site.baseurl }}/recursos" target="_blank">recursos</a> de interés del orden de lo cualitativo y lo cuantitativo (notebooks, visualizaciones y análisis histórico).
       <br/><br/>
       Esta edición se comparte a través de la licencia <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">Creative Commons 4.0 (CC BY 4.0)</a>
       <br/></div>
@@ -43,9 +43,12 @@ layout: home
       <br/>
       <h4>Citar esta edición como:</h4>
       <br/><br/>
-      De León, Romina (eds.). (2025). Comentarios</i>. HD LAB <a href="{{ site.baseurl }}/">url</a> [Fecha de consulta]</p>
+      De León, Romina (Ed.). (2025)</i>. HD LAB <a href="{{ site.baseurl }}/">. Comentarios.</a> [Fecha de consulta: <span id="fecha-consulta"></span>]</p>
+      <script>
+        document.getElementById('fecha-consulta').textContent = new Date().toLocaleDateString();
+      </script>
 
-      <p>Repositorio de datos: <a class="no-underline" href="zenodo"><img src="https://zenodo.org/badge/7545497.svg" alt="DOI"></a></p>
+      <p>Repositorio de datos: <a href="https://doi.org/10.5281/zenodo.15859071"><img src="https://zenodo.org/badge/1005883457.svg" alt="DOI"></a></p>
     </p>
   </div>
 </div>
