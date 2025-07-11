@@ -17,7 +17,7 @@ type: texto
   {% assign textos_ordenados = site.txtxpagina | sort: "title" %}
   {% for texto in textos_ordenados %}
     {% if texto != "p" %}
-    <a class="no-underline " href="{{ texto.url }}" >
+    <a class="no-underline " href="{{ texto.url | relative_url }}" >
       <h2 class="indice-chapter">{{ texto.chapter }}</h2> <!-- Muestra Chapter -->
       <h5 class="indice-link no-underline">{{ texto.title }}</h5>   <!-- Muestra Title -->
     </a>
