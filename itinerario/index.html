@@ -3,6 +3,8 @@
 <head>
   <meta charset="utf-8">
   <title>Itinerario</title>
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
+
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 
   <link rel="stylesheet" href="style.css" />
@@ -162,7 +164,26 @@ function setupScrollNavigation(data) {
   // Función fuera de Papa.parse para que no esté anidada
 function addMarkers(data) {
   data.forEach((chapter, index) => {
-    const marker = L.marker([parseFloat(chapter.lat), parseFloat(chapter.lon)])
+    if (chapter.marker_type === 'hidden') {
+      return; // no agregar marcador
+    }
+
+    let iconOptions = {};
+
+    if (chapter.marker_type === 'plain') {
+      iconOptions = {}; // marcador Leaflet por defecto
+    } else {
+      iconOptions = {
+        icon: L.divIcon({
+          className: 'custom-icon',
+          html: `<i class="fas fa-map-marker-alt" style="color: ${chapter.marker_color || 'purple'}; font-size: 24px;"></i>`,
+          iconSize: [24, 24],
+          iconAnchor: [12, 24]
+        })
+      };
+    }
+
+    const marker = L.marker([parseFloat(chapter.lat), parseFloat(chapter.lon)], iconOptions)
       .addTo(map)
       .bindPopup(`<strong>${chapter.chapter}</strong>`);
 
@@ -174,6 +195,7 @@ function addMarkers(data) {
     });
   });
 }
+
 </script>
 <!-- 
 <a href="imagen-grande.jpg" data-lightbox="storymap">

@@ -16,6 +16,7 @@ icon: book
 ### Artículos
 
 * Candela, G. (2014). [Corpus indígenas en la Conquista del Paraguay (Siglo xvi). Corpus](https://doi.org/10.4000/corpusarchivos.718). Archivos virtuales de la alteridad americana, 4(1). 
+* Maura, J. (2016). [Nuevas aportaciones sobre la muerte de Alvar Núñez Cabeza de Vaca en Valladolid y la autoría del "Prohemio" de Comentarios](https://www.redalyc.org/journal/5717/571763480006/). Revista Chakiñan de Ciencias Sociales y Humanidades,1.
 
 ### Libros
 

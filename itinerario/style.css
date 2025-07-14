@@ -56,3 +56,6 @@ body {
   align-items: center;
   gap: 0.5em;
 }
+.custom-icon i {
+  text-shadow: 0 0 3px white;
+}

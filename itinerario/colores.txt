@@ -1,0 +1,170 @@
+tonos extendidos por color principal:
+🔴 Rojos y rosas
+
+    lightcoral
+
+    salmon
+
+    darksalmon
+
+    indianred
+
+    crimson
+
+    firebrick
+
+    darkred
+
+    deeppink
+
+    hotpink
+
+    lightpink
+
+    palevioletred
+
+    mediumvioletred
+
+🔵 Azules
+
+    lightblue
+
+    skyblue
+
+    deepskyblue
+
+    dodgerblue
+
+    cornflowerblue
+
+    steelblue
+
+    royalblue
+
+    mediumblue
+
+    darkblue
+
+    navy
+
+    midnightblue
+
+    slateblue
+
+    mediumslateblue
+
+🟢 Verdes
+
+    lightgreen
+
+    limegreen
+
+    mediumseagreen
+
+    seagreen
+
+    forestgreen
+
+    darkgreen
+
+    yellowgreen
+
+    chartreuse
+
+    springgreen
+
+    mediumspringgreen
+
+    palegreen
+
+    olive
+
+🟡 Amarillos y naranjas
+
+    lightyellow
+
+    lemonchiffon
+
+    papayawhip
+
+    moccasin
+
+    peachpuff
+
+    gold
+
+    orange
+
+    darkorange
+
+    coral
+
+    tomato
+
+    orangered
+
+🟣 Violetas, púrpuras y lavandas
+
+    lavender
+
+    thistle
+
+    plum
+
+    orchid
+
+    mediumorchid
+
+    violet
+
+    mediumvioletred
+
+    purple
+
+    indigo
+
+    darkorchid
+
+    darkviolet
+
+    blueviolet
+
+⚫ Grises, neutros y negros
+
+    lightgray
+
+    silver
+
+    darkgray
+
+    gray
+
+    dimgray
+
+    slategray
+
+    darkslategray
+
+    black
+
+🤍 Blancos y cremas
+
+    white
+
+    snow
+
+    honeydew
+
+    mintcream
+
+    azure
+
+    aliceblue
+
+    ghostwhite
+
+    floralwhite
+
+    linen
+
+    oldlace
