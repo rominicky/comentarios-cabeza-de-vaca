@@ -26,12 +26,11 @@ Aquí encontrarás un *storymap* que combina narrativa textual, fuentes históri
 ## ⚙️ ¿Cómo funciona?
 
 1. **Carga de datos XML**: los archivos en `/TEI/` contienen los contenidos estructurados, con metadatos y coordenadas.
-2. **Transformación a HTML**: se generan páginas individuales `*.html`.
+2. **Transformación a HTML**: se generan páginas individuales `*.html` mediante Saxon.
 3. **Mapas interactivos**: cada entrada puede incluir una burbuja geolocalizada con contexto y enlaces.
 
 ## 🛠️ Personalización
 
-- Modificá los íconos en `/assets/img/icon/`
 - Editá los XML en `/TEI/` para actualizar contenidos
 - Personalizá estilos en `/assets/css/` y scripts en `/assets/js/`
 

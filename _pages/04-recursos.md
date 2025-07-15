@@ -15,7 +15,7 @@ type: extras
         <path fill-rule="evenodd" d="M2.5 4.5a2 2 0 1 1 4 0 2 2 0 0 1-4 0zm2-1a1 1 0 1 0 0 2 1 1 0 0 0 0-2z"/>
       </svg> <a class="no-underline" title="Análisis textual estadístico" href="https://mybinder.org/v2/gh/rominicky/comentarios-cabeza-de-vaca/daeaf235489abcf42d0ba9addfd51e1d4c630e50?urlpath=lab%2Ftree%2Fassets%2Fnotebook%2Fexploracion_textual.ipynb" target="_blank">Notebook</a>
   </h2>
-  <a class="h3 lh-condensed" href="notehttps://mybinder.org/v2/gh/rominicky/comentarios-cabeza-de-vaca/daeaf235489abcf42d0ba9addfd51e1d4c630e50?urlpath=lab%2Ftree%2Fassets%2Fnotebook%2Fexploracion_textual.ipynbbook" target="_blank"><p>Exploración y análisis cuantitativo de la obra de Álvar Núñez Cabeza de Vaca</p></a></div>
+  <a class="h3 lh-condensed" href="" target="_blank"><p>Exploración y análisis cuantitativo de la obra de Álvar Núñez Cabeza de Vaca</p></a></div>
 
   {% for post in site.recursos %}
     {% include post_block.html %}
