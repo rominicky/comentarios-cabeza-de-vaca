@@ -71,24 +71,24 @@ footer .container {
 
 h2.indice-chapter {
   text-align: left; 
-   text-decoration: none; /* Sin subrayado normalmente */
+  font-size: 1.4rem;
 }
 
-h2.indice-chapter:hover {
-  text-decoration: underline; /* Subrayado solo al pasar el mouse */
-}
-h5.indice-link {
-  color: #222;
-  text-decoration: none; 
-  text-align: left;  
-}
-h5.indice-link:hover {
-  color: #764693; 
-  background-color: #f0f0f0;  /* Color al pasar el mouse */
+h5.indice-title {
+  text-align: left;    
 }
 
+a.indice-link {
+  position: relative;
+  color: inherit;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
 
-
+a.indice-link:hover {
+  color: #764693;
+  text-decoration: underline;
+}
 
 
 /* Responsive para móviles */
@@ -136,20 +136,6 @@ a:hover {
   background-color: #e0cce0;
   color: #222; // 
 }
-
-a.indice-link:hover {
-  background-color: #764693;
-  color: #000;
-  border-radius: 0.25rem;
-  padding: 0.25rem;
-}
-.indice-link:hover {
-  background-color: #f3eaff;
-  border-left: 4px solid #764693;
-  color: #222;
-  text-decoration: none;
-}
-
 
 a.highlight:hover {
   background-color: #e0cce0;

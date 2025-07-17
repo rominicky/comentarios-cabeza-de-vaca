@@ -5,22 +5,30 @@ permalink: /indice/
 type: texto
 ---
 
+<p>Esta edición digital presenta una selección puntual de páginas del manuscrito original de los <a href="https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8" target="_blank"><strong>Comentarios</strong> de Álvar Núñez Cabeza de Vaca</a>, orientada a destacar los momentos más significativos del trayecto como segundo adelantado en la región de Paraguay y del Río de la Plata, con énfasis en los aspectos políticos, territoriales y sociales que marcaron su experiencia americana. Se acentúan tres núcleos temáticos claves:</p>
+<p>
+  <ol>1. La capitulación real y nombramiento como adelantado, que le brindaron atribuciones jurisdiccionales y militares sobre las provincias de Paraguay y el Río de la Plata.</ol>
+  <ol>2. El viaje terrestre hacia Asunción, que incluye el cruce del río Iguazú y el "descubrimiento" de las Cataratas homónimas, evidencia un testimonio del reconocimiento territorial y del esfuerzo logístico realizado.</ol>
+  <ol>3. El conflicto con Domingo Martínez de Irala, que culminó en su destitución y traslado a España, reflejando las tensiones políticas y la resistencia local a su estilo de gobierno.</ol>
+</p></div>
 <div class="alert alert-warning" role="alert">
   <h4 class="alert-heading">Anotaciones</h4>Para hacer anotaciones en esta edición, use el <strong>botón "Anotar"</strong> de la barra de navegación. Luego de hacer click, seleccione el texto de su interés y podrá hacer resaltados y asociar notas.
   <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
 </div>
 
-<h2 style="text-align-last: left;">Índice</h2>
-<div class="col-1 sm-width-full border-top-thin py-2" ></div>
+<h2 class="text-2xl font-semibold mb-1" style="text-align-last: left;">Índice</h2>
+<div class="col-1 sm-width-full border-top-thin py-0"></div>
 
-<div class="py-1 mb-0 prose">
+<div class="py-0 mb-0 prose">
   {% assign textos_ordenados = site.txtxpagina | sort: "title" %}
   {% for texto in textos_ordenados %}
     {% if texto != "p" %}
-    <a class="no-underline " href="{{ texto.url | relative_url }}" >
-      <h2 class="indice-chapter">{{ texto.chapter }}</h2> <!-- Muestra Chapter -->
-      <h5 class="indice-link no-underline">{{ texto.title }}</h5>   <!-- Muestra Title -->
-    </a>
+    <a class="indice-link" href="{{ texto.url | relative_url }}">
+        <h2 class="indice-chapter">{{ texto.chapter }}</h2>
+      </a>
+      <a class="indice-link" href="{{ texto.url | relative_url }}">
+        <h5 class="indice-title">{{ texto.title }}</h5>
+      </a>
     
     {% endif %}
   {% endfor %}

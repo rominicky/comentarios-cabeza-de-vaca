@@ -32,15 +32,24 @@
     }
     button:hover { background-color: #8e5edd; }
   </style>
+
+
 </head>
 <body>
-
-<div class="container mx-auto px-2 py-2 clearfix">
-      <a class="inicio-container" style="color:#591884;" href="/comentarios-cabeza-de-vaca/">
-        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-left" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M15 8a.5.5 0 0 0-.5-.5H2.707l3.147-3.146a.5.5 0 1 0-.708-.708l-4 4a.5.5 0 0 0 0 .708l4 4a.5.5 0 0 0 .708-.708L2.707 8.5H14.5A.5.5 0 0 0 15 8z"/></svg>
-        <span class="h5">Inicio</span>
-      </a>
-    </div>
+<!-- Navigation bar -->
+<div class="topnav">
+  <!-- the navigation links -->
+  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+    <i class="fa fa-bars"></i>
+  </a>
+  <!-- Navigation links -->
+ <div id="navbar">
+    <a href="https://rominicky.github.io/comentarios-cabeza-de-vaca/">Inicio</a>
+    <a href="https://rominicky.github.io/comentarios-cabeza-de-vaca/indice/">Edición Digital</a>
+    <a href="http://hdlab.space/biblioteca-digital">Biblioteca Digital</a>
+    <a href="https://rominicky.github.io/comentarios-cabeza-de-vaca/recursos/">Recursos</a>
+  </div>
+</div>
 
 <div id="container">
   <div id="story">
@@ -154,7 +163,7 @@ function setupScrollNavigation(data) {
 function addMarkers(data) {
   data.forEach((chapter, index) => {
     if (chapter.marker_type === 'hidden') {
-      return; // no agregar marcador
+      return; 
     }
 
     let iconOptions = {};
@@ -186,10 +195,12 @@ function addMarkers(data) {
 }
 
 </script>
-<!-- 
-<a href="imagen-grande.jpg" data-lightbox="storymap">
-  <img src="imagen-pequeña.jpg" alt="Descripción" />
-</a> -->
+<script>
+function myFunction() {
+    var x = document.getElementById("navbar");
+    x.classList.toggle("show");
+  } 
+</script>
 
 </body>
 </html>
