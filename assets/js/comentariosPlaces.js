@@ -117,7 +117,7 @@ var Places = {
   "Puerto de las Piedras": [-24.01000,-57.967333],
   "puerto de Santos": [-23.5475,-46.6361],
   "puerto de Vera": [-27.2481,-50.4858],
-  "Puerto los Reyes": [-18.0000,-57.2500],
+  "Puerto los Reyes": [-18.0344414,-57.51496],
   "Puerto Jejui": [-24.1181368,-57.0968478],
   "Puerto Pico": [40.6572,-4.6995],
   "Puna": [-2.7391,-79.9096],
