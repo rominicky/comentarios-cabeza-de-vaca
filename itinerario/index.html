@@ -8,6 +8,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 
   <link rel="stylesheet" href="/comentarios-cabeza-de-vaca/itinerario/style-v2.css" />
+  
   <!-- Leaflet CSS -->
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
   <!-- FontAwesome -->
@@ -32,7 +33,6 @@
     }
     button:hover { background-color: #8e5edd; }
   </style>
-
 
 </head>
 <body>
@@ -190,6 +190,47 @@ function addMarkers(data) {
   });
 }
 
+</script>
+
+<footer style="background: #9f96a1; color: #ccc; padding: 1em 0.7em; font-size: 0.9rem; line-height: 0.7;">
+  <div style="
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2em;
+  ">
+
+      <!-- Columna izquierda -->
+    <div style="flex: 1 1 300px; max-width: 225px;">
+      <p style="margin-top: 0; color: #fff;">Esta edición es mantenida por</p>
+      <p style="margin-top: 0; color: #fff;">Romina De León (HD LAB-CONICET)</p>
+      <div style="margin-top: 0em;">
+        <a href="https://twitter.com/rominickyDL" title="Twitter" style="margin-right: 0.5em; "><i class="fab fa-twitter fa-lg"></i></a>
+        <a href="https://www.facebook.com/rominicky.dl/" title="Facebook" style="margin-right: 0.5em; "><i class="fab fa-facebook-f fa-lg"></i></a>
+        <a href="https://discord.com/users/rominicky" title="Discord" style="margin-right: 0.5em; "><i class="fab fa-discord fa-lg"></i></a>
+        <a href="https://github.com/rominicky" title="GitHub" style="margin-right: 0.5em; "><i class="fab fa-github fa-lg"></i></a>
+        <a href="mailto:romideleon@gmail.com" title="Email" style=""><i class="fas fa-envelope fa-lg"></i></a>
+      </div>
+    </div>
+
+    <!-- Columna derecha centrada -->
+    <div style="flex: 1 1 300px; max-width: 750px; text-align: center;">
+      <div>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Conicet_Logo_con_letras.png" alt="CONICET" class="invert" style="max-height: 50px; margin-bottom: 1em;">
+      </div>
+      <p style="margin-top: 0; color: #fff;">Edición digital de <a href="https://rominicky.github.io/comentarios-cabeza-de-vaca/" style="color: #fff; text-decoration: underline;">Comentarios</a></p>
+      <p style="margin-top: 0; color: #fff;">Licencia Creative Commons <span id="get-current-year"></span>
+        <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" style="color: #fff; text-decoration: underline;">
+          (CC BY-NC-SA 4.0)
+        </a>
+      </p>
+    </div>
+  </div>
+</footer>
+
+<script>
+  document.getElementById('get-current-year').textContent = new Date().getFullYear();
 </script>
 </body>
 </html>

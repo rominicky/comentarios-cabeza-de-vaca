@@ -42,7 +42,10 @@ theme_color: light
 markdown: kramdown
 
 include:
+  - itinerario
+  - _includes
   - favicon.ico
+
   
 collections:
     pages:
