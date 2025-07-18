@@ -16,7 +16,7 @@
     <i class="fab fa-reddit fa-lg"></i>
   </a>
   <a class="p-1 mr-1 rounded-full text-white share-button" target="_blank" rel="noopener" href="https://wa.me/?text={{ page.title | uri_escape | append: '%20' | append: site.url }}" aria-label="Share on Whatsapp" draggable="false">
-    <i class="fab fa-twitter fa-lg"></i>
+    <i class="fab fa-whatsapp fa-lg"></i>
   </a>
   <a class="p-1 mr-1 rounded-full text-white share-button" target="_blank" rel="noopener" href="https://telegram.me/share/url?text={{ page.title | uri_escape }}&url={{ site.url | uri_escape | append: page.url }}" aria-label="Share on Telegram" draggable="false">
     <i class="fab fa-telegram fa-lg"></i>
@@ -24,11 +24,20 @@
   <a class="p-1 mr-1 rounded-full text-white share-button" target="_blank" rel="noopener" href="mailto:?subject={{ page.title | uri_escape }}&body={{ site.url | uri_escape | append: page.url }}" aria-label="Share by Email" draggable="false">
     <i class="fas fa-envelope fa-lg"></i>
   </a>
-  <a class="p-1 mr-1 rounded-full text-white share-button" target="_blank" rel="noopener" href="https://www.github.com/intent/user?source=web&url={{ site.url | uri_escape | append: page.url }}&description={{ page.title }}" aria-label="Share on Github" draggable="false">
-  <i class="fab fa-github fa-lg"></i></a>
-  
-  <a class="p-1 mr-1 rounded-full text-white share-button" target="_blank" rel="noopener" href="https://www.discord.com/channels/@me?url={{ site.url | uri_escape | append: page.url }}&description={{ page.title }}" aria-label="Share on Discord" draggable="false">
-    <i class="fab fa-discord fa-lg"></i>
-  </a>
+  <a class="p-1 mr-1 rounded-full text-white share-button"
+   target="_blank" rel="noopener"
+   href="https://github.com/rominicky/comentarios-cabeza-de-vaca"
+   aria-label="Ver en GitHub">
+  <i class="fab fa-github fa-lg"></i>
+</a>
+<a href="https://discord.com/channels/@me" target="_blank" rel="noopener noreferrer" class="p-1 mr-1 rounded-full text-white share-button" onclick="copyLink()" aria-label="Copy Link">
+    <i class="fab fa-discord fa-lg"></i></a>
 </div>
-
+<script>
+  function copyLink() {
+    const link = window.location.href;
+    navigator.clipboard.writeText(link).then(() => {
+      alert('Enlace copiado. Pegalo en Discord para compartirlo.');
+    });
+  }
+</script>
