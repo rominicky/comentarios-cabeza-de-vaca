@@ -9,21 +9,7 @@
   /* border-bottom: 2px dotted #841212; */
 }
 
-/* [data-balloon][data-balloon-pos="right"]:after {
-  left: 100%;
-  margin-left: 11px;
-  top: 50%;
-  transform: translate(-10px, -50%);
-  transform-origin: center left;
-}
-[data-balloon][data-balloon-pos="left"]:after {
-  margin-right: 11px;
-  right: 100%;
-  top: 50%;
-  transform: translate(10px, -50%);
-  transform-origin: center right;
-}
- */
+
 button[data-balloon]{overflow:visible}
 [data-balloon]{position:relative;}
 [data-balloon]:after{filter:alpha(opacity=0);-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";

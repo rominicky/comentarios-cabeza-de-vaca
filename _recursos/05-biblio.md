@@ -41,6 +41,9 @@ icon: book
 
 * Sorg, G. M. (2014). La trama secreta de la deposición del gobernador Álvar Núñez Cabeza de Vaca. Revista de Historia de Jerez, 16-17. [https://www.cehj.es/app/download/5885916/51-65.pdf](https://www.cehj.es/app/download/5885916/51-65.pdf)
 
+* Teglia, V. (2020, marzo). La ida y la vuelta: Naufragios y Comentarios de Álvar Núñez Cabeza de Vaca. XXXII Jornadas de Investigación del Instituto de Literatura Hispanoamericana Facultad de Filosofía y Letras - UBA. [https://ilh.institutos.filo.uba.ar/sites/ilh.institutos.filo.uba.ar/files/Teglia%2C%20Vanina_1.pdf](https://ilh.institutos.filo.uba.ar/sites/ilh.institutos.filo.uba.ar/files/Teglia%2C%20Vanina_1.pdf)
+
+
 ### Libros
 
 * Balbuena, M. L. (1993). Tejedoras de Malargüe: Artesanía textil de Cuyo. Editorial Universitaria, Universidad de Misiones.
