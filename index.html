@@ -3,7 +3,7 @@ layout: home
 ---
 
 
-<div class="container mx-auto px-2">
+<div class="container mx-auto px-4">
 <div class="mb-2 prose">
   <div class="img-scroll-container">
     <img src="{{ site.baseurl }}/assets/img/portada.jpg" alt="Escudo de armas de Álvar Núñez" class="img-scroll">
@@ -16,24 +16,57 @@ layout: home
         {% include sharing.html %}
       </div>
     <h3> </h3>
-    <p>
-      La presente edición digital se basa en la edición alojada en 
-      <a href="https://collections.lib.utexas.edu/" target="_blank">The University of Texas at Austin</a>, dentro de la colección 
+    <p>Para este proyecto utilizamos la obra de Cabeza de Vaca conservada y digitalizada en 
+      <a href="https://collections.lib.utexas.edu/" target="_blank">The University of Texas at Austin</a>, como parte de la colección 
       <a href="https://collections.lib.utexas.edu/?f%5Bmods_relatedItem_titleInfo_title_source_t%5D%5B%5D=Benson+Rare+Book+Collection" target="_blank">Benson Rare Book Collection</a> 
-      de LLILAS Benson Latin American Studies and Collections.</p> <p>Este proyecto no busca abarcar la totalidad de capítulos de la obra, sino ofrecer una lectura enfocada en determinados episodios que reflejan la experiencia de Álvar Núñez Cabeza de Vaca como figura política en la temprana conquista rioplatense.</p> 
-      <p>
-      Los recursos, edición digital, visualizaciones e itinerario, fueron organizados de manera que la navegación permita apreciar estos momentos clave de forma accesible y estructurada. La lectura clásica se enriquece con un 
-      <a href="{{ site.baseurl }}/itinerario" target="_blank">mapa interactivo</a> del trayecto hacia las tierras rioplatenses, una 
-      <a href="{{ site.baseurl }}/indice" target="_blank">edición digital</a> que permite recorrer capítulos significativos, potenciada con anotaciones sobre personajes, eventos y georreferenciación de lugares destacados. 
-    </p>
+      de LLILAS Benson Latin American Studies and Collections. La edición digital que aquí presentamos propone una lectura selectiva y crítica, enfocada en episodios clave que revelan la experiencia de Álvar Núñez Cabeza de Vaca como figura política en los inicios de la conquista de los territorios rioplatense y paraguayos.</p>
+      <p>Además, enriquecimos la lectura con recursos de análisis cuantitativo, cualitativo e histórico, incluyendo visualizaciones y un mapa interactivo del relato. Cada uno de estos componentes fue organizado para facilitar la navegación, y que permita apreciar los momentos esenciales del texto de forma accesible y estructurada.</p>
+      <p> En síntesis, <strong>Comentarios</strong> propone una lectura renovada que integra herramientas de las Humanidades Digitales para explorar la dimensión histórica, emocional, léxica y temática del relato. Esto permite observar no solo la narración de los hechos, sino también cómo el texto funcionó como dispositivo retórico en el conflicto político y moral entre el adelantado y su adversario, Domingo Martínez de Irala.</p>
 
-    <p>
-      En la sección de <a href="{{ site.baseurl }}/recursos" target="_blank">recursos</a> se puede acceder a diversos análisis cualitativos y cuantitativos, incluyendo una notebook con visualizaciones de análisis textual, descarga de la edición en varios formatos y un análisis histórico que integra los resultados obtenidos mediante distintas herramientas computacionales.
-    </p>
+<div class="carousel-container">
+  <div class="carousel-track">
+    <!-- Card 2 --><div class="card">
+    <div class="w-64 flex-shrink-0 bg-white rounded-xl shadow p-4">
+      <h3 class="text-lg font-semibold mb-1">💻 Edición Anotada</h3>
+      <h5 class="text-sm ">Capítulos con anotaciones y referencias críticas.</p>
+      <a href="{{ site.baseurl }}/indice" class="text-indigo-600 text-sm font-medium hover:underline">Leer capítulos →</a>
+    </div></div>
+<!-- Card 4 -->   
+    <div class="card">
+    <div class="w-64 flex-shrink-0 bg-white rounded-xl shadow p-4">
+      <h3 class="text-lg font-semibold mb-1">📜 Análisis histórico</h3>
+      <h5 class="text-sm ">Enfoque histórico e interpretación digital.</p>
+      <a href="{{ site.baseurl }}/analisis" class="text-indigo-600 text-sm font-medium hover:underline">Leer más →</a>
+    </div>
+</div>
+<!-- Card 1 -->
+     <div class="card">
+    <div class="w-64 flex-shrink-0 bg-white rounded-xl shadow p-4">
+      <h3 class="text-lg font-semibold mb-1"> 🗺️ Itinerario</h3>
+      <h5 class="text-sm ">Mapa interactivo del recorrido de Cabeza de Vaca.</p>
+      <a href="{{ site.baseurl }}/itinerario" class="text-indigo-600 text-sm font-medium hover:underline">Ver el mapa →</a>
+    </div></div>
 
-    <p>
-      En síntesis, esta edición propone una lectura renovada de <strong>Comentarios</strong>, integrando herramientas de las humanidades digitales para explorar la dimensión histórica, emocional, léxica y temática del relato. Esto permite observar no solo la narración de los hechos, sino también cómo el texto funcionó como dispositivo retórico en el conflicto político y moral entre el adelantado y su adversario, Irala.
-    </p>
+    <!-- Card 3 -->
+    <div class="card">
+    <div class="w-64 flex-shrink-0 bg-white rounded-xl shadow p-4">
+      <h3 class="text-lg font-semibold mb-1">🗃️ Recursos</h3>
+      <h5 class="text-sm ">Visualizaciones, notebooks y objetos de descarga.</p>
+      <a href="{{ site.baseurl }}/recursos" class="text-indigo-600 text-sm font-medium hover:underline">Explorar recursos →</a>
+    </div></div>
+
+<!-- Card 5 -->   
+    <div class="card">
+    <div class="w-64 flex-shrink-0 bg-white rounded-xl shadow p-4">
+      <h3 class="text-lg font-semibold mb-1">📚 Biblioteca Digital</h3>
+      <h5 class="text-sm ">Acceso a la Bibloteca Digital del HDLAB CONICET.</p>
+      <a href="https://hdlab.space/biblioteca-digital/" class="text-indigo-600 text-sm font-medium hover:underline">Leer más →</a>
+    </div>
+</div>
+  </div>
+</div>
+
+</div></div>
       <h4>Citar esta edición como:</h4>
       <a href="https://doi.org/10.5281/zenodo.15859071"><img src="https://zenodo.org/badge/1005883457.svg" alt="DOI"></a>
 <br/>

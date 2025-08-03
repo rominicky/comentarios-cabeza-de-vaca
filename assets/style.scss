@@ -90,6 +90,41 @@ a.indice-link:hover {
   text-decoration: underline;
 }
 
+.carousel-container {
+  overflow-x: auto;
+  padding: 1rem;
+}
+
+.carousel-track {
+  display: flex;
+  gap: 1rem;
+  width: max-content; // permite scroll horizontal si el contenido se pasa
+}
+
+.card {
+  flex-shrink: 0;
+  width: 16rem;
+  background-color: #fff;
+  border-radius: 1rem;
+  padding: 1.5rem;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease;
+
+  &:hover {
+    transform: scale(1.02);
+  }
+  p {
+    font-size: 0.6875rem; // equivalente a ~11px
+    font-weight: normal;
+    color: #333;
+  }
+
+  h5 {
+    font-weight: normal;
+    font-size: 1rem; // opcional: podés ajustar esto también
+    margin-bottom: 0.5rem; // para espacio si querés
+  }
+}
 
 /* Responsive para móviles */
 @media (max-width: 768px) {
