@@ -1,6 +1,19 @@
-<div class="mt-4 mb-3 clearfix header-text">
-  <h1 class="h0 inline-block py-2 mt-4 header-title">{{ page.title }}</h1>
+<!-- <div class="mt-4 mb-3 clearfix header-text">
+  <h2 class="h0 inline-block py-2 mt-4 header-title">{{ page.title }}</h2>
   <div class="clearfix mb-1 py-1">
     <div class="col-1 sm-width-full border-top-thick">
   </div>
+</div>
+ -->
+<div class="mt-4 mb-3 clearfix header-text">
+  {% if page.url contains "analisis" %}
+    <!-- <h4 class="h1 inline-block  header-title">
+      Un litigio de plumas y espadas. El conflicto entre Cabeza de Vaca e Irala analizado desde herramientas digitales
+    </h4> -->
+  {% else %}
+    <h2 class="h0 inline-block py-2 mt-4 header-title">{{ page.title }}</h2>
+  
+  <div class="clearfix mb-1 py-1">
+    <div class="col-1 sm-width-full border-top-thick"></div>
+  </div>{% endif %}
 </div>

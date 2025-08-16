@@ -5,7 +5,7 @@
 
 Desarrollado y adaptado con el patrocinio de [LLILAS Benson](https://sites.utexas.edu/llilasbensonds/funding/digital-scholarship-fellowships/).
 
-Este trabajo se inscribe en una línea de investigación orientada a la historia digital y las humanidades digitales, con especial interés en las formas contemporáneas de lectura y representación del pasado. Se exploran aquí las posibilidades que ofrecen las narrativas digitales, los mapas interactivos y la estructuración de datos históricos en formatos digitales (como XML-TEI) para enriquecer la interpretación de fuentes primarias, habilitando nuevass formas de análisis histórico y acceso público al conocimiento.
+Este trabajo se inscribe en una línea de investigación orientada a la historia digital y las humanidades digitales, con especial interés en las formas contemporáneas de lectura y representación del pasado. Se exploran aquí las posibilidades que ofrecen las narrativas digitales, los mapas interactivos y la estructuración de datos históricos en formatos digitales (como XML-TEI) para enriquecer la interpretación de fuentes primarias, habilitando nuevas formas de análisis histórico y acceso público al conocimiento.
 
 En este repositorio se presenta una visualización interactiva de la obra [*Comentarios* de Álvar Núñez Cabeza de Vaca](https://collections.lib.utexas.edu/catalog/utblac:be9bfa47-9704-483e-a461-9588875230b8), conservada en la colección *Benson Rare Book Collection* de LLILAS Benson. El objetivo es enriquecer la experiencia de lectura de esta obra clave para comprender las dificultades, tensiones y disputas políticas de los primeros años de la conquista en América del Sur.
 
