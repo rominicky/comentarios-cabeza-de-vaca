@@ -14,8 +14,17 @@ code {
     font-size: $body-font-size;
     padding: 1px 4px;
 }
-
-
+// Inline code
+cite {
+  display: block;
+  font-style: italic;
+  font-size: 0.9rem;
+  color: $color-body-text;
+  text-align: right;
+  margin: 1em 0 1em auto;
+  max-width: 60%;
+}
+// Prose styles for markdown content
 .prose {
 
   p, ol, ul {
