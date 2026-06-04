@@ -1,4 +1,3 @@
 User-agent: *
-Disallow: /admin/
 Allow: /
 Sitemap: https://rominicky.github.io/comentarios-cabeza-de-vaca/sitemap.xml

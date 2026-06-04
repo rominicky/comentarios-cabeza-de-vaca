@@ -54,3 +54,8 @@ collections:
       output: true
     txtxpagina:
       output: true
+
+# robots.txt
+webrick:
+  headers:
+    X-Robots-Tag: index, follow
