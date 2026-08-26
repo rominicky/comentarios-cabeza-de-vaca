@@ -9,7 +9,7 @@ icon: bar-chart
 
 En esta sección encuentras una exploración del contenido de _Comentarios_ con [Voyant Tools](https://voyant-tools.org/), herramienta de lectura distante y análisis estadístico de textos digitales.
 
-Las siguientes secciones presentan cuadros interactivos. En cada panel, deslice el cursor sobre la esquina derecha de la barra superior para mostrar las opciones. El ícono <i class="fa-solid fa-question" style="color:#157fcc;"></i> permite acceder a una explicación de la herramienta usada en cada panel. El ícono <i class="fa-solid fa-toggle-on" style="color:#157fcc;"></i> permite modificar las opciones de la herramienta.
+Las siguientes secciones presentan cuadros interactivos, en cada panel, desliza el cursor sobre la esquina derecha de la barra superior para mostrar las opciones. El ícono <i class="fa-solid fa-question" style="color:#157fcc;"></i> permite acceder a una explicación de la herramienta usada en cada uno. El ícono <i class="fa-solid fa-toggle-on" style="color:#157fcc;"></i> permite modificar las opciones de la herramienta.
 
 ## Nube de palabras
 
