@@ -27,7 +27,7 @@ Este fragmento muestra una visualización con la representación de las frecuenc
 
 ## Contextos
 
-En este cuadro se presenta el *contexto enunciativo* de las palabras más frecuentes del texto. Se puede modificar por frecuencia ascendente o descendente.
+En este cuadro se presenta el _contexto enunciativo_ de las palabras más frecuentes del texto. Se puede modificar por frecuencia ascendente o descendente.
 
 <iframe class="py-3" src='https://service.sadilar.org/voyant/tool/Contexts/?stopList=keywords-b1dda78594e7ff15920f93d49f0e4831&query=gente*&query=gobernador*&query=india*&query=indio*&query=r%C3%AD*&query=tierr*&corpus=5f9462d0861c8ebc03958fb07ced6fc6'></iframe>
 
